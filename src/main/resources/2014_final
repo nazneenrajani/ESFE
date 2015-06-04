@@ -1,0 +1,2173 @@
+SF14_ENG_049	per:cities_of_residence	stackingms	*	Seattle	*	1.0
+SF14_ENG_037	per:date_of_death	stackingms	*	2009-09-13	*	1.0
+SF14_ENG_012	per:countries_of_residence	stackingms	*	U.S.	*	1.0
+SF14_ENG_033	per:charges	stackingms	*	corruption	*	1.0
+SF14_ENG_089	org:founded_by	stackingms	*	Bill Martin	*	1.0
+SF14_ENG_026	per:employee_or_member_of	stackingms	*	NYU	*	1.0
+SF14_ENG_012	per:origin	stackingms	*	Cuba	*	1.0
+SF14_ENG_086	org:date_founded	stackingms	*	1944-XX-XX	*	1.0
+SF14_ENG_075	org:alternate_names	stackingms	*	NRA	*	1.0
+SF14_ENG_012	per:title	stackingms	*	contractor	*	1.0
+SF14_ENG_009	per:age	stackingms	*	53	*	1.0
+SF14_ENG_025	per:age	stackingms	*	45	*	1.0
+SF14_ENG_018	per:charges	stackingms	*	murder	*	1.0
+SF14_ENG_012	per:title	stackingms	*	subcontractor	*	1.0
+SF14_ENG_003	per:title	stackingms	*	investigator	*	1.0
+SF14_ENG_061	org:top_members_employees	stackingms	*	Eric Sieracki	*	1.0
+SF14_ENG_042	per:title	stackingms	*	businessman	*	1.0
+SF14_ENG_013	per:title	stackingms	*	employee	*	1.0
+SF14_ENG_095	org:top_members_employees	stackingms	*	David Achey	*	1.0
+SF14_ENG_072	org:top_members_employees	stackingms	*	Whitney Young	*	1.0
+SF14_ENG_049	per:title	stackingms	*	lawyer	*	1.0
+SF14_ENG_037	per:employee_or_member_of	stackingms	*	NASA	*	1.0
+SF14_ENG_080	org:top_members_employees	stackingms	*	Josef Helfenstein	*	1.0
+SF14_ENG_033	per:employee_or_member_of	stackingms	*	Chongqing	*	1.0
+SF14_ENG_035	per:charges	stackingms	*	corruption	*	1.0
+SF14_ENG_035	per:spouse	stackingms	*	Zhou Xiaoya	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Zhou Xi'an	*	1.0
+SF14_ENG_013	per:siblings	stackingms	*	Hadeel Qassim Hamza	*	1.0
+SF14_ENG_071	org:city_of_headquarters	stackingms	*	New York	*	1.0
+SF14_ENG_017	per:siblings	stackingms	*	Ivan Henderson	*	1.0
+SF14_ENG_013	per:statesorprovinces_of_residence	stackingms	*	Texas	*	1.0
+SF14_ENG_046	per:title	stackingms	*	partner	*	1.0
+SF14_ENG_050	per:parents	stackingms	*	John Sander	*	1.0
+SF14_ENG_098	org:alternate_names	stackingms	*	NDA	*	1.0
+SF14_ENG_089	org:city_of_headquarters	stackingms	*	Chicago	*	1.0
+SF14_ENG_039	per:age	stackingms	*	56	*	1.0
+SF14_ENG_015	per:age	stackingms	*	48	*	1.0
+SF14_ENG_016	per:stateorprovince_of_death	stackingms	*	New York	*	1.0
+SF14_ENG_025	per:countries_of_residence	stackingms	*	Pakistan	*	1.0
+SF14_ENG_086	org:top_members_employees	stackingms	*	Jacqueline Johnson Pata	*	1.0
+SF14_ENG_033	per:title	stackingms	*	director	*	1.0
+SF14_ENG_091	org:founded_by	stackingms	*	Nell Minow	*	1.0
+SF14_ENG_050	per:charges	stackingms	*	kidnapping	*	1.0
+SF14_ENG_040	per:parents	stackingms	*	William Kunstler	*	1.0
+SF14_ENG_033	per:title	stackingms	*	official	*	1.0
+SF14_ENG_097	org:alternate_names	stackingms	*	NEA	*	1.0
+SF14_ENG_075	org:top_members_employees	stackingms	*	Steven C. Anderson	*	1.0
+SF14_ENG_019	per:date_of_birth	stackingms	*	1925-12-01	*	1.0
+SF14_ENG_072	org:top_members_employees	stackingms	*	Benjamin Jealous	*	1.0
+SF14_ENG_019	per:title	stackingms	*	professor of finance	*	1.0
+SF14_ENG_076	org:city_of_headquarters	stackingms	*	Boston	*	1.0
+SF14_ENG_049	per:statesorprovinces_of_residence	stackingms	*	Washington	*	1.0
+SF14_ENG_011	per:title	stackingms	*	president	*	1.0
+SF14_ENG_029	per:schools_attended	stackingms	*	Tufts University School of Dental Medicine	*	1.0
+SF14_ENG_097	org:country_of_headquarters	stackingms	*	China	*	1.0
+SF14_ENG_072	org:alternate_names	stackingms	*	NUL	*	1.0
+SF14_ENG_049	per:other_family	stackingms	*	Janet Huff	*	1.0
+SF14_ENG_016	per:cities_of_residence	stackingms	*	Russellville	*	1.0
+SF14_ENG_045	per:title	stackingms	*	engineer	*	1.0
+SF14_ENG_025	per:charges	stackingms	*	blasphemy	*	1.0
+SF14_ENG_016	per:title	stackingms	*	painter	*	1.0
+SF14_ENG_034	per:age	stackingms	*	46	*	1.0
+SF14_ENG_086	org:stateorprovince_of_headquarters	stackingms	*	Washington	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Qian Zhimin	*	1.0
+SF14_ENG_030	per:children	stackingms	*	Shelby LaFreniere	*	1.0
+SF14_ENG_040	per:age	stackingms	*	33	*	1.0
+SF14_ENG_095	org:top_members_employees	stackingms	*	John Armstrong	*	1.0
+SF14_ENG_025	per:statesorprovinces_of_residence	stackingms	*	Punjab	*	1.0
+SF14_ENG_096	org:date_founded	stackingms	*	1996-XX-XX	*	1.0
+SF14_ENG_012	per:city_of_birth	stackingms	*	Potomac	*	1.0
+SF14_ENG_025	per:title	stackingms	*	worker	*	1.0
+SF14_ENG_044	per:origin	stackingms	*	England	*	1.0
+SF14_ENG_080	org:top_members_employees	stackingms	*	Bernice Berend Rose	*	1.0
+SF14_ENG_084	org:date_founded	stackingms	*	1938-XX-XX	*	1.0
+SF14_ENG_099	org:top_members_employees	stackingms	*	Jeffrey Addicott	*	1.0
+SF14_ENG_043	per:employee_or_member_of	stackingms	*	Cosa Nostra	*	1.0
+SF14_ENG_091	org:top_members_employees	stackingms	*	Nell Minow	*	1.0
+SF14_ENG_050	per:title	stackingms	*	spokeswoman	*	1.0
+SF14_ENG_091	org:city_of_headquarters	stackingms	*	Portland	*	1.0
+SF14_ENG_051	org:country_of_headquarters	stackingms	*	Indonesia	*	1.0
+SF14_ENG_028	per:spouse	stackingms	*	Roger Spooner	*	1.0
+SF14_ENG_038	per:cities_of_residence	stackingms	*	Urbana	*	1.0
+SF14_ENG_019	per:age	stackingms	*	55	*	1.0
+SF14_ENG_080	org:city_of_headquarters	stackingms	*	Houston	*	1.0
+SF14_ENG_026	per:title	stackingms	*	journalist	*	1.0
+SF14_ENG_019	per:country_of_birth	stackingms	*	Canada	*	1.0
+SF14_ENG_002	per:alternate_names	stackingms	*	Wayne A Holst	*	1.0
+SF14_ENG_022	per:parents	stackingms	*	Abelard	*	1.0
+SF14_ENG_024	per:alternate_names	stackingms	*	Ruben	*	1.0
+SF14_ENG_036	per:employee_or_member_of	stackingms	*	United Negro College Fund	*	1.0
+SF14_ENG_050	per:age	stackingms	*	40	*	1.0
+SF14_ENG_079	org:date_founded	stackingms	*	1921-XX-XX	*	1.0
+SF14_ENG_016	per:age	stackingms	*	61	*	1.0
+SF14_ENG_092	org:top_members_employees	stackingms	*	Gregory Duffell	*	1.0
+SF14_ENG_015	per:title	stackingms	*	programmer-analyst	*	1.0
+SF14_ENG_026	per:title	stackingms	*	author	*	1.0
+SF14_ENG_049	per:cities_of_residence	stackingms	*	Perugia	*	1.0
+SF14_ENG_068	org:alternate_names	stackingms	*	CCF	*	1.0
+SF14_ENG_075	org:top_members_employees	stackingms	*	Herman Cain	*	1.0
+SF14_ENG_022	per:alternate_names	stackingms	*	Ponce Kiah Marchelle Heloise Cruse Evans	*	1.0
+SF14_ENG_021	per:title	stackingms	*	assistant	*	1.0
+SF14_ENG_066	org:city_of_headquarters	stackingms	*	Guatemala City	*	1.0
+SF14_ENG_019	per:origin	stackingms	*	Indian	*	1.0
+SF14_ENG_015	per:cause_of_death	stackingms	*	suicide	*	1.0
+SF14_ENG_035	per:title	stackingms	*	assistant	*	1.0
+SF14_ENG_036	per:employee_or_member_of	stackingms	*	United Negro	*	1.0
+SF14_ENG_066	org:alternate_names	stackingms	*	PARLACEN	*	1.0
+SF14_ENG_019	per:title	stackingms	*	Dr.	*	1.0
+SF14_ENG_045	per:siblings	stackingms	*	Francesco	*	1.0
+SF14_ENG_071	org:alternate_names	stackingms	*	DTH	*	1.0
+SF14_ENG_035	per:spouse	stackingms	*	Wen	*	1.0
+SF14_ENG_050	per:title	stackingms	*	organizer	*	1.0
+SF14_ENG_032	per:age	stackingms	*	26	*	1.0
+SF14_ENG_022	per:date_of_death	stackingms	*	1977-XX-XX	*	1.0
+SF14_ENG_086	org:top_members_employees	stackingms	*	W. Ron Allen	*	1.0
+SF14_ENG_053	org:city_of_headquarters	stackingms	*	Fairfield	*	1.0
+SF14_ENG_011	per:religion	stackingms	*	Jewish	*	1.0
+SF14_ENG_020	per:employee_or_member_of	stackingms	*	American Indian Movement	*	1.0
+SF14_ENG_050	per:title	stackingms	*	director	*	1.0
+SF14_ENG_016	per:origin	stackingms	*	American	*	1.0
+SF14_ENG_045	per:employee_or_member_of	stackingms	*	Red Cross	*	1.0
+SF14_ENG_047	per:cause_of_death	stackingms	*	suicide	*	1.0
+SF14_ENG_013	per:employee_or_member_of	stackingms	*	KBR	*	1.0
+SF14_ENG_086	org:city_of_headquarters	stackingms	*	Washington	*	1.0
+SF14_ENG_061	org:top_members_employees	stackingms	*	David Sambol	*	1.0
+SF14_ENG_088	org:country_of_headquarters	stackingms	*	France	*	1.0
+SF14_ENG_017	per:parents	stackingms	*	Charlesetta Dunlap	*	1.0
+SF14_ENG_008	per:origin	stackingms	*	American	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Huang Li	*	1.0
+SF14_ENG_046	per:age	stackingms	*	25	*	1.0
+SF14_ENG_041	per:employee_or_member_of	stackingms	*	United Nations	*	1.0
+SF14_ENG_022	per:statesorprovinces_of_residence	stackingms	*	WASHINGTON	*	1.0
+SF14_ENG_019	per:title	stackingms	*	professor	*	1.0
+SF14_ENG_019	per:title	stackingms	*	director	*	1.0
+SF14_ENG_072	org:top_members_employees	stackingms	*	Marc Morial	*	1.0
+SF14_ENG_024	per:age	stackingms	*	9	*	1.0
+SF14_ENG_039	per:title	stackingms	*	founder	*	1.0
+SF14_ENG_019	per:employee_or_member_of	stackingms	*	AIM	*	1.0
+SF14_ENG_016	per:statesorprovinces_of_residence	stackingms	*	Arkansas	*	1.0
+SF14_ENG_025	per:religion	stackingms	*	Christian	*	1.0
+SF14_ENG_033	per:cities_of_residence	stackingms	*	Chongqing	*	1.0
+SF14_ENG_015	per:religion	stackingms	*	Christian	*	1.0
+SF14_ENG_084	org:top_members_employees	stackingms	*	Sam Greenberg	*	1.0
+SF14_ENG_001	per:cities_of_residence	stackingms	*	Lahore	*	1.0
+SF14_ENG_078	org:parents	stackingms	*	AIG	*	1.0
+SF14_ENG_012	per:cities_of_residence	stackingms	*	Potomac	*	1.0
+SF14_ENG_003	per:employee_or_member_of	stackingms	*	Citizen Investigation Team	*	1.0
+SF14_ENG_082	org:date_founded	stackingms	*	2009-XX-XX	*	1.0
+SF14_ENG_027	per:employee_or_member_of	stackingms	*	Parliament	*	1.0
+SF14_ENG_033	per:charges	stackingms	*	rape	*	1.0
+SF14_ENG_023	per:countries_of_residence	stackingms	*	Finland	*	1.0
+SF14_ENG_054	org:alternate_names	stackingms	*	PDA	*	1.0
+SF14_ENG_080	org:founded_by	stackingms	*	Dominique de Menil	*	1.0
+SF14_ENG_035	per:title	stackingms	*	Professor	*	1.0
+SF14_ENG_021	per:origin	stackingms	*	Finland	*	1.0
+SF14_ENG_033	per:title	stackingms	*	legislator	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Gu Jun	*	1.0
+SF14_ENG_024	per:siblings	stackingms	*	Enzo	*	1.0
+SF14_ENG_037	per:title	stackingms	*	pilot	*	1.0
+SF14_ENG_061	org:parents	stackingms	*	Bank of America	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Wang Siqiang	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Sun Qin	*	1.0
+SF14_ENG_038	per:parents	stackingms	*	Joan Lange	*	1.0
+SF14_ENG_041	per:title	stackingms	*	diplomat	*	1.0
+SF14_ENG_031	per:title	stackingms	*	director	*	1.0
+SF14_ENG_091	org:top_members_employees	stackingms	*	Hodgson	*	1.0
+SF14_ENG_033	per:title	stackingms	*	deputy director	*	1.0
+SF14_ENG_060	org:alternate_names	stackingms	*	UASR	*	1.0
+SF14_ENG_050	per:statesorprovinces_of_residence	stackingms	*	Idaho	*	1.0
+SF14_ENG_001	per:countries_of_residence	stackingms	*	Pakistan	*	1.0
+SF14_ENG_082	org:alternate_names	stackingms	*	Pluribus	*	1.0
+SF14_ENG_049	per:origin	stackingms	*	American	*	1.0
+SF14_ENG_048	per:children	stackingms	*	Meredith Kercher	*	1.0
+SF14_ENG_019	per:title	stackingms	*	Administrator	*	1.0
+SF14_ENG_014	per:title	stackingms	*	regional director	*	1.0
+SF14_ENG_037	per:age	stackingms	*	21	*	1.0
+SF14_ENG_099	org:top_members_employees	stackingms	*	Ronald H. Covey Jr.	*	1.0
+SF14_ENG_006	per:title	stackingms	*	journalist	*	1.0
+SF14_ENG_019	per:charges	stackingms	*	felony	*	1.0
+SF14_ENG_018	per:spouse	stackingms	*	Cleo Gates	*	1.0
+SF14_ENG_001	per:origin	stackingms	*	Pakistani	*	1.0
+SF14_ENG_042	per:title	stackingms	*	head	*	1.0
+SF14_ENG_069	org:date_founded	stackingms	*	1995-XX-XX	*	1.0
+SF14_ENG_033	per:title	stackingms	*	delegate	*	1.0
+SF14_ENG_044	per:spouse	stackingms	*	Pat	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Zhang Guobao	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Shi Lishan	*	1.0
+SF14_ENG_012	per:title	stackingms	*	spy	*	1.0
+SF14_ENG_071	org:founded_by	stackingms	*	Arthur Mitchell	*	1.0
+SF14_ENG_038	per:date_of_birth	stackingms	*	1957-07-23	*	1.0
+SF14_ENG_022	per:title	stackingms	*	columnist	*	1.0
+SF14_ENG_091	org:stateorprovince_of_headquarters	stackingms	*	Maine	*	1.0
+SF14_ENG_079	org:top_members_employees	stackingms	*	Alberto Alessi	*	1.0
+SF14_ENG_043	per:title	stackingms	*	boss	*	1.0
+SF14_ENG_038	per:statesorprovinces_of_residence	stackingms	*	Illinois	*	1.0
+SF14_ENG_016	per:cities_of_residence	stackingms	*	Provincetown	*	1.0
+SF14_ENG_075	org:top_members_employees	stackingms	*	Jonathan Martin	*	1.0
+SF14_ENG_034	per:title	stackingms	*	ringleader	*	1.0
+SF14_ENG_055	org:top_members_employees	stackingms	*	Marjorie Hill	*	1.0
+SF14_ENG_010	per:cities_of_residence	stackingms	*	Stamford	*	1.0
+SF14_ENG_020	per:spouse	stackingms	*	Cleo Gates	*	1.0
+SF14_ENG_085	org:top_members_employees	stackingms	*	Leng Jiesong	*	1.0
+SF14_ENG_036	per:title	stackingms	*	Dr.	*	1.0
+SF14_ENG_075	org:top_members_employees	stackingms	*	Dawn Sweeney	*	1.0
+SF14_ENG_013	per:origin	stackingms	*	American	*	1.0
+SF14_ENG_001	per:title	stackingms	*	journalist	*	1.0
+SF14_ENG_005	per:title	stackingms	*	producer	*	1.0
+SF14_ENG_038	per:siblings	stackingms	*	Adam Lange	*	1.0
+SF14_ENG_020	per:title	stackingms	*	spy	*	1.0
+SF14_ENG_068	org:country_of_headquarters	stackingms	*	China	*	1.0
+SF14_ENG_005	per:cities_of_residence	stackingms	*	Oneonta	*	1.0
+SF14_ENG_023	per:origin	stackingms	*	Russian	*	1.0
+SF14_ENG_024	per:origin	stackingms	*	Dutch	*	1.0
+SF14_ENG_005	per:age	stackingms	*	22	*	1.0
+SF14_ENG_031	per:title	stackingms	*	designer	*	1.0
+SF14_ENG_019	per:cities_of_residence	stackingms	*	Vancouver	*	1.0
+SF14_ENG_012	per:employee_or_member_of	stackingms	*	State Department	*	1.0
+SF14_ENG_023	per:title	stackingms	*	amateur wrestler	*	1.0
+SF14_ENG_081	org:top_members_employees	stackingms	*	Phillip Cooper	*	1.0
+SF14_ENG_021	per:title	stackingms	*	defender	*	1.0
+SF14_ENG_019	per:origin	stackingms	*	Canadian	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Wang Qishan	*	1.0
+SF14_ENG_090	org:founded_by	stackingms	*	Jane Rosenthal	*	1.0
+SF14_ENG_049	per:charges	stackingms	*	sexual assault	*	1.0
+SF14_ENG_010	per:title	stackingms	*	owner	*	1.0
+SF14_ENG_050	per:country_of_birth	stackingms	*	Haiti	*	1.0
+SF14_ENG_004	per:charges	stackingms	*	murder	*	1.0
+SF14_ENG_066	org:date_founded	stackingms	*	1991-XX-XX	*	1.0
+SF14_ENG_014	per:title	stackingms	*	Mayor	*	1.0
+SF14_ENG_003	per:title	stackingms	*	founder	*	1.0
+SF14_ENG_040	per:schools_attended	stackingms	*	Columbia Law School	*	1.0
+SF14_ENG_050	per:parents	stackingms	*	Mel Coulter	*	1.0
+SF14_ENG_011	per:employee_or_member_of	stackingms	*	Havana	*	1.0
+SF14_ENG_001	per:title	stackingms	*	author	*	1.0
+SF14_ENG_024	per:cities_of_residence	stackingms	*	Tilburg	*	1.0
+SF14_ENG_034	per:cities_of_residence	stackingms	*	Chongqing	*	1.0
+SF14_ENG_096	org:alternate_names	stackingms	*	Allied Democratic Forces	*	1.0
+SF14_ENG_023	per:origin	stackingms	*	Russia	*	1.0
+SF14_ENG_045	per:age	stackingms	*	62	*	1.0
+SF14_ENG_045	per:origin	stackingms	*	Italian	*	1.0
+SF14_ENG_007	per:other_family	stackingms	*	Michael Chertoff	*	1.0
+SF14_ENG_016	per:children	stackingms	*	Matthew	*	1.0
+SF14_ENG_037	per:title	stackingms	*	fighter pilot	*	1.0
+SF14_ENG_049	per:parents	stackingms	*	Edda Mellas	*	1.0
+SF14_ENG_031	per:title	stackingms	*	founder	*	1.0
+SF14_ENG_087	org:alternate_names	stackingms	*	NTSO	*	1.0
+SF14_ENG_016	per:title	stackingms	*	artist	*	1.0
+SF14_ENG_041	per:age	stackingms	*	60	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Wu Yin	*	1.0
+SF14_ENG_035	per:title	stackingms	*	officer	*	1.0
+SF14_ENG_046	per:title	stackingms	*	model	*	1.0
+SF14_ENG_015	per:title	stackingms	*	systems analyst	*	1.0
+SF14_ENG_002	per:title	stackingms	*	writer	*	1.0
+SF14_ENG_032	per:parents	stackingms	*	Claudie	*	1.0
+SF14_ENG_004	per:city_of_death	stackingms	*	Sacramento	*	1.0
+SF14_ENG_013	per:countries_of_residence	stackingms	*	Iraq	*	1.0
+SF14_ENG_021	per:title	stackingms	*	player	*	1.0
+SF14_ENG_008	per:title	stackingms	*	teacher	*	1.0
+SF14_ENG_031	per:title	stackingms	*	author	*	1.0
+SF14_ENG_040	per:date_of_death	stackingms	*	1995-XX-XX	*	1.0
+SF14_ENG_046	per:parents	stackingms	*	Bruno	*	1.0
+SF14_ENG_041	per:title	stackingms	*	ambassador	*	1.0
+SF14_ENG_025	per:spouse	stackingms	*	Ashiq Masih	*	1.0
+SF14_ENG_020	per:title	stackingms	*	activist	*	1.0
+SF14_ENG_038	per:title	stackingms	*	physicist	*	1.0
+SF14_ENG_042	per:title	stackingms	*	lieutenant	*	1.0
+SF14_ENG_019	per:spouse	stackingms	*	Cleo Gates	*	1.0
+SF14_ENG_061	org:founded_by	stackingms	*	David Loeb	*	1.0
+SF14_ENG_008	per:religion	stackingms	*	Christian	*	1.0
+SF14_ENG_066	org:members	stackingms	*	Panama	*	1.0
+SF14_ENG_022	per:title	stackingms	*	author	*	1.0
+SF14_ENG_062	org:date_founded	stackingms	*	2000-XX-XX	*	1.0
+SF14_ENG_056	org:date_founded	stackingms	*	1995-XX-XX	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Wu Guihui	*	1.0
+SF14_ENG_045	per:employee_or_member_of	stackingms	*	Philippine Red Cross	*	1.0
+SF14_ENG_038	per:schools_attended	stackingms	*	Princeton University	*	1.0
+SF14_ENG_049	per:age	stackingms	*	22	*	1.0
+SF14_ENG_021	per:employee_or_member_of	stackingms	*	Franklin Pierce College	*	1.0
+SF14_ENG_066	org:top_members_employees	stackingms	*	Jacinto Suarez Espinoza	*	1.0
+SF14_ENG_014	per:siblings	stackingms	*	Misael Santollo	*	1.0
+SF14_ENG_084	org:alternate_names	stackingms	*	Greenberg	*	1.0
+SF14_ENG_045	per:countries_of_residence	stackingms	*	Italy	*	1.0
+SF14_ENG_084	org:number_of_employees_members	stackingms	*	200	*	1.0
+SF14_ENG_080	org:top_members_employees	stackingms	*	Dominique de Menil	*	1.0
+SF14_ENG_023	per:title	stackingms	*	wrestler	*	1.0
+SF14_ENG_020	per:charges	stackingms	*	kidnapping	*	1.0
+SF14_ENG_033	per:other_family	stackingms	*	Xie Caiping	*	1.0
+SF14_ENG_042	per:title	stackingms	*	General	*	1.0
+SF14_ENG_093	org:alternate_names	stackingms	*	US2	*	1.0
+SF14_ENG_042	per:title	stackingms	*	minister	*	1.0
+SF14_ENG_012	per:age	stackingms	*	60	*	1.0
+SF14_ENG_086	org:top_members_employees	stackingms	*	Jefferson Keel	*	1.0
+SF14_ENG_033	per:title	stackingms	*	former deputy director	*	1.0
+SF14_ENG_024	per:parents	stackingms	*	Trudy	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Liu Qi	*	1.0
+SF14_ENG_072	org:top_members_employees	stackingms	*	Stephanie J. Jones	*	1.0
+SF14_ENG_046	per:parents	stackingms	*	Luiz Henrique Ferreria Romao	*	1.0
+SF14_ENG_085	org:city_of_headquarters	stackingms	*	Beijing	*	1.0
+SF14_ENG_085	org:date_founded	stackingms	*	1941-XX-XX	*	1.0
+SF14_ENG_015	per:schools_attended	stackingms	*	University of Pittsburgh	*	1.0
+SF14_ENG_095	org:top_members_employees	stackingms	*	Fiore	*	1.0
+SF14_ENG_038	per:cause_of_death	stackingms	*	suicide	*	1.0
+SF14_ENG_044	per:age	stackingms	*	46	*	1.0
+SF14_ENG_083	org:city_of_headquarters	stackingms	*	Osaka	*	1.0
+SF14_ENG_075	org:date_founded	stackingms	*	1919-XX-XX	*	1.0
+SF14_ENG_019	per:title	stackingms	*	architect	*	1.0
+SF14_ENG_038	per:employee_or_member_of	stackingms	*	Caltech	*	1.0
+SF14_ENG_095	org:date_founded	stackingms	*	1961-XX-XX	*	1.0
+SF14_ENG_090	org:top_members_employees	stackingms	*	Geoffrey Gilmore	*	1.0
+SF14_ENG_089	org:top_members_employees	stackingms	*	Bill Martin	*	1.0
+SF14_ENG_006	per:title	stackingms	*	researcher	*	1.0
+SF14_ENG_086	org:top_members_employees	stackingms	*	Robert Holden	*	1.0
+SF14_ENG_086	org:top_members_employees	stackingms	*	Joe Garcia	*	1.0
+SF14_ENG_031	per:title	stackingms	*	science director	*	1.0
+SF14_ENG_040	per:siblings	stackingms	*	Emily	*	1.0
+SF14_ENG_073	org:website	stackingms	*	http://www.hki.org/	*	1.0
+SF14_ENG_029	per:age	stackingms	*	41	*	1.0
+SF14_ENG_016	per:spouse	stackingms	*	Norman Mailer	*	1.0
+SF14_ENG_038	per:stateorprovince_of_birth	stackingms	*	Illinois	*	1.0
+SF14_ENG_045	per:countries_of_residence	stackingms	*	Philippines	*	1.0
+SF14_ENG_020	per:children	stackingms	*	Denise Maloney Pictou	*	1.0
+SF14_ENG_012	per:statesorprovinces_of_residence	stackingms	*	Maryland	*	1.0
+SF14_ENG_097	org:top_members_employees	stackingms	*	Jiang Bing	*	1.0
+SF14_ENG_071	org:top_members_employees	stackingms	*	Laveen Naidu	*	1.0
+SF14_ENG_044	per:date_of_death	stackingms	*	2002-XX-XX	*	1.0
+SF14_ENG_047	per:title	stackingms	*	owner	*	1.0
+SF14_ENG_050	per:origin	stackingms	*	American	*	1.0
+SF14_ENG_014	per:siblings	stackingms	*	Patricia Gonzalez	*	1.0
+SF14_ENG_040	per:title	stackingms	*	attorney	*	1.0
+SF14_ENG_015	per:cities_of_residence	stackingms	*	Scott Township	*	1.0
+SF14_ENG_034	per:other_family	stackingms	*	Wen Qiang	*	1.0
+SF14_ENG_024	per:countries_of_residence	stackingms	*	Netherlands	*	1.0
+SF14_ENG_001	per:siblings	stackingms	*	Rateb Popal	*	1.0
+SF14_ENG_001	per:title	stackingms	*	correspondent	*	1.0
+SF14_ENG_011	per:countries_of_residence	stackingms	*	Cuba	*	1.0
+SF14_ENG_019	per:charges	stackingms	*	second-degree murder	*	1.0
+SF14_ENG_050	per:employee_or_member_of	stackingms	*	New Life Children	*	1.0
+SF14_ENG_033	per:employee_or_member_of	stackingms	*	Chongqing Municipal Judicial Bureau	*	1.0
+SF14_ENG_021	per:title	stackingms	*	coach	*	1.0
+SF14_ENG_039	per:city_of_death	stackingms	*	Philadelphia	*	1.0
+SF14_ENG_036	per:title	stackingms	*	president	*	1.0
+SF14_ENG_012	per:charges	stackingms	*	espionage	*	1.0
+SF14_ENG_049	per:siblings	stackingms	*	Deanna	*	1.0
+SF14_ENG_003	per:title	stackingms	*	clown	*	1.0
+SF14_ENG_014	per:title	stackingms	*	attorney	*	1.0
+SF14_ENG_020	per:age	stackingms	*	30	*	1.0
+SF14_ENG_032	per:title	stackingms	*	resident	*	1.0
+SF14_ENG_055	org:alternate_names	stackingms	*	GMHC	*	1.0
+SF14_ENG_019	per:city_of_birth	stackingms	*	La Cumbre	*	1.0
+SF14_ENG_006	per:origin	stackingms	*	American	*	1.0
+SF14_ENG_016	per:alternate_names	stackingms	*	Barbara Jean Davis	*	1.0
+SF14_ENG_079	org:country_of_headquarters	stackingms	*	Italy	*	1.0
+SF14_ENG_042	per:employee_or_member_of	stackingms	*	Young Patriots	*	1.0
+SF14_ENG_048	per:siblings	stackingms	*	Stephanie	*	1.0
+SF14_ENG_010	per:age	stackingms	*	71	*	1.0
+SF14_ENG_094	org:alternate_names	stackingms	*	OANA	*	1.0
+SF14_ENG_050	per:title	stackingms	*	missionary	*	1.0
+SF14_ENG_019	per:spouse	stackingms	*	Angie Begay	*	1.0
+SF14_ENG_075	org:top_members_employees	stackingms	*	Cain	*	1.0
+SF14_ENG_011	per:employee_or_member_of	stackingms	*	Temple Beth Shalom	*	1.0
+SF14_ENG_036	per:title	stackingms	*	chief executive	*	1.0
+SF14_ENG_092	org:alternate_names	stackingms	*	PATA	*	1.0
+SF14_ENG_084	org:founded_by	stackingms	*	Samuel Isaac Greenberg	*	1.0
+SF14_ENG_047	per:title	stackingms	*	chef	*	1.0
+SF14_ENG_012	per:spouse	stackingms	*	Judy	*	1.0
+SF14_ENG_049	per:charges	stackingms	*	murder	*	1.0
+SF14_ENG_043	per:siblings	stackingms	*	Salvatore	*	1.0
+SF14_ENG_008	per:title	stackingms	*	architect	*	1.0
+SF14_ENG_049	per:countries_of_residence	stackingms	*	Italy	*	1.0
+SF14_ENG_039	per:date_of_death	stackingms	*	2010-12-16	*	1.0
+SF14_ENG_045	per:employee_or_member_of	stackingms	*	ICRC	*	1.0
+SF14_ENG_075	org:top_members_employees	stackingms	*	Sue Hensley	*	1.0
+SF14_ENG_023	per:date_of_death	stackingms	*	2010-08-07	*	1.0
+SF14_ENG_038	per:city_of_birth	stackingms	*	Urbana	*	1.0
+SF14_ENG_012	per:spouse	stackingms	*	Judy Gross	*	1.0
+SF14_ENG_038	per:title	stackingms	*	Physicist	*	1.0
+SF14_ENG_014	per:age	stackingms	*	56	*	1.0
+SF14_ENG_049	per:parents	stackingms	*	Kurt Knox	*	1.0
+SF14_ENG_049	per:schools_attended	stackingms	*	University of Washington	*	1.0
+SF14_ENG_023	per:countries_of_residence	stackingms	*	Russian	*	1.0
+SF14_ENG_044	per:country_of_death	stackingms	*	England	*	1.0
+SF14_ENG_049	per:title	stackingms	*	senator	*	1.0
+SF14_ENG_032	per:cities_of_residence	stackingms	*	Paris	*	1.0
+SF14_ENG_016	per:city_of_death	stackingms	*	New York	*	1.0
+SF14_ENG_061	org:top_members_employees	stackingms	*	Angelo Mozilo	*	1.0
+SF14_ENG_071	org:top_members_employees	stackingms	*	Arthur Mitchell	*	1.0
+SF14_ENG_019	per:siblings	stackingms	*	Margaret Graham Lewis	*	1.0
+SF14_ENG_001	per:title	stackingms	*	analyst	*	1.0
+SF14_ENG_038	per:title	stackingms	*	chairman	*	1.0
+SF14_ENG_061	org:founded_by	stackingms	*	Angelo Mozilo	*	1.0
+SF14_ENG_003	per:title	stackingms	*	researcher	*	1.0
+SF14_ENG_020	per:origin	stackingms	*	Canada	*	1.0
+SF14_ENG_021	per:title	stackingms	*	goalkeeper	*	1.0
+SF14_ENG_049	per:countries_of_residence	stackingms	*	Ivory Coast	*	1.0
+SF14_ENG_026	per:title	stackingms	*	Journalist	*	1.0
+SF14_ENG_016	per:title	stackingms	*	author	*	1.0
+SF14_ENG_016	per:title	stackingms	*	model	*	1.0
+SF14_ENG_047	per:title	stackingms	*	Chef	*	1.0
+SF14_ENG_021	per:countries_of_residence	stackingms	*	Finland	*	1.0
+SF14_ENG_015	per:cities_of_residence	stackingms	*	Pittsburgh	*	1.0
+SF14_ENG_072	org:top_members_employees	stackingms	*	Martin Luther King III	*	1.0
+SF14_ENG_086	org:top_members_employees	stackingms	*	John Dossett	*	1.0
+SF14_ENG_038	per:siblings	stackingms	*	Karen Lange	*	1.0
+SF14_ENG_062	org:founded_by	stackingms	*	Simons	*	1.0
+SF14_ENG_049	per:parents	stackingms	*	Curt Knox	*	1.0
+SF14_ENG_037	per:parents	stackingms	*	Ilan Ramon	*	1.0
+SF14_ENG_016	per:title	stackingms	*	writer	*	1.0
+SF14_ENG_008	per:siblings	stackingms	*	Michele	*	1.0
+SF14_ENG_050	per:title	stackingms	*	head	*	1.0
+SF14_ENG_024	per:other_family	stackingms	*	An van de Sande	*	1.0
+SF14_ENG_039	per:employee_or_member_of	stackingms	*	Cephalon Inc.	*	1.0
+SF14_ENG_050	per:title	stackingms	*	businesswoman	*	1.0
+SF14_ENG_054	org:top_members_employees	stackingms	*	Tim Carpenter	*	1.0
+SF14_ENG_028	per:age	stackingms	*	82	*	1.0
+SF14_ENG_029	per:title	stackingms	*	Dr.	*	1.0
+SF14_ENG_049	per:city_of_birth	stackingms	*	Seattle	*	1.0
+SF14_ENG_061	org:city_of_headquarters	stackingms	*	Calabasas	*	1.0
+SF14_ENG_045	per:title	stackingms	*	escort	*	1.0
+SF14_ENG_017	per:other_family	stackingms	NIL
+SF14_ENG_015	per:children	stackingms	NIL
+SF14_ENG_094	org:top_members_employees	stackingms	NIL
+SF14_ENG_074	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_017	per:title	stackingms	NIL
+SF14_ENG_025	per:cause_of_death	stackingms	NIL
+SF14_ENG_083	org:date_dissolved	stackingms	NIL
+SF14_ENG_071	org:website	stackingms	NIL
+SF14_ENG_031	per:origin	stackingms	NIL
+SF14_ENG_004	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_026	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_035	per:alternate_names	stackingms	NIL
+SF14_ENG_097	org:date_founded	stackingms	NIL
+SF14_ENG_094	org:member_of	stackingms	NIL
+SF14_ENG_071	org:date_founded	stackingms	NIL
+SF14_ENG_041	per:siblings	stackingms	NIL
+SF14_ENG_067	org:shareholders	stackingms	NIL
+SF14_ENG_027	per:city_of_birth	stackingms	NIL
+SF14_ENG_023	per:charges	stackingms	NIL
+SF14_ENG_098	org:date_founded	stackingms	NIL
+SF14_ENG_069	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_045	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_003	per:date_of_death	stackingms	NIL
+SF14_ENG_035	per:age	stackingms	NIL
+SF14_ENG_008	per:countries_of_residence	stackingms	NIL
+SF14_ENG_088	org:alternate_names	stackingms	NIL
+SF14_ENG_066	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_093	org:website	stackingms	NIL
+SF14_ENG_064	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_026	per:parents	stackingms	NIL
+SF14_ENG_014	per:countries_of_residence	stackingms	NIL
+SF14_ENG_017	per:spouse	stackingms	NIL
+SF14_ENG_059	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_026	per:city_of_death	stackingms	NIL
+SF14_ENG_007	per:country_of_birth	stackingms	NIL
+SF14_ENG_001	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_038	per:country_of_death	stackingms	NIL
+SF14_ENG_045	per:date_of_birth	stackingms	NIL
+SF14_ENG_054	org:shareholders	stackingms	NIL
+SF14_ENG_010	per:city_of_birth	stackingms	NIL
+SF14_ENG_003	per:country_of_birth	stackingms	NIL
+SF14_ENG_017	per:country_of_death	stackingms	NIL
+SF14_ENG_077	org:date_founded	stackingms	NIL
+SF14_ENG_046	per:children	stackingms	NIL
+SF14_ENG_033	per:schools_attended	stackingms	NIL
+SF14_ENG_095	org:shareholders	stackingms	NIL
+SF14_ENG_097	org:founded_by	stackingms	NIL
+SF14_ENG_054	org:date_dissolved	stackingms	NIL
+SF14_ENG_039	per:origin	stackingms	NIL
+SF14_ENG_006	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_014	per:schools_attended	stackingms	NIL
+SF14_ENG_052	org:founded_by	stackingms	NIL
+SF14_ENG_015	per:charges	stackingms	NIL
+SF14_ENG_002	per:cause_of_death	stackingms	NIL
+SF14_ENG_088	org:date_founded	stackingms	NIL
+SF14_ENG_019	per:parents	stackingms	NIL
+SF14_ENG_072	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_093	org:date_founded	stackingms	NIL
+SF14_ENG_003	per:country_of_death	stackingms	NIL
+SF14_ENG_062	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_039	per:cities_of_residence	stackingms	NIL
+SF14_ENG_092	org:subsidiaries	stackingms	NIL
+SF14_ENG_096	org:website	stackingms	NIL
+SF14_ENG_030	per:city_of_death	stackingms	NIL
+SF14_ENG_089	org:member_of	stackingms	NIL
+SF14_ENG_036	per:date_of_death	stackingms	NIL
+SF14_ENG_039	per:charges	stackingms	NIL
+SF14_ENG_045	per:city_of_birth	stackingms	NIL
+SF14_ENG_065	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_023	per:cause_of_death	stackingms	NIL
+SF14_ENG_034	per:city_of_death	stackingms	NIL
+SF14_ENG_037	per:siblings	stackingms	NIL
+SF14_ENG_016	per:city_of_birth	stackingms	NIL
+SF14_ENG_041	per:origin	stackingms	NIL
+SF14_ENG_075	org:subsidiaries	stackingms	NIL
+SF14_ENG_096	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_058	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_039	per:date_of_birth	stackingms	NIL
+SF14_ENG_083	org:website	stackingms	NIL
+SF14_ENG_076	org:website	stackingms	NIL
+SF14_ENG_022	per:city_of_birth	stackingms	NIL
+SF14_ENG_009	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_042	per:spouse	stackingms	NIL
+SF14_ENG_035	per:parents	stackingms	NIL
+SF14_ENG_025	per:parents	stackingms	NIL
+SF14_ENG_090	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_085	org:subsidiaries	stackingms	NIL
+SF14_ENG_066	org:shareholders	stackingms	NIL
+SF14_ENG_037	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_047	per:date_of_death	stackingms	NIL
+SF14_ENG_027	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_090	org:date_dissolved	stackingms	NIL
+SF14_ENG_084	org:subsidiaries	stackingms	NIL
+SF14_ENG_052	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_044	per:country_of_birth	stackingms	NIL
+SF14_ENG_018	per:parents	stackingms	NIL
+SF14_ENG_083	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_036	per:schools_attended	stackingms	NIL
+SF14_ENG_033	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_037	per:alternate_names	stackingms	NIL
+SF14_ENG_062	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_088	org:shareholders	stackingms	NIL
+SF14_ENG_037	per:religion	stackingms	NIL
+SF14_ENG_093	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_087	org:shareholders	stackingms	NIL
+SF14_ENG_018	per:country_of_birth	stackingms	NIL
+SF14_ENG_072	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_063	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_018	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_007	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_017	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_041	per:charges	stackingms	NIL
+SF14_ENG_058	org:member_of	stackingms	NIL
+SF14_ENG_074	org:member_of	stackingms	NIL
+SF14_ENG_048	per:origin	stackingms	NIL
+SF14_ENG_030	per:charges	stackingms	NIL
+SF14_ENG_042	per:country_of_death	stackingms	NIL
+SF14_ENG_055	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_092	org:members	stackingms	NIL
+SF14_ENG_080	org:date_founded	stackingms	NIL
+SF14_ENG_087	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_087	org:date_founded	stackingms	NIL
+SF14_ENG_070	org:alternate_names	stackingms	NIL
+SF14_ENG_035	per:city_of_birth	stackingms	NIL
+SF14_ENG_031	per:countries_of_residence	stackingms	NIL
+SF14_ENG_010	per:city_of_death	stackingms	NIL
+SF14_ENG_059	org:top_members_employees	stackingms	NIL
+SF14_ENG_012	per:siblings	stackingms	NIL
+SF14_ENG_030	per:parents	stackingms	NIL
+SF14_ENG_003	per:parents	stackingms	NIL
+SF14_ENG_040	per:city_of_death	stackingms	NIL
+SF14_ENG_097	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_013	per:schools_attended	stackingms	NIL
+SF14_ENG_055	org:member_of	stackingms	NIL
+SF14_ENG_065	org:members	stackingms	NIL
+SF14_ENG_011	per:cause_of_death	stackingms	NIL
+SF14_ENG_030	per:title	stackingms	NIL
+SF14_ENG_080	org:date_dissolved	stackingms	NIL
+SF14_ENG_008	per:alternate_names	stackingms	NIL
+SF14_ENG_045	per:religion	stackingms	NIL
+SF14_ENG_054	org:website	stackingms	NIL
+SF14_ENG_043	per:charges	stackingms	NIL
+SF14_ENG_094	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_098	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_050	per:spouse	stackingms	NIL
+SF14_ENG_100	org:top_members_employees	stackingms	NIL
+SF14_ENG_071	org:parents	stackingms	NIL
+SF14_ENG_013	per:date_of_death	stackingms	NIL
+SF14_ENG_012	per:country_of_birth	stackingms	NIL
+SF14_ENG_003	per:charges	stackingms	NIL
+SF14_ENG_040	per:cause_of_death	stackingms	NIL
+SF14_ENG_087	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_071	org:shareholders	stackingms	NIL
+SF14_ENG_007	per:age	stackingms	NIL
+SF14_ENG_067	org:members	stackingms	NIL
+SF14_ENG_076	org:shareholders	stackingms	NIL
+SF14_ENG_014	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_001	per:religion	stackingms	NIL
+SF14_ENG_050	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_063	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_097	org:subsidiaries	stackingms	NIL
+SF14_ENG_082	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_006	per:siblings	stackingms	NIL
+SF14_ENG_003	per:city_of_death	stackingms	NIL
+SF14_ENG_011	per:city_of_birth	stackingms	NIL
+SF14_ENG_068	org:members	stackingms	NIL
+SF14_ENG_074	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_098	org:shareholders	stackingms	NIL
+SF14_ENG_039	per:country_of_birth	stackingms	NIL
+SF14_ENG_086	org:parents	stackingms	NIL
+SF14_ENG_033	per:siblings	stackingms	NIL
+SF14_ENG_025	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_025	per:date_of_birth	stackingms	NIL
+SF14_ENG_028	per:city_of_birth	stackingms	NIL
+SF14_ENG_080	org:website	stackingms	NIL
+SF14_ENG_048	per:date_of_death	stackingms	NIL
+SF14_ENG_079	org:founded_by	stackingms	NIL
+SF14_ENG_023	per:cities_of_residence	stackingms	NIL
+SF14_ENG_031	per:date_of_birth	stackingms	NIL
+SF14_ENG_036	per:age	stackingms	NIL
+SF14_ENG_003	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_028	per:alternate_names	stackingms	NIL
+SF14_ENG_038	per:charges	stackingms	NIL
+SF14_ENG_052	org:alternate_names	stackingms	NIL
+SF14_ENG_002	per:date_of_death	stackingms	NIL
+SF14_ENG_095	org:alternate_names	stackingms	NIL
+SF14_ENG_023	per:country_of_death	stackingms	NIL
+SF14_ENG_085	org:website	stackingms	NIL
+SF14_ENG_022	per:schools_attended	stackingms	NIL
+SF14_ENG_032	per:city_of_birth	stackingms	NIL
+SF14_ENG_099	org:website	stackingms	NIL
+SF14_ENG_009	per:city_of_birth	stackingms	NIL
+SF14_ENG_070	org:date_dissolved	stackingms	NIL
+SF14_ENG_022	per:cause_of_death	stackingms	NIL
+SF14_ENG_039	per:cause_of_death	stackingms	NIL
+SF14_ENG_055	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_031	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_045	per:cities_of_residence	stackingms	NIL
+SF14_ENG_100	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_072	org:subsidiaries	stackingms	NIL
+SF14_ENG_097	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_001	per:parents	stackingms	NIL
+SF14_ENG_011	per:parents	stackingms	NIL
+SF14_ENG_044	per:alternate_names	stackingms	NIL
+SF14_ENG_099	org:parents	stackingms	NIL
+SF14_ENG_025	per:origin	stackingms	NIL
+SF14_ENG_061	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_011	per:age	stackingms	NIL
+SF14_ENG_056	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_057	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_018	per:city_of_death	stackingms	NIL
+SF14_ENG_048	per:spouse	stackingms	NIL
+SF14_ENG_033	per:countries_of_residence	stackingms	NIL
+SF14_ENG_039	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_013	per:date_of_birth	stackingms	NIL
+SF14_ENG_017	per:cities_of_residence	stackingms	NIL
+SF14_ENG_069	org:date_dissolved	stackingms	NIL
+SF14_ENG_009	per:children	stackingms	NIL
+SF14_ENG_100	org:date_dissolved	stackingms	NIL
+SF14_ENG_053	org:website	stackingms	NIL
+SF14_ENG_010	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_024	per:date_of_death	stackingms	NIL
+SF14_ENG_042	per:age	stackingms	NIL
+SF14_ENG_058	org:founded_by	stackingms	NIL
+SF14_ENG_073	org:parents	stackingms	NIL
+SF14_ENG_053	org:founded_by	stackingms	NIL
+SF14_ENG_074	org:members	stackingms	NIL
+SF14_ENG_022	per:children	stackingms	NIL
+SF14_ENG_032	per:schools_attended	stackingms	NIL
+SF14_ENG_062	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_012	per:schools_attended	stackingms	NIL
+SF14_ENG_060	org:founded_by	stackingms	NIL
+SF14_ENG_004	per:date_of_death	stackingms	NIL
+SF14_ENG_021	per:siblings	stackingms	NIL
+SF14_ENG_093	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_094	org:founded_by	stackingms	NIL
+SF14_ENG_077	org:members	stackingms	NIL
+SF14_ENG_024	per:date_of_birth	stackingms	NIL
+SF14_ENG_005	per:origin	stackingms	NIL
+SF14_ENG_034	per:origin	stackingms	NIL
+SF14_ENG_019	per:schools_attended	stackingms	NIL
+SF14_ENG_008	per:cities_of_residence	stackingms	NIL
+SF14_ENG_084	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_013	per:parents	stackingms	NIL
+SF14_ENG_100	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_060	org:website	stackingms	NIL
+SF14_ENG_009	per:country_of_birth	stackingms	NIL
+SF14_ENG_050	per:country_of_death	stackingms	NIL
+SF14_ENG_063	org:top_members_employees	stackingms	NIL
+SF14_ENG_085	org:parents	stackingms	NIL
+SF14_ENG_002	per:siblings	stackingms	NIL
+SF14_ENG_035	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_004	per:origin	stackingms	NIL
+SF14_ENG_039	per:children	stackingms	NIL
+SF14_ENG_013	per:alternate_names	stackingms	NIL
+SF14_ENG_051	org:date_dissolved	stackingms	NIL
+SF14_ENG_054	org:subsidiaries	stackingms	NIL
+SF14_ENG_003	per:date_of_birth	stackingms	NIL
+SF14_ENG_041	per:cities_of_residence	stackingms	NIL
+SF14_ENG_002	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_099	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_048	per:cities_of_residence	stackingms	NIL
+SF14_ENG_048	per:city_of_birth	stackingms	NIL
+SF14_ENG_030	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_078	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_035	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_045	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_099	org:shareholders	stackingms	NIL
+SF14_ENG_009	per:origin	stackingms	NIL
+SF14_ENG_019	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_027	per:spouse	stackingms	NIL
+SF14_ENG_034	per:charges	stackingms	NIL
+SF14_ENG_026	per:schools_attended	stackingms	NIL
+SF14_ENG_094	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_022	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_036	per:date_of_birth	stackingms	NIL
+SF14_ENG_014	per:children	stackingms	NIL
+SF14_ENG_056	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_097	org:shareholders	stackingms	NIL
+SF14_ENG_013	per:city_of_death	stackingms	NIL
+SF14_ENG_039	per:alternate_names	stackingms	NIL
+SF14_ENG_061	org:members	stackingms	NIL
+SF14_ENG_021	per:city_of_birth	stackingms	NIL
+SF14_ENG_081	org:date_dissolved	stackingms	NIL
+SF14_ENG_008	per:age	stackingms	NIL
+SF14_ENG_004	per:age	stackingms	NIL
+SF14_ENG_014	per:cause_of_death	stackingms	NIL
+SF14_ENG_092	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_100	org:alternate_names	stackingms	NIL
+SF14_ENG_075	org:date_dissolved	stackingms	NIL
+SF14_ENG_011	per:city_of_death	stackingms	NIL
+SF14_ENG_080	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_008	per:country_of_birth	stackingms	NIL
+SF14_ENG_058	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_004	per:countries_of_residence	stackingms	NIL
+SF14_ENG_017	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_053	org:shareholders	stackingms	NIL
+SF14_ENG_027	per:schools_attended	stackingms	NIL
+SF14_ENG_046	per:origin	stackingms	NIL
+SF14_ENG_056	org:top_members_employees	stackingms	NIL
+SF14_ENG_027	per:cities_of_residence	stackingms	NIL
+SF14_ENG_075	org:member_of	stackingms	NIL
+SF14_ENG_008	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_002	per:religion	stackingms	NIL
+SF14_ENG_095	org:website	stackingms	NIL
+SF14_ENG_095	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_011	per:siblings	stackingms	NIL
+SF14_ENG_093	org:member_of	stackingms	NIL
+SF14_ENG_043	per:country_of_death	stackingms	NIL
+SF14_ENG_085	org:members	stackingms	NIL
+SF14_ENG_060	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_054	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_030	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_001	per:city_of_birth	stackingms	NIL
+SF14_ENG_032	per:children	stackingms	NIL
+SF14_ENG_032	per:charges	stackingms	NIL
+SF14_ENG_044	per:religion	stackingms	NIL
+SF14_ENG_067	org:top_members_employees	stackingms	NIL
+SF14_ENG_094	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_015	per:spouse	stackingms	NIL
+SF14_ENG_011	per:other_family	stackingms	NIL
+SF14_ENG_087	org:members	stackingms	NIL
+SF14_ENG_063	org:member_of	stackingms	NIL
+SF14_ENG_041	per:schools_attended	stackingms	NIL
+SF14_ENG_054	org:members	stackingms	NIL
+SF14_ENG_048	per:countries_of_residence	stackingms	NIL
+SF14_ENG_020	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_020	per:parents	stackingms	NIL
+SF14_ENG_051	org:members	stackingms	NIL
+SF14_ENG_095	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_093	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_076	org:date_founded	stackingms	NIL
+SF14_ENG_037	per:city_of_death	stackingms	NIL
+SF14_ENG_046	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_070	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_016	per:date_of_death	stackingms	NIL
+SF14_ENG_088	org:website	stackingms	NIL
+SF14_ENG_092	org:member_of	stackingms	NIL
+SF14_ENG_050	per:city_of_birth	stackingms	NIL
+SF14_ENG_071	org:member_of	stackingms	NIL
+SF14_ENG_022	per:siblings	stackingms	NIL
+SF14_ENG_083	org:member_of	stackingms	NIL
+SF14_ENG_060	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_066	org:founded_by	stackingms	NIL
+SF14_ENG_065	org:parents	stackingms	NIL
+SF14_ENG_030	per:other_family	stackingms	NIL
+SF14_ENG_021	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_020	per:alternate_names	stackingms	NIL
+SF14_ENG_048	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_057	org:parents	stackingms	NIL
+SF14_ENG_002	per:origin	stackingms	NIL
+SF14_ENG_005	per:spouse	stackingms	NIL
+SF14_ENG_076	org:date_dissolved	stackingms	NIL
+SF14_ENG_070	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_059	org:members	stackingms	NIL
+SF14_ENG_002	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_026	per:siblings	stackingms	NIL
+SF14_ENG_007	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_036	per:country_of_death	stackingms	NIL
+SF14_ENG_025	per:date_of_death	stackingms	NIL
+SF14_ENG_037	per:children	stackingms	NIL
+SF14_ENG_036	per:religion	stackingms	NIL
+SF14_ENG_066	org:subsidiaries	stackingms	NIL
+SF14_ENG_041	per:parents	stackingms	NIL
+SF14_ENG_042	per:parents	stackingms	NIL
+SF14_ENG_060	org:date_founded	stackingms	NIL
+SF14_ENG_071	org:subsidiaries	stackingms	NIL
+SF14_ENG_046	per:cities_of_residence	stackingms	NIL
+SF14_ENG_048	per:date_of_birth	stackingms	NIL
+SF14_ENG_055	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_068	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_032	per:siblings	stackingms	NIL
+SF14_ENG_049	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_017	per:alternate_names	stackingms	NIL
+SF14_ENG_060	org:shareholders	stackingms	NIL
+SF14_ENG_085	org:date_dissolved	stackingms	NIL
+SF14_ENG_047	per:origin	stackingms	NIL
+SF14_ENG_070	org:member_of	stackingms	NIL
+SF14_ENG_038	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_011	per:country_of_death	stackingms	NIL
+SF14_ENG_077	org:alternate_names	stackingms	NIL
+SF14_ENG_022	per:cities_of_residence	stackingms	NIL
+SF14_ENG_049	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_041	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_076	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_024	per:schools_attended	stackingms	NIL
+SF14_ENG_047	per:city_of_death	stackingms	NIL
+SF14_ENG_099	org:date_dissolved	stackingms	NIL
+SF14_ENG_025	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_036	per:children	stackingms	NIL
+SF14_ENG_009	per:title	stackingms	NIL
+SF14_ENG_034	per:alternate_names	stackingms	NIL
+SF14_ENG_090	org:member_of	stackingms	NIL
+SF14_ENG_074	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_026	per:date_of_birth	stackingms	NIL
+SF14_ENG_069	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_029	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_059	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_076	org:parents	stackingms	NIL
+SF14_ENG_009	per:country_of_death	stackingms	NIL
+SF14_ENG_079	org:date_dissolved	stackingms	NIL
+SF14_ENG_059	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_031	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_028	per:other_family	stackingms	NIL
+SF14_ENG_055	org:date_dissolved	stackingms	NIL
+SF14_ENG_100	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_047	per:other_family	stackingms	NIL
+SF14_ENG_021	per:other_family	stackingms	NIL
+SF14_ENG_009	per:date_of_death	stackingms	NIL
+SF14_ENG_041	per:date_of_birth	stackingms	NIL
+SF14_ENG_083	org:parents	stackingms	NIL
+SF14_ENG_024	per:city_of_death	stackingms	NIL
+SF14_ENG_044	per:schools_attended	stackingms	NIL
+SF14_ENG_033	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_060	org:top_members_employees	stackingms	NIL
+SF14_ENG_093	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_023	per:other_family	stackingms	NIL
+SF14_ENG_081	org:website	stackingms	NIL
+SF14_ENG_028	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_010	per:cause_of_death	stackingms	NIL
+SF14_ENG_092	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_028	per:date_of_birth	stackingms	NIL
+SF14_ENG_068	org:date_founded	stackingms	NIL
+SF14_ENG_094	org:date_founded	stackingms	NIL
+SF14_ENG_066	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_084	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_057	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_048	per:schools_attended	stackingms	NIL
+SF14_ENG_025	per:children	stackingms	NIL
+SF14_ENG_077	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_026	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_064	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_018	per:religion	stackingms	NIL
+SF14_ENG_100	org:website	stackingms	NIL
+SF14_ENG_023	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_056	org:subsidiaries	stackingms	NIL
+SF14_ENG_007	per:charges	stackingms	NIL
+SF14_ENG_035	per:origin	stackingms	NIL
+SF14_ENG_095	org:parents	stackingms	NIL
+SF14_ENG_055	org:founded_by	stackingms	NIL
+SF14_ENG_002	per:countries_of_residence	stackingms	NIL
+SF14_ENG_016	per:date_of_birth	stackingms	NIL
+SF14_ENG_025	per:cities_of_residence	stackingms	NIL
+SF14_ENG_002	per:spouse	stackingms	NIL
+SF14_ENG_088	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_016	per:other_family	stackingms	NIL
+SF14_ENG_002	per:schools_attended	stackingms	NIL
+SF14_ENG_004	per:other_family	stackingms	NIL
+SF14_ENG_061	org:shareholders	stackingms	NIL
+SF14_ENG_044	per:children	stackingms	NIL
+SF14_ENG_085	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_017	per:age	stackingms	NIL
+SF14_ENG_001	per:charges	stackingms	NIL
+SF14_ENG_062	org:members	stackingms	NIL
+SF14_ENG_034	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_070	org:date_founded	stackingms	NIL
+SF14_ENG_005	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_045	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_069	org:top_members_employees	stackingms	NIL
+SF14_ENG_037	per:origin	stackingms	NIL
+SF14_ENG_042	per:alternate_names	stackingms	NIL
+SF14_ENG_049	per:cause_of_death	stackingms	NIL
+SF14_ENG_070	org:subsidiaries	stackingms	NIL
+SF14_ENG_041	per:countries_of_residence	stackingms	NIL
+SF14_ENG_030	per:spouse	stackingms	NIL
+SF14_ENG_083	org:members	stackingms	NIL
+SF14_ENG_098	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_037	per:schools_attended	stackingms	NIL
+SF14_ENG_030	per:cities_of_residence	stackingms	NIL
+SF14_ENG_024	per:cause_of_death	stackingms	NIL
+SF14_ENG_051	org:founded_by	stackingms	NIL
+SF14_ENG_031	per:country_of_birth	stackingms	NIL
+SF14_ENG_066	org:date_dissolved	stackingms	NIL
+SF14_ENG_008	per:date_of_birth	stackingms	NIL
+SF14_ENG_029	per:origin	stackingms	NIL
+SF14_ENG_045	per:country_of_birth	stackingms	NIL
+SF14_ENG_066	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_086	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_021	per:spouse	stackingms	NIL
+SF14_ENG_091	org:date_founded	stackingms	NIL
+SF14_ENG_075	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_083	org:subsidiaries	stackingms	NIL
+SF14_ENG_021	per:cities_of_residence	stackingms	NIL
+SF14_ENG_015	per:alternate_names	stackingms	NIL
+SF14_ENG_088	org:subsidiaries	stackingms	NIL
+SF14_ENG_022	per:religion	stackingms	NIL
+SF14_ENG_065	org:alternate_names	stackingms	NIL
+SF14_ENG_097	org:website	stackingms	NIL
+SF14_ENG_061	org:alternate_names	stackingms	NIL
+SF14_ENG_083	org:shareholders	stackingms	NIL
+SF14_ENG_085	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_008	per:other_family	stackingms	NIL
+SF14_ENG_069	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_007	per:children	stackingms	NIL
+SF14_ENG_079	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_025	per:schools_attended	stackingms	NIL
+SF14_ENG_065	org:date_founded	stackingms	NIL
+SF14_ENG_013	per:city_of_birth	stackingms	NIL
+SF14_ENG_040	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_063	org:date_founded	stackingms	NIL
+SF14_ENG_005	per:alternate_names	stackingms	NIL
+SF14_ENG_048	per:country_of_death	stackingms	NIL
+SF14_ENG_092	org:shareholders	stackingms	NIL
+SF14_ENG_060	org:date_dissolved	stackingms	NIL
+SF14_ENG_069	org:parents	stackingms	NIL
+SF14_ENG_007	per:countries_of_residence	stackingms	NIL
+SF14_ENG_055	org:website	stackingms	NIL
+SF14_ENG_005	per:schools_attended	stackingms	NIL
+SF14_ENG_027	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_052	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_034	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_010	per:parents	stackingms	NIL
+SF14_ENG_038	per:countries_of_residence	stackingms	NIL
+SF14_ENG_035	per:cities_of_residence	stackingms	NIL
+SF14_ENG_042	per:date_of_birth	stackingms	NIL
+SF14_ENG_084	org:website	stackingms	NIL
+SF14_ENG_047	per:age	stackingms	NIL
+SF14_ENG_035	per:city_of_death	stackingms	NIL
+SF14_ENG_041	per:children	stackingms	NIL
+SF14_ENG_071	org:members	stackingms	NIL
+SF14_ENG_070	org:members	stackingms	NIL
+SF14_ENG_030	per:alternate_names	stackingms	NIL
+SF14_ENG_055	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_074	org:founded_by	stackingms	NIL
+SF14_ENG_005	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_033	per:country_of_death	stackingms	NIL
+SF14_ENG_030	per:schools_attended	stackingms	NIL
+SF14_ENG_065	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_023	per:children	stackingms	NIL
+SF14_ENG_081	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_006	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_059	org:website	stackingms	NIL
+SF14_ENG_032	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_026	per:spouse	stackingms	NIL
+SF14_ENG_014	per:country_of_death	stackingms	NIL
+SF14_ENG_022	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_016	per:cause_of_death	stackingms	NIL
+SF14_ENG_023	per:country_of_birth	stackingms	NIL
+SF14_ENG_002	per:parents	stackingms	NIL
+SF14_ENG_006	per:countries_of_residence	stackingms	NIL
+SF14_ENG_005	per:countries_of_residence	stackingms	NIL
+SF14_ENG_096	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_031	per:charges	stackingms	NIL
+SF14_ENG_080	org:parents	stackingms	NIL
+SF14_ENG_034	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_087	org:founded_by	stackingms	NIL
+SF14_ENG_051	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_048	per:city_of_death	stackingms	NIL
+SF14_ENG_030	per:age	stackingms	NIL
+SF14_ENG_023	per:city_of_death	stackingms	NIL
+SF14_ENG_035	per:siblings	stackingms	NIL
+SF14_ENG_013	per:country_of_death	stackingms	NIL
+SF14_ENG_025	per:siblings	stackingms	NIL
+SF14_ENG_034	per:children	stackingms	NIL
+SF14_ENG_027	per:parents	stackingms	NIL
+SF14_ENG_076	org:alternate_names	stackingms	NIL
+SF14_ENG_046	per:country_of_birth	stackingms	NIL
+SF14_ENG_069	org:subsidiaries	stackingms	NIL
+SF14_ENG_008	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_019	per:alternate_names	stackingms	NIL
+SF14_ENG_010	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_031	per:parents	stackingms	NIL
+SF14_ENG_029	per:cities_of_residence	stackingms	NIL
+SF14_ENG_088	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_021	per:parents	stackingms	NIL
+SF14_ENG_058	org:top_members_employees	stackingms	NIL
+SF14_ENG_086	org:founded_by	stackingms	NIL
+SF14_ENG_058	org:date_dissolved	stackingms	NIL
+SF14_ENG_021	per:city_of_death	stackingms	NIL
+SF14_ENG_011	per:charges	stackingms	NIL
+SF14_ENG_074	org:alternate_names	stackingms	NIL
+SF14_ENG_031	per:city_of_death	stackingms	NIL
+SF14_ENG_017	per:schools_attended	stackingms	NIL
+SF14_ENG_034	per:schools_attended	stackingms	NIL
+SF14_ENG_031	per:other_family	stackingms	NIL
+SF14_ENG_100	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_060	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_016	per:schools_attended	stackingms	NIL
+SF14_ENG_092	org:website	stackingms	NIL
+SF14_ENG_063	org:shareholders	stackingms	NIL
+SF14_ENG_067	org:website	stackingms	NIL
+SF14_ENG_032	per:religion	stackingms	NIL
+SF14_ENG_050	per:date_of_death	stackingms	NIL
+SF14_ENG_018	per:countries_of_residence	stackingms	NIL
+SF14_ENG_017	per:city_of_birth	stackingms	NIL
+SF14_ENG_079	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_057	org:shareholders	stackingms	NIL
+SF14_ENG_073	org:founded_by	stackingms	NIL
+SF14_ENG_053	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_067	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_092	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_098	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_043	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_050	per:children	stackingms	NIL
+SF14_ENG_062	org:shareholders	stackingms	NIL
+SF14_ENG_043	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_098	org:members	stackingms	NIL
+SF14_ENG_024	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_013	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_026	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_057	org:members	stackingms	NIL
+SF14_ENG_054	org:founded_by	stackingms	NIL
+SF14_ENG_001	per:city_of_death	stackingms	NIL
+SF14_ENG_017	per:date_of_death	stackingms	NIL
+SF14_ENG_040	per:country_of_death	stackingms	NIL
+SF14_ENG_042	per:other_family	stackingms	NIL
+SF14_ENG_015	per:parents	stackingms	NIL
+SF14_ENG_042	per:city_of_death	stackingms	NIL
+SF14_ENG_020	per:date_of_birth	stackingms	NIL
+SF14_ENG_051	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_074	org:subsidiaries	stackingms	NIL
+SF14_ENG_034	per:date_of_birth	stackingms	NIL
+SF14_ENG_090	org:parents	stackingms	NIL
+SF14_ENG_075	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_100	org:member_of	stackingms	NIL
+SF14_ENG_005	per:city_of_death	stackingms	NIL
+SF14_ENG_069	org:website	stackingms	NIL
+SF14_ENG_038	per:date_of_death	stackingms	NIL
+SF14_ENG_086	org:member_of	stackingms	NIL
+SF14_ENG_083	org:alternate_names	stackingms	NIL
+SF14_ENG_077	org:member_of	stackingms	NIL
+SF14_ENG_044	per:cause_of_death	stackingms	NIL
+SF14_ENG_030	per:country_of_birth	stackingms	NIL
+SF14_ENG_008	per:cause_of_death	stackingms	NIL
+SF14_ENG_026	per:city_of_birth	stackingms	NIL
+SF14_ENG_079	org:members	stackingms	NIL
+SF14_ENG_008	per:parents	stackingms	NIL
+SF14_ENG_006	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_074	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_041	per:country_of_death	stackingms	NIL
+SF14_ENG_030	per:city_of_birth	stackingms	NIL
+SF14_ENG_028	per:city_of_death	stackingms	NIL
+SF14_ENG_012	per:children	stackingms	NIL
+SF14_ENG_013	per:cities_of_residence	stackingms	NIL
+SF14_ENG_035	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_072	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_014	per:religion	stackingms	NIL
+SF14_ENG_045	per:children	stackingms	NIL
+SF14_ENG_073	org:top_members_employees	stackingms	NIL
+SF14_ENG_009	per:spouse	stackingms	NIL
+SF14_ENG_001	per:age	stackingms	NIL
+SF14_ENG_009	per:schools_attended	stackingms	NIL
+SF14_ENG_049	per:alternate_names	stackingms	NIL
+SF14_ENG_091	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_033	per:alternate_names	stackingms	NIL
+SF14_ENG_064	org:member_of	stackingms	NIL
+SF14_ENG_052	org:top_members_employees	stackingms	NIL
+SF14_ENG_002	per:country_of_death	stackingms	NIL
+SF14_ENG_012	per:date_of_death	stackingms	NIL
+SF14_ENG_065	org:top_members_employees	stackingms	NIL
+SF14_ENG_026	per:date_of_death	stackingms	NIL
+SF14_ENG_048	per:religion	stackingms	NIL
+SF14_ENG_051	org:shareholders	stackingms	NIL
+SF14_ENG_036	per:countries_of_residence	stackingms	NIL
+SF14_ENG_015	per:date_of_death	stackingms	NIL
+SF14_ENG_021	per:religion	stackingms	NIL
+SF14_ENG_088	org:member_of	stackingms	NIL
+SF14_ENG_084	org:parents	stackingms	NIL
+SF14_ENG_036	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_042	per:date_of_death	stackingms	NIL
+SF14_ENG_068	org:date_dissolved	stackingms	NIL
+SF14_ENG_028	per:country_of_birth	stackingms	NIL
+SF14_ENG_052	org:date_founded	stackingms	NIL
+SF14_ENG_055	org:shareholders	stackingms	NIL
+SF14_ENG_014	per:spouse	stackingms	NIL
+SF14_ENG_028	per:schools_attended	stackingms	NIL
+SF14_ENG_020	per:religion	stackingms	NIL
+SF14_ENG_070	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_043	per:children	stackingms	NIL
+SF14_ENG_095	org:members	stackingms	NIL
+SF14_ENG_064	org:shareholders	stackingms	NIL
+SF14_ENG_040	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_087	org:website	stackingms	NIL
+SF14_ENG_036	per:cities_of_residence	stackingms	NIL
+SF14_ENG_068	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_090	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_039	per:siblings	stackingms	NIL
+SF14_ENG_080	org:shareholders	stackingms	NIL
+SF14_ENG_046	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_039	per:countries_of_residence	stackingms	NIL
+SF14_ENG_031	per:siblings	stackingms	NIL
+SF14_ENG_086	org:members	stackingms	NIL
+SF14_ENG_006	per:alternate_names	stackingms	NIL
+SF14_ENG_010	per:charges	stackingms	NIL
+SF14_ENG_007	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_070	org:parents	stackingms	NIL
+SF14_ENG_067	org:date_founded	stackingms	NIL
+SF14_ENG_051	org:member_of	stackingms	NIL
+SF14_ENG_081	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_005	per:cause_of_death	stackingms	NIL
+SF14_ENG_006	per:schools_attended	stackingms	NIL
+SF14_ENG_035	per:other_family	stackingms	NIL
+SF14_ENG_062	org:website	stackingms	NIL
+SF14_ENG_079	org:parents	stackingms	NIL
+SF14_ENG_021	per:age	stackingms	NIL
+SF14_ENG_092	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_075	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_052	org:members	stackingms	NIL
+SF14_ENG_009	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_049	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_080	org:members	stackingms	NIL
+SF14_ENG_078	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_009	per:cause_of_death	stackingms	NIL
+SF14_ENG_084	org:date_dissolved	stackingms	NIL
+SF14_ENG_011	per:origin	stackingms	NIL
+SF14_ENG_062	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_081	org:founded_by	stackingms	NIL
+SF14_ENG_039	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_047	per:city_of_birth	stackingms	NIL
+SF14_ENG_063	org:members	stackingms	NIL
+SF14_ENG_077	org:parents	stackingms	NIL
+SF14_ENG_082	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_073	org:shareholders	stackingms	NIL
+SF14_ENG_009	per:religion	stackingms	NIL
+SF14_ENG_018	per:date_of_death	stackingms	NIL
+SF14_ENG_047	per:charges	stackingms	NIL
+SF14_ENG_091	org:subsidiaries	stackingms	NIL
+SF14_ENG_094	org:members	stackingms	NIL
+SF14_ENG_064	org:website	stackingms	NIL
+SF14_ENG_047	per:country_of_birth	stackingms	NIL
+SF14_ENG_061	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_032	per:date_of_death	stackingms	NIL
+SF14_ENG_040	per:country_of_birth	stackingms	NIL
+SF14_ENG_091	org:parents	stackingms	NIL
+SF14_ENG_026	per:age	stackingms	NIL
+SF14_ENG_021	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_099	org:founded_by	stackingms	NIL
+SF14_ENG_042	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_038	per:age	stackingms	NIL
+SF14_ENG_087	org:date_dissolved	stackingms	NIL
+SF14_ENG_036	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_015	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_072	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_004	per:title	stackingms	NIL
+SF14_ENG_035	per:cause_of_death	stackingms	NIL
+SF14_ENG_020	per:country_of_birth	stackingms	NIL
+SF14_ENG_090	org:website	stackingms	NIL
+SF14_ENG_044	per:other_family	stackingms	NIL
+SF14_ENG_063	org:parents	stackingms	NIL
+SF14_ENG_001	per:cause_of_death	stackingms	NIL
+SF14_ENG_004	per:country_of_death	stackingms	NIL
+SF14_ENG_026	per:country_of_death	stackingms	NIL
+SF14_ENG_062	org:member_of	stackingms	NIL
+SF14_ENG_029	per:date_of_death	stackingms	NIL
+SF14_ENG_019	per:country_of_death	stackingms	NIL
+SF14_ENG_006	per:city_of_death	stackingms	NIL
+SF14_ENG_048	per:charges	stackingms	NIL
+SF14_ENG_039	per:city_of_birth	stackingms	NIL
+SF14_ENG_096	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_096	org:member_of	stackingms	NIL
+SF14_ENG_005	per:religion	stackingms	NIL
+SF14_ENG_061	org:date_founded	stackingms	NIL
+SF14_ENG_028	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_036	per:spouse	stackingms	NIL
+SF14_ENG_050	per:countries_of_residence	stackingms	NIL
+SF14_ENG_082	org:member_of	stackingms	NIL
+SF14_ENG_091	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_048	per:title	stackingms	NIL
+SF14_ENG_008	per:children	stackingms	NIL
+SF14_ENG_005	per:date_of_death	stackingms	NIL
+SF14_ENG_046	per:date_of_death	stackingms	NIL
+SF14_ENG_090	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_074	org:website	stackingms	NIL
+SF14_ENG_026	per:countries_of_residence	stackingms	NIL
+SF14_ENG_088	org:parents	stackingms	NIL
+SF14_ENG_032	per:countries_of_residence	stackingms	NIL
+SF14_ENG_057	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_069	org:founded_by	stackingms	NIL
+SF14_ENG_092	org:date_dissolved	stackingms	NIL
+SF14_ENG_017	per:date_of_birth	stackingms	NIL
+SF14_ENG_042	per:religion	stackingms	NIL
+SF14_ENG_007	per:cause_of_death	stackingms	NIL
+SF14_ENG_003	per:schools_attended	stackingms	NIL
+SF14_ENG_067	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_094	org:date_dissolved	stackingms	NIL
+SF14_ENG_079	org:member_of	stackingms	NIL
+SF14_ENG_044	per:siblings	stackingms	NIL
+SF14_ENG_033	per:spouse	stackingms	NIL
+SF14_ENG_097	org:members	stackingms	NIL
+SF14_ENG_006	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_042	per:siblings	stackingms	NIL
+SF14_ENG_001	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_058	org:shareholders	stackingms	NIL
+SF14_ENG_051	org:subsidiaries	stackingms	NIL
+SF14_ENG_023	per:alternate_names	stackingms	NIL
+SF14_ENG_030	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_093	org:members	stackingms	NIL
+SF14_ENG_096	org:shareholders	stackingms	NIL
+SF14_ENG_062	org:alternate_names	stackingms	NIL
+SF14_ENG_038	per:origin	stackingms	NIL
+SF14_ENG_091	org:alternate_names	stackingms	NIL
+SF14_ENG_098	org:parents	stackingms	NIL
+SF14_ENG_099	org:members	stackingms	NIL
+SF14_ENG_041	per:country_of_birth	stackingms	NIL
+SF14_ENG_031	per:country_of_death	stackingms	NIL
+SF14_ENG_032	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_007	per:religion	stackingms	NIL
+SF14_ENG_076	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_048	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_004	per:date_of_birth	stackingms	NIL
+SF14_ENG_008	per:date_of_death	stackingms	NIL
+SF14_ENG_056	org:members	stackingms	NIL
+SF14_ENG_005	per:siblings	stackingms	NIL
+SF14_ENG_100	org:parents	stackingms	NIL
+SF14_ENG_093	org:founded_by	stackingms	NIL
+SF14_ENG_032	per:spouse	stackingms	NIL
+SF14_ENG_058	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_011	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_047	per:date_of_birth	stackingms	NIL
+SF14_ENG_100	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_058	org:parents	stackingms	NIL
+SF14_ENG_042	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_054	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_018	per:country_of_death	stackingms	NIL
+SF14_ENG_010	per:date_of_birth	stackingms	NIL
+SF14_ENG_089	org:date_dissolved	stackingms	NIL
+SF14_ENG_034	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_031	per:date_of_death	stackingms	NIL
+SF14_ENG_017	per:countries_of_residence	stackingms	NIL
+SF14_ENG_043	per:cause_of_death	stackingms	NIL
+SF14_ENG_036	per:cause_of_death	stackingms	NIL
+SF14_ENG_088	org:top_members_employees	stackingms	NIL
+SF14_ENG_021	per:cause_of_death	stackingms	NIL
+SF14_ENG_042	per:countries_of_residence	stackingms	NIL
+SF14_ENG_028	per:date_of_death	stackingms	NIL
+SF14_ENG_056	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_004	per:spouse	stackingms	NIL
+SF14_ENG_042	per:origin	stackingms	NIL
+SF14_ENG_028	per:country_of_death	stackingms	NIL
+SF14_ENG_001	per:other_family	stackingms	NIL
+SF14_ENG_019	per:children	stackingms	NIL
+SF14_ENG_036	per:city_of_death	stackingms	NIL
+SF14_ENG_047	per:alternate_names	stackingms	NIL
+SF14_ENG_038	per:alternate_names	stackingms	NIL
+SF14_ENG_029	per:city_of_birth	stackingms	NIL
+SF14_ENG_014	per:other_family	stackingms	NIL
+SF14_ENG_084	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_078	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_073	org:alternate_names	stackingms	NIL
+SF14_ENG_012	per:country_of_death	stackingms	NIL
+SF14_ENG_027	per:religion	stackingms	NIL
+SF14_ENG_074	org:shareholders	stackingms	NIL
+SF14_ENG_043	per:cities_of_residence	stackingms	NIL
+SF14_ENG_053	org:parents	stackingms	NIL
+SF14_ENG_027	per:alternate_names	stackingms	NIL
+SF14_ENG_044	per:city_of_birth	stackingms	NIL
+SF14_ENG_070	org:shareholders	stackingms	NIL
+SF14_ENG_004	per:cause_of_death	stackingms	NIL
+SF14_ENG_051	org:parents	stackingms	NIL
+SF14_ENG_063	org:website	stackingms	NIL
+SF14_ENG_020	per:country_of_death	stackingms	NIL
+SF14_ENG_027	per:country_of_birth	stackingms	NIL
+SF14_ENG_054	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_060	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_044	per:date_of_birth	stackingms	NIL
+SF14_ENG_100	org:subsidiaries	stackingms	NIL
+SF14_ENG_044	per:cities_of_residence	stackingms	NIL
+SF14_ENG_089	org:members	stackingms	NIL
+SF14_ENG_094	org:subsidiaries	stackingms	NIL
+SF14_ENG_048	per:parents	stackingms	NIL
+SF14_ENG_009	per:countries_of_residence	stackingms	NIL
+SF14_ENG_093	org:parents	stackingms	NIL
+SF14_ENG_016	per:countries_of_residence	stackingms	NIL
+SF14_ENG_035	per:countries_of_residence	stackingms	NIL
+SF14_ENG_002	per:date_of_birth	stackingms	NIL
+SF14_ENG_032	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_029	per:parents	stackingms	NIL
+SF14_ENG_002	per:country_of_birth	stackingms	NIL
+SF14_ENG_040	per:city_of_birth	stackingms	NIL
+SF14_ENG_089	org:website	stackingms	NIL
+SF14_ENG_007	per:city_of_death	stackingms	NIL
+SF14_ENG_055	org:parents	stackingms	NIL
+SF14_ENG_003	per:children	stackingms	NIL
+SF14_ENG_035	per:religion	stackingms	NIL
+SF14_ENG_017	per:origin	stackingms	NIL
+SF14_ENG_074	org:parents	stackingms	NIL
+SF14_ENG_009	per:cities_of_residence	stackingms	NIL
+SF14_ENG_099	org:alternate_names	stackingms	NIL
+SF14_ENG_060	org:subsidiaries	stackingms	NIL
+SF14_ENG_006	per:spouse	stackingms	NIL
+SF14_ENG_038	per:children	stackingms	NIL
+SF14_ENG_057	org:date_founded	stackingms	NIL
+SF14_ENG_047	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_058	org:alternate_names	stackingms	NIL
+SF14_ENG_028	per:origin	stackingms	NIL
+SF14_ENG_064	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_019	per:religion	stackingms	NIL
+SF14_ENG_078	org:member_of	stackingms	NIL
+SF14_ENG_029	per:date_of_birth	stackingms	NIL
+SF14_ENG_034	per:cause_of_death	stackingms	NIL
+SF14_ENG_068	org:founded_by	stackingms	NIL
+SF14_ENG_057	org:top_members_employees	stackingms	NIL
+SF14_ENG_001	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_047	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_031	per:schools_attended	stackingms	NIL
+SF14_ENG_018	per:origin	stackingms	NIL
+SF14_ENG_015	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_028	per:charges	stackingms	NIL
+SF14_ENG_017	per:charges	stackingms	NIL
+SF14_ENG_019	per:other_family	stackingms	NIL
+SF14_ENG_056	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_074	org:date_founded	stackingms	NIL
+SF14_ENG_004	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_039	per:schools_attended	stackingms	NIL
+SF14_ENG_098	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_048	per:other_family	stackingms	NIL
+SF14_ENG_018	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_078	org:alternate_names	stackingms	NIL
+SF14_ENG_024	per:country_of_death	stackingms	NIL
+SF14_ENG_053	org:date_dissolved	stackingms	NIL
+SF14_ENG_006	per:country_of_birth	stackingms	NIL
+SF14_ENG_089	org:subsidiaries	stackingms	NIL
+SF14_ENG_021	per:date_of_death	stackingms	NIL
+SF14_ENG_021	per:country_of_birth	stackingms	NIL
+SF14_ENG_058	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_068	org:website	stackingms	NIL
+SF14_ENG_031	per:children	stackingms	NIL
+SF14_ENG_043	per:religion	stackingms	NIL
+SF14_ENG_052	org:member_of	stackingms	NIL
+SF14_ENG_031	per:spouse	stackingms	NIL
+SF14_ENG_074	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_080	org:subsidiaries	stackingms	NIL
+SF14_ENG_029	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_086	org:date_dissolved	stackingms	NIL
+SF14_ENG_082	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_044	per:title	stackingms	NIL
+SF14_ENG_061	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_049	per:country_of_death	stackingms	NIL
+SF14_ENG_085	org:alternate_names	stackingms	NIL
+SF14_ENG_049	per:children	stackingms	NIL
+SF14_ENG_057	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_054	org:date_founded	stackingms	NIL
+SF14_ENG_022	per:age	stackingms	NIL
+SF14_ENG_007	per:spouse	stackingms	NIL
+SF14_ENG_076	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_024	per:charges	stackingms	NIL
+SF14_ENG_029	per:alternate_names	stackingms	NIL
+SF14_ENG_001	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_076	org:founded_by	stackingms	NIL
+SF14_ENG_009	per:city_of_death	stackingms	NIL
+SF14_ENG_001	per:country_of_death	stackingms	NIL
+SF14_ENG_040	per:children	stackingms	NIL
+SF14_ENG_093	org:shareholders	stackingms	NIL
+SF14_ENG_096	org:date_dissolved	stackingms	NIL
+SF14_ENG_078	org:members	stackingms	NIL
+SF14_ENG_011	per:date_of_death	stackingms	NIL
+SF14_ENG_013	per:other_family	stackingms	NIL
+SF14_ENG_020	per:other_family	stackingms	NIL
+SF14_ENG_044	per:countries_of_residence	stackingms	NIL
+SF14_ENG_063	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_015	per:countries_of_residence	stackingms	NIL
+SF14_ENG_018	per:date_of_birth	stackingms	NIL
+SF14_ENG_064	org:date_dissolved	stackingms	NIL
+SF14_ENG_013	per:charges	stackingms	NIL
+SF14_ENG_019	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_016	per:siblings	stackingms	NIL
+SF14_ENG_036	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_052	org:website	stackingms	NIL
+SF14_ENG_057	org:founded_by	stackingms	NIL
+SF14_ENG_059	org:member_of	stackingms	NIL
+SF14_ENG_055	org:members	stackingms	NIL
+SF14_ENG_100	org:founded_by	stackingms	NIL
+SF14_ENG_025	per:city_of_birth	stackingms	NIL
+SF14_ENG_092	org:parents	stackingms	NIL
+SF14_ENG_091	org:date_dissolved	stackingms	NIL
+SF14_ENG_033	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_032	per:country_of_birth	stackingms	NIL
+SF14_ENG_081	org:members	stackingms	NIL
+SF14_ENG_051	org:website	stackingms	NIL
+SF14_ENG_069	org:shareholders	stackingms	NIL
+SF14_ENG_034	per:country_of_death	stackingms	NIL
+SF14_ENG_088	org:founded_by	stackingms	NIL
+SF14_ENG_085	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_064	org:subsidiaries	stackingms	NIL
+SF14_ENG_066	org:member_of	stackingms	NIL
+SF14_ENG_061	org:subsidiaries	stackingms	NIL
+SF14_ENG_087	org:member_of	stackingms	NIL
+SF14_ENG_020	per:countries_of_residence	stackingms	NIL
+SF14_ENG_008	per:city_of_death	stackingms	NIL
+SF14_ENG_065	org:subsidiaries	stackingms	NIL
+SF14_ENG_097	org:parents	stackingms	NIL
+SF14_ENG_039	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_078	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_039	per:spouse	stackingms	NIL
+SF14_ENG_046	per:countries_of_residence	stackingms	NIL
+SF14_ENG_028	per:children	stackingms	NIL
+SF14_ENG_050	per:schools_attended	stackingms	NIL
+SF14_ENG_083	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_050	per:alternate_names	stackingms	NIL
+SF14_ENG_045	per:cause_of_death	stackingms	NIL
+SF14_ENG_070	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_041	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_061	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_028	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_012	per:alternate_names	stackingms	NIL
+SF14_ENG_045	per:other_family	stackingms	NIL
+SF14_ENG_008	per:country_of_death	stackingms	NIL
+SF14_ENG_012	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_043	per:country_of_birth	stackingms	NIL
+SF14_ENG_026	per:country_of_birth	stackingms	NIL
+SF14_ENG_014	per:city_of_death	stackingms	NIL
+SF14_ENG_015	per:siblings	stackingms	NIL
+SF14_ENG_011	per:cities_of_residence	stackingms	NIL
+SF14_ENG_003	per:city_of_birth	stackingms	NIL
+SF14_ENG_056	org:date_dissolved	stackingms	NIL
+SF14_ENG_054	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_045	per:city_of_death	stackingms	NIL
+SF14_ENG_090	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_079	org:website	stackingms	NIL
+SF14_ENG_035	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_073	org:members	stackingms	NIL
+SF14_ENG_040	per:date_of_birth	stackingms	NIL
+SF14_ENG_060	org:member_of	stackingms	NIL
+SF14_ENG_024	per:country_of_birth	stackingms	NIL
+SF14_ENG_020	per:siblings	stackingms	NIL
+SF14_ENG_063	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_028	per:countries_of_residence	stackingms	NIL
+SF14_ENG_077	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_041	per:city_of_birth	stackingms	NIL
+SF14_ENG_065	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_003	per:religion	stackingms	NIL
+SF14_ENG_010	per:other_family	stackingms	NIL
+SF14_ENG_036	per:siblings	stackingms	NIL
+SF14_ENG_035	per:schools_attended	stackingms	NIL
+SF14_ENG_046	per:city_of_death	stackingms	NIL
+SF14_ENG_056	org:member_of	stackingms	NIL
+SF14_ENG_001	per:spouse	stackingms	NIL
+SF14_ENG_041	per:alternate_names	stackingms	NIL
+SF14_ENG_088	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_019	per:cause_of_death	stackingms	NIL
+SF14_ENG_053	org:top_members_employees	stackingms	NIL
+SF14_ENG_057	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_046	per:country_of_death	stackingms	NIL
+SF14_ENG_008	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_001	per:date_of_death	stackingms	NIL
+SF14_ENG_046	per:other_family	stackingms	NIL
+SF14_ENG_034	per:countries_of_residence	stackingms	NIL
+SF14_ENG_095	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_083	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_005	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_052	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_036	per:charges	stackingms	NIL
+SF14_ENG_004	per:cities_of_residence	stackingms	NIL
+SF14_ENG_058	org:website	stackingms	NIL
+SF14_ENG_058	org:date_founded	stackingms	NIL
+SF14_ENG_034	per:parents	stackingms	NIL
+SF14_ENG_036	per:country_of_birth	stackingms	NIL
+SF14_ENG_098	org:subsidiaries	stackingms	NIL
+SF14_ENG_041	per:other_family	stackingms	NIL
+SF14_ENG_004	per:children	stackingms	NIL
+SF14_ENG_040	per:cities_of_residence	stackingms	NIL
+SF14_ENG_065	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_059	org:founded_by	stackingms	NIL
+SF14_ENG_024	per:religion	stackingms	NIL
+SF14_ENG_043	per:countries_of_residence	stackingms	NIL
+SF14_ENG_078	org:website	stackingms	NIL
+SF14_ENG_053	org:members	stackingms	NIL
+SF14_ENG_082	org:subsidiaries	stackingms	NIL
+SF14_ENG_077	org:shareholders	stackingms	NIL
+SF14_ENG_009	per:charges	stackingms	NIL
+SF14_ENG_020	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_059	org:parents	stackingms	NIL
+SF14_ENG_071	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_053	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_015	per:city_of_birth	stackingms	NIL
+SF14_ENG_005	per:date_of_birth	stackingms	NIL
+SF14_ENG_037	per:country_of_birth	stackingms	NIL
+SF14_ENG_005	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_018	per:cause_of_death	stackingms	NIL
+SF14_ENG_023	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_047	per:children	stackingms	NIL
+SF14_ENG_099	org:date_founded	stackingms	NIL
+SF14_ENG_050	per:other_family	stackingms	NIL
+SF14_ENG_042	per:charges	stackingms	NIL
+SF14_ENG_075	org:members	stackingms	NIL
+SF14_ENG_027	per:cause_of_death	stackingms	NIL
+SF14_ENG_048	per:age	stackingms	NIL
+SF14_ENG_046	per:siblings	stackingms	NIL
+SF14_ENG_051	org:alternate_names	stackingms	NIL
+SF14_ENG_019	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_013	per:age	stackingms	NIL
+SF14_ENG_073	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_003	per:spouse	stackingms	NIL
+SF14_ENG_061	org:date_dissolved	stackingms	NIL
+SF14_ENG_041	per:religion	stackingms	NIL
+SF14_ENG_018	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_033	per:age	stackingms	NIL
+SF14_ENG_044	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_029	per:countries_of_residence	stackingms	NIL
+SF14_ENG_043	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_090	org:subsidiaries	stackingms	NIL
+SF14_ENG_090	org:members	stackingms	NIL
+SF14_ENG_040	per:religion	stackingms	NIL
+SF14_ENG_067	org:parents	stackingms	NIL
+SF14_ENG_028	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_047	per:religion	stackingms	NIL
+SF14_ENG_010	per:country_of_birth	stackingms	NIL
+SF14_ENG_062	org:parents	stackingms	NIL
+SF14_ENG_010	per:religion	stackingms	NIL
+SF14_ENG_027	per:city_of_death	stackingms	NIL
+SF14_ENG_067	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_099	org:subsidiaries	stackingms	NIL
+SF14_ENG_040	per:other_family	stackingms	NIL
+SF14_ENG_081	org:member_of	stackingms	NIL
+SF14_ENG_046	per:spouse	stackingms	NIL
+SF14_ENG_007	per:origin	stackingms	NIL
+SF14_ENG_077	org:founded_by	stackingms	NIL
+SF14_ENG_036	per:origin	stackingms	NIL
+SF14_ENG_037	per:countries_of_residence	stackingms	NIL
+SF14_ENG_080	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_072	org:shareholders	stackingms	NIL
+SF14_ENG_009	per:alternate_names	stackingms	NIL
+SF14_ENG_051	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_032	per:date_of_birth	stackingms	NIL
+SF14_ENG_034	per:siblings	stackingms	NIL
+SF14_ENG_098	org:member_of	stackingms	NIL
+SF14_ENG_088	org:members	stackingms	NIL
+SF14_ENG_031	per:cities_of_residence	stackingms	NIL
+SF14_ENG_067	org:alternate_names	stackingms	NIL
+SF14_ENG_091	org:member_of	stackingms	NIL
+SF14_ENG_022	per:city_of_death	stackingms	NIL
+SF14_ENG_024	per:title	stackingms	NIL
+SF14_ENG_059	org:date_dissolved	stackingms	NIL
+SF14_ENG_075	org:parents	stackingms	NIL
+SF14_ENG_030	per:date_of_death	stackingms	NIL
+SF14_ENG_012	per:other_family	stackingms	NIL
+SF14_ENG_019	per:city_of_death	stackingms	NIL
+SF14_ENG_001	per:children	stackingms	NIL
+SF14_ENG_085	org:shareholders	stackingms	NIL
+SF14_ENG_024	per:city_of_birth	stackingms	NIL
+SF14_ENG_087	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_059	org:subsidiaries	stackingms	NIL
+SF14_ENG_078	org:subsidiaries	stackingms	NIL
+SF14_ENG_031	per:age	stackingms	NIL
+SF14_ENG_003	per:age	stackingms	NIL
+SF14_ENG_038	per:country_of_birth	stackingms	NIL
+SF14_ENG_045	per:date_of_death	stackingms	NIL
+SF14_ENG_089	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_022	per:spouse	stackingms	NIL
+SF14_ENG_027	per:age	stackingms	NIL
+SF14_ENG_024	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_036	per:city_of_birth	stackingms	NIL
+SF14_ENG_077	org:website	stackingms	NIL
+SF14_ENG_039	per:country_of_death	stackingms	NIL
+SF14_ENG_011	per:country_of_birth	stackingms	NIL
+SF14_ENG_052	org:date_dissolved	stackingms	NIL
+SF14_ENG_033	per:parents	stackingms	NIL
+SF14_ENG_098	org:date_dissolved	stackingms	NIL
+SF14_ENG_062	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_019	per:date_of_death	stackingms	NIL
+SF14_ENG_076	org:members	stackingms	NIL
+SF14_ENG_040	per:spouse	stackingms	NIL
+SF14_ENG_018	per:other_family	stackingms	NIL
+SF14_ENG_029	per:city_of_death	stackingms	NIL
+SF14_ENG_085	org:founded_by	stackingms	NIL
+SF14_ENG_045	per:alternate_names	stackingms	NIL
+SF14_ENG_006	per:age	stackingms	NIL
+SF14_ENG_072	org:members	stackingms	NIL
+SF14_ENG_013	per:country_of_birth	stackingms	NIL
+SF14_ENG_014	per:parents	stackingms	NIL
+SF14_ENG_056	org:founded_by	stackingms	NIL
+SF14_ENG_081	org:subsidiaries	stackingms	NIL
+SF14_ENG_030	per:origin	stackingms	NIL
+SF14_ENG_045	per:spouse	stackingms	NIL
+SF14_ENG_075	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_100	org:members	stackingms	NIL
+SF14_ENG_048	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_043	per:date_of_death	stackingms	NIL
+SF14_ENG_075	org:founded_by	stackingms	NIL
+SF14_ENG_049	per:date_of_death	stackingms	NIL
+SF14_ENG_005	per:children	stackingms	NIL
+SF14_ENG_030	per:cause_of_death	stackingms	NIL
+SF14_ENG_026	per:alternate_names	stackingms	NIL
+SF14_ENG_043	per:city_of_birth	stackingms	NIL
+SF14_ENG_035	per:children	stackingms	NIL
+SF14_ENG_020	per:city_of_birth	stackingms	NIL
+SF14_ENG_096	org:members	stackingms	NIL
+SF14_ENG_053	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_007	per:city_of_birth	stackingms	NIL
+SF14_ENG_015	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_001	per:country_of_birth	stackingms	NIL
+SF14_ENG_083	org:top_members_employees	stackingms	NIL
+SF14_ENG_095	org:founded_by	stackingms	NIL
+SF14_ENG_014	per:date_of_death	stackingms	NIL
+SF14_ENG_017	per:country_of_birth	stackingms	NIL
+SF14_ENG_072	org:founded_by	stackingms	NIL
+SF14_ENG_051	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_079	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_044	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_063	org:date_dissolved	stackingms	NIL
+SF14_ENG_021	per:schools_attended	stackingms	NIL
+SF14_ENG_047	per:schools_attended	stackingms	NIL
+SF14_ENG_047	per:cities_of_residence	stackingms	NIL
+SF14_ENG_032	per:country_of_death	stackingms	NIL
+SF14_ENG_029	per:children	stackingms	NIL
+SF14_ENG_039	per:religion	stackingms	NIL
+SF14_ENG_004	per:siblings	stackingms	NIL
+SF14_ENG_096	org:top_members_employees	stackingms	NIL
+SF14_ENG_084	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_046	per:schools_attended	stackingms	NIL
+SF14_ENG_068	org:shareholders	stackingms	NIL
+SF14_ENG_023	per:age	stackingms	NIL
+SF14_ENG_033	per:city_of_birth	stackingms	NIL
+SF14_ENG_035	per:date_of_death	stackingms	NIL
+SF14_ENG_077	org:top_members_employees	stackingms	NIL
+SF14_ENG_097	org:member_of	stackingms	NIL
+SF14_ENG_008	per:city_of_birth	stackingms	NIL
+SF14_ENG_012	per:parents	stackingms	NIL
+SF14_ENG_042	per:city_of_birth	stackingms	NIL
+SF14_ENG_037	per:date_of_birth	stackingms	NIL
+SF14_ENG_062	org:date_dissolved	stackingms	NIL
+SF14_ENG_016	per:country_of_birth	stackingms	NIL
+SF14_ENG_068	org:top_members_employees	stackingms	NIL
+SF14_ENG_073	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_031	per:cause_of_death	stackingms	NIL
+SF14_ENG_086	org:shareholders	stackingms	NIL
+SF14_ENG_074	org:date_dissolved	stackingms	NIL
+SF14_ENG_051	org:date_founded	stackingms	NIL
+SF14_ENG_014	per:date_of_birth	stackingms	NIL
+SF14_ENG_017	per:cause_of_death	stackingms	NIL
+SF14_ENG_009	per:other_family	stackingms	NIL
+SF14_ENG_096	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_007	per:date_of_death	stackingms	NIL
+SF14_ENG_069	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_091	org:shareholders	stackingms	NIL
+SF14_ENG_005	per:country_of_birth	stackingms	NIL
+SF14_ENG_047	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_034	per:city_of_birth	stackingms	NIL
+SF14_ENG_059	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_037	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_098	org:website	stackingms	NIL
+SF14_ENG_047	per:countries_of_residence	stackingms	NIL
+SF14_ENG_012	per:religion	stackingms	NIL
+SF14_ENG_007	per:parents	stackingms	NIL
+SF14_ENG_046	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_009	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_037	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_030	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_023	per:date_of_birth	stackingms	NIL
+SF14_ENG_100	org:date_founded	stackingms	NIL
+SF14_ENG_037	per:other_family	stackingms	NIL
+SF14_ENG_081	org:parents	stackingms	NIL
+SF14_ENG_024	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_042	per:schools_attended	stackingms	NIL
+SF14_ENG_047	per:parents	stackingms	NIL
+SF14_ENG_023	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_094	org:shareholders	stackingms	NIL
+SF14_ENG_059	org:date_founded	stackingms	NIL
+SF14_ENG_014	per:cities_of_residence	stackingms	NIL
+SF14_ENG_012	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_049	per:date_of_birth	stackingms	NIL
+SF14_ENG_082	org:date_dissolved	stackingms	NIL
+SF14_ENG_007	per:schools_attended	stackingms	NIL
+SF14_ENG_072	org:date_founded	stackingms	NIL
+SF14_ENG_073	org:date_founded	stackingms	NIL
+SF14_ENG_010	per:siblings	stackingms	NIL
+SF14_ENG_086	org:subsidiaries	stackingms	NIL
+SF14_ENG_073	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_037	per:country_of_death	stackingms	NIL
+SF14_ENG_029	per:spouse	stackingms	NIL
+SF14_ENG_087	org:top_members_employees	stackingms	NIL
+SF14_ENG_028	per:cause_of_death	stackingms	NIL
+SF14_ENG_043	per:parents	stackingms	NIL
+SF14_ENG_057	org:alternate_names	stackingms	NIL
+SF14_ENG_014	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_009	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_060	org:members	stackingms	NIL
+SF14_ENG_007	per:country_of_death	stackingms	NIL
+SF14_ENG_053	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_027	per:date_of_birth	stackingms	NIL
+SF14_ENG_095	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_081	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_013	per:cause_of_death	stackingms	NIL
+SF14_ENG_019	per:countries_of_residence	stackingms	NIL
+SF14_ENG_038	per:city_of_death	stackingms	NIL
+SF14_ENG_099	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_008	per:spouse	stackingms	NIL
+SF14_ENG_002	per:age	stackingms	NIL
+SF14_ENG_029	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_089	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_005	per:other_family	stackingms	NIL
+SF14_ENG_041	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_011	per:date_of_birth	stackingms	NIL
+SF14_ENG_002	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_003	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_033	per:date_of_death	stackingms	NIL
+SF14_ENG_040	per:charges	stackingms	NIL
+SF14_ENG_022	per:other_family	stackingms	NIL
+SF14_ENG_012	per:date_of_birth	stackingms	NIL
+SF14_ENG_100	org:shareholders	stackingms	NIL
+SF14_ENG_059	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_026	per:cities_of_residence	stackingms	NIL
+SF14_ENG_020	per:cities_of_residence	stackingms	NIL
+SF14_ENG_037	per:cause_of_death	stackingms	NIL
+SF14_ENG_044	per:charges	stackingms	NIL
+SF14_ENG_028	per:religion	stackingms	NIL
+SF14_ENG_060	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_070	org:top_members_employees	stackingms	NIL
+SF14_ENG_038	per:spouse	stackingms	NIL
+SF14_ENG_082	org:parents	stackingms	NIL
+SF14_ENG_010	per:country_of_death	stackingms	NIL
+SF14_ENG_029	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_071	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_061	org:website	stackingms	NIL
+SF14_ENG_077	org:subsidiaries	stackingms	NIL
+SF14_ENG_009	per:date_of_birth	stackingms	NIL
+SF14_ENG_040	per:alternate_names	stackingms	NIL
+SF14_ENG_064	org:parents	stackingms	NIL
+SF14_ENG_001	per:schools_attended	stackingms	NIL
+SF14_ENG_027	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_027	per:origin	stackingms	NIL
+SF14_ENG_090	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_001	per:date_of_birth	stackingms	NIL
+SF14_ENG_081	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_046	per:cause_of_death	stackingms	NIL
+SF14_ENG_055	org:subsidiaries	stackingms	NIL
+SF14_ENG_061	org:member_of	stackingms	NIL
+SF14_ENG_076	org:member_of	stackingms	NIL
+SF14_ENG_064	org:founded_by	stackingms	NIL
+SF14_ENG_090	org:shareholders	stackingms	NIL
+SF14_ENG_007	per:title	stackingms	NIL
+SF14_ENG_031	per:religion	stackingms	NIL
+SF14_ENG_086	org:website	stackingms	NIL
+SF14_ENG_092	org:founded_by	stackingms	NIL
+SF14_ENG_079	org:alternate_names	stackingms	NIL
+SF14_ENG_017	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_064	org:members	stackingms	NIL
+SF14_ENG_018	per:siblings	stackingms	NIL
+SF14_ENG_069	org:member_of	stackingms	NIL
+SF14_ENG_023	per:religion	stackingms	NIL
+SF14_ENG_039	per:parents	stackingms	NIL
+SF14_ENG_023	per:schools_attended	stackingms	NIL
+SF14_ENG_043	per:schools_attended	stackingms	NIL
+SF14_ENG_096	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_082	org:website	stackingms	NIL
+SF14_ENG_047	per:siblings	stackingms	NIL
+SF14_ENG_037	per:spouse	stackingms	NIL
+SF14_ENG_020	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_066	org:parents	stackingms	NIL
+SF14_ENG_088	org:date_dissolved	stackingms	NIL
+SF14_ENG_078	org:shareholders	stackingms	NIL
+SF14_ENG_047	per:country_of_death	stackingms	NIL
+SF14_ENG_052	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_045	per:charges	stackingms	NIL
+SF14_ENG_053	org:date_founded	stackingms	NIL
+SF14_ENG_035	per:date_of_birth	stackingms	NIL
+SF14_ENG_054	org:parents	stackingms	NIL
+SF14_ENG_071	org:date_dissolved	stackingms	NIL
+SF14_ENG_091	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_080	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_069	org:alternate_names	stackingms	NIL
+SF14_ENG_058	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_011	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_042	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_056	org:shareholders	stackingms	NIL
+SF14_ENG_047	per:spouse	stackingms	NIL
+SF14_ENG_070	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_011	per:children	stackingms	NIL
+SF14_ENG_012	per:cause_of_death	stackingms	NIL
+SF14_ENG_014	per:origin	stackingms	NIL
+SF14_ENG_023	per:city_of_birth	stackingms	NIL
+SF14_ENG_014	per:charges	stackingms	NIL
+SF14_ENG_065	org:shareholders	stackingms	NIL
+SF14_ENG_037	per:charges	stackingms	NIL
+SF14_ENG_025	per:country_of_birth	stackingms	NIL
+SF14_ENG_024	per:children	stackingms	NIL
+SF14_ENG_091	org:members	stackingms	NIL
+SF14_ENG_087	org:subsidiaries	stackingms	NIL
+SF14_ENG_046	per:city_of_birth	stackingms	NIL
+SF14_ENG_029	per:siblings	stackingms	NIL
+SF14_ENG_030	per:siblings	stackingms	NIL
+SF14_ENG_097	org:date_dissolved	stackingms	NIL
+SF14_ENG_057	org:member_of	stackingms	NIL
+SF14_ENG_041	per:city_of_death	stackingms	NIL
+SF14_ENG_010	per:schools_attended	stackingms	NIL
+SF14_ENG_065	org:date_dissolved	stackingms	NIL
+SF14_ENG_027	per:children	stackingms	NIL
+SF14_ENG_013	per:religion	stackingms	NIL
+SF14_ENG_052	org:parents	stackingms	NIL
+SF14_ENG_034	per:spouse	stackingms	NIL
+SF14_ENG_032	per:cause_of_death	stackingms	NIL
+SF14_ENG_045	per:parents	stackingms	NIL
+SF14_ENG_018	per:city_of_birth	stackingms	NIL
+SF14_ENG_030	per:religion	stackingms	NIL
+SF14_ENG_078	org:date_founded	stackingms	NIL
+SF14_ENG_030	per:country_of_death	stackingms	NIL
+SF14_ENG_090	org:date_founded	stackingms	NIL
+SF14_ENG_056	org:parents	stackingms	NIL
+SF14_ENG_014	per:country_of_birth	stackingms	NIL
+SF14_ENG_045	per:schools_attended	stackingms	NIL
+SF14_ENG_086	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_082	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_072	org:member_of	stackingms	NIL
+SF14_ENG_042	per:cities_of_residence	stackingms	NIL
+SF14_ENG_004	per:alternate_names	stackingms	NIL
+SF14_ENG_005	per:country_of_death	stackingms	NIL
+SF14_ENG_010	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_086	org:alternate_names	stackingms	NIL
+SF14_ENG_073	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_080	org:alternate_names	stackingms	NIL
+SF14_ENG_040	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_067	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_095	org:subsidiaries	stackingms	NIL
+SF14_ENG_082	org:top_members_employees	stackingms	NIL
+SF14_ENG_034	per:religion	stackingms	NIL
+SF14_ENG_046	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_018	per:age	stackingms	NIL
+SF14_ENG_029	per:religion	stackingms	NIL
+SF14_ENG_006	per:date_of_birth	stackingms	NIL
+SF14_ENG_027	per:date_of_death	stackingms	NIL
+SF14_ENG_015	per:city_of_death	stackingms	NIL
+SF14_ENG_023	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_009	per:siblings	stackingms	NIL
+SF14_ENG_089	org:parents	stackingms	NIL
+SF14_ENG_094	org:website	stackingms	NIL
+SF14_ENG_079	org:shareholders	stackingms	NIL
+SF14_ENG_087	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_076	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_024	per:spouse	stackingms	NIL
+SF14_ENG_033	per:country_of_birth	stackingms	NIL
+SF14_ENG_018	per:alternate_names	stackingms	NIL
+SF14_ENG_028	per:parents	stackingms	NIL
+SF14_ENG_077	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_041	per:spouse	stackingms	NIL
+SF14_ENG_015	per:other_family	stackingms	NIL
+SF14_ENG_060	org:parents	stackingms	NIL
+SF14_ENG_025	per:alternate_names	stackingms	NIL
+SF14_ENG_056	org:website	stackingms	NIL
+SF14_ENG_092	org:date_founded	stackingms	NIL
+SF14_ENG_008	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_018	per:children	stackingms	NIL
+SF14_ENG_063	org:founded_by	stackingms	NIL
+SF14_ENG_012	per:city_of_death	stackingms	NIL
+SF14_ENG_010	per:date_of_death	stackingms	NIL
+SF14_ENG_098	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_058	org:subsidiaries	stackingms	NIL
+SF14_ENG_048	per:cause_of_death	stackingms	NIL
+SF14_ENG_007	per:alternate_names	stackingms	NIL
+SF14_ENG_050	per:date_of_birth	stackingms	NIL
+SF14_ENG_020	per:date_of_death	stackingms	NIL
+SF14_ENG_067	org:subsidiaries	stackingms	NIL
+SF14_ENG_013	per:spouse	stackingms	NIL
+SF14_ENG_048	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_016	per:parents	stackingms	NIL
+SF14_ENG_035	per:country_of_death	stackingms	NIL
+SF14_ENG_038	per:religion	stackingms	NIL
+SF14_ENG_065	org:founded_by	stackingms	NIL
+SF14_ENG_073	org:date_dissolved	stackingms	NIL
+SF14_ENG_010	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_031	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_052	org:subsidiaries	stackingms	NIL
+SF14_ENG_090	org:alternate_names	stackingms	NIL
+SF14_ENG_027	per:countries_of_residence	stackingms	NIL
+SF14_ENG_021	per:date_of_birth	stackingms	NIL
+SF14_ENG_015	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_037	per:city_of_birth	stackingms	NIL
+SF14_ENG_094	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_095	org:member_of	stackingms	NIL
+SF14_ENG_015	per:date_of_birth	stackingms	NIL
+SF14_ENG_016	per:religion	stackingms	NIL
+SF14_ENG_086	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_043	per:city_of_death	stackingms	NIL
+SF14_ENG_007	per:date_of_birth	stackingms	NIL
+SF14_ENG_084	org:members	stackingms	NIL
+SF14_ENG_093	org:subsidiaries	stackingms	NIL
+SF14_ENG_078	org:founded_by	stackingms	NIL
+SF14_ENG_033	per:children	stackingms	NIL
+SF14_ENG_021	per:children	stackingms	NIL
+SF14_ENG_017	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_044	per:parents	stackingms	NIL
+SF14_ENG_053	org:member_of	stackingms	NIL
+SF14_ENG_008	per:charges	stackingms	NIL
+SF14_ENG_032	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_059	org:alternate_names	stackingms	NIL
+SF14_ENG_082	org:founded_by	stackingms	NIL
+SF14_ENG_028	per:cities_of_residence	stackingms	NIL
+SF14_ENG_067	org:founded_by	stackingms	NIL
+SF14_ENG_008	per:schools_attended	stackingms	NIL
+SF14_ENG_094	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_085	org:member_of	stackingms	NIL
+SF14_ENG_026	per:other_family	stackingms	NIL
+SF14_ENG_004	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_067	org:member_of	stackingms	NIL
+SF14_ENG_009	per:parents	stackingms	NIL
+SF14_ENG_007	per:siblings	stackingms	NIL
+SF14_ENG_044	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_050	per:religion	stackingms	NIL
+SF14_ENG_032	per:other_family	stackingms	NIL
+SF14_ENG_046	per:date_of_birth	stackingms	NIL
+SF14_ENG_083	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_004	per:city_of_birth	stackingms	NIL
+SF14_ENG_082	org:members	stackingms	NIL
+SF14_ENG_099	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_070	org:website	stackingms	NIL
+SF14_ENG_027	per:siblings	stackingms	NIL
+SF14_ENG_032	per:alternate_names	stackingms	NIL
+SF14_ENG_040	per:origin	stackingms	NIL
+SF14_ENG_087	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_026	per:origin	stackingms	NIL
+SF14_ENG_050	per:city_of_death	stackingms	NIL
+SF14_ENG_027	per:charges	stackingms	NIL
+SF14_ENG_029	per:country_of_birth	stackingms	NIL
+SF14_ENG_058	org:members	stackingms	NIL
+SF14_ENG_065	org:member_of	stackingms	NIL
+SF14_ENG_057	org:website	stackingms	NIL
+SF14_ENG_013	per:children	stackingms	NIL
+SF14_ENG_006	per:parents	stackingms	NIL
+SF14_ENG_072	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_038	per:other_family	stackingms	NIL
+SF14_ENG_022	per:date_of_birth	stackingms	NIL
+SF14_ENG_004	per:schools_attended	stackingms	NIL
+SF14_ENG_022	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_043	per:age	stackingms	NIL
+SF14_ENG_017	per:city_of_death	stackingms	NIL
+SF14_ENG_049	per:city_of_death	stackingms	NIL
+SF14_ENG_022	per:country_of_birth	stackingms	NIL
+SF14_ENG_071	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_023	per:siblings	stackingms	NIL
+SF14_ENG_084	org:member_of	stackingms	NIL
+SF14_ENG_027	per:title	stackingms	NIL
+SF14_ENG_098	org:top_members_employees	stackingms	NIL
+SF14_ENG_003	per:origin	stackingms	NIL
+SF14_ENG_055	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_089	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_057	org:subsidiaries	stackingms	NIL
+SF14_ENG_035	per:country_of_birth	stackingms	NIL
+SF14_ENG_098	org:founded_by	stackingms	NIL
+SF14_ENG_077	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_010	per:spouse	stackingms	NIL
+SF14_ENG_085	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_048	per:alternate_names	stackingms	NIL
+SF14_ENG_011	per:spouse	stackingms	NIL
+SF14_ENG_016	per:country_of_death	stackingms	NIL
+SF14_ENG_050	per:cities_of_residence	stackingms	NIL
+SF14_ENG_031	per:alternate_names	stackingms	NIL
+SF14_ENG_029	per:country_of_death	stackingms	NIL
+SF14_ENG_017	per:religion	stackingms	NIL
+SF14_ENG_057	org:date_dissolved	stackingms	NIL
+SF14_ENG_003	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_099	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_059	org:shareholders	stackingms	NIL
+SF14_ENG_002	per:city_of_birth	stackingms	NIL
+SF14_ENG_064	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_089	org:alternate_names	stackingms	NIL
+SF14_ENG_078	org:top_members_employees	stackingms	NIL
+SF14_ENG_039	per:other_family	stackingms	NIL
+SF14_ENG_033	per:cause_of_death	stackingms	NIL
+SF14_ENG_005	per:parents	stackingms	NIL
+SF14_ENG_033	per:date_of_birth	stackingms	NIL
+SF14_ENG_042	per:cause_of_death	stackingms	NIL
+SF14_ENG_025	per:other_family	stackingms	NIL
+SF14_ENG_011	per:schools_attended	stackingms	NIL
+SF14_ENG_027	per:country_of_death	stackingms	NIL
+SF14_ENG_023	per:spouse	stackingms	NIL
+SF14_ENG_068	org:subsidiaries	stackingms	NIL
+SF14_ENG_002	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_024	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_003	per:alternate_names	stackingms	NIL
+SF14_ENG_056	org:alternate_names	stackingms	NIL
+SF14_ENG_006	per:charges	stackingms	NIL
+SF14_ENG_065	org:website	stackingms	NIL
+SF14_ENG_096	org:founded_by	stackingms	NIL
+SF14_ENG_013	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_067	org:date_dissolved	stackingms	NIL
+SF14_ENG_002	per:charges	stackingms	NIL
+SF14_ENG_031	per:city_of_birth	stackingms	NIL
+SF14_ENG_050	per:cause_of_death	stackingms	NIL
+SF14_ENG_010	per:countries_of_residence	stackingms	NIL
+SF14_ENG_015	per:country_of_death	stackingms	NIL
+SF14_ENG_017	per:children	stackingms	NIL
+SF14_ENG_075	org:shareholders	stackingms	NIL
+SF14_ENG_027	per:other_family	stackingms	NIL
+SF14_ENG_096	org:subsidiaries	stackingms	NIL
+SF14_ENG_095	org:date_dissolved	stackingms	NIL
+SF14_ENG_047	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_016	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_092	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_025	per:country_of_death	stackingms	NIL
+SF14_ENG_025	per:city_of_death	stackingms	NIL
+SF14_ENG_073	org:member_of	stackingms	NIL
+SF14_ENG_045	per:country_of_death	stackingms	NIL
+SF14_ENG_089	org:date_founded	stackingms	NIL
+SF14_ENG_068	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_007	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_021	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_096	org:parents	stackingms	NIL
+SF14_ENG_031	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_054	org:member_of	stackingms	NIL
+SF14_ENG_077	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_078	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_029	per:cause_of_death	stackingms	NIL
+SF14_ENG_063	org:alternate_names	stackingms	NIL
+SF14_ENG_026	per:charges	stackingms	NIL
+SF14_ENG_011	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_032	per:origin	stackingms	NIL
+SF14_ENG_046	per:religion	stackingms	NIL
+SF14_ENG_082	org:shareholders	stackingms	NIL
+SF14_ENG_010	per:origin	stackingms	NIL
+SF14_ENG_072	org:parents	stackingms	NIL
+SF14_ENG_016	per:charges	stackingms	NIL
+SF14_ENG_001	per:alternate_names	stackingms	NIL
+SF14_ENG_006	per:cause_of_death	stackingms	NIL
+SF14_ENG_011	per:alternate_names	stackingms	NIL
+SF14_ENG_041	per:date_of_death	stackingms	NIL
+SF14_ENG_016	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_065	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_066	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_040	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_094	org:parents	stackingms	NIL
+SF14_ENG_006	per:other_family	stackingms	NIL
+SF14_ENG_028	per:title	stackingms	NIL
+SF14_ENG_022	per:country_of_death	stackingms	NIL
+SF14_ENG_002	per:children	stackingms	NIL
+SF14_ENG_043	per:origin	stackingms	NIL
+SF14_ENG_003	per:siblings	stackingms	NIL
+SF14_ENG_083	org:founded_by	stackingms	NIL
+SF14_ENG_064	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_046	per:charges	stackingms	NIL
+SF14_ENG_076	org:subsidiaries	stackingms	NIL
+SF14_ENG_002	per:other_family	stackingms	NIL
+SF14_ENG_020	per:city_of_death	stackingms	NIL
+SF14_ENG_088	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_007	per:cities_of_residence	stackingms	NIL
+SF14_ENG_093	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_043	per:alternate_names	stackingms	NIL
+SF14_ENG_003	per:cause_of_death	stackingms	NIL
+SF14_ENG_099	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_003	per:countries_of_residence	stackingms	NIL
+SF14_ENG_053	org:alternate_names	stackingms	NIL
+SF14_ENG_093	org:top_members_employees	stackingms	NIL
+SF14_ENG_064	org:date_founded	stackingms	NIL
+SF14_ENG_010	per:children	stackingms	NIL
+SF14_ENG_010	per:alternate_names	stackingms	NIL
+SF14_ENG_036	per:parents	stackingms	NIL
+SF14_ENG_023	per:parents	stackingms	NIL
+SF14_ENG_037	per:cities_of_residence	stackingms	NIL
+SF14_ENG_089	org:shareholders	stackingms	NIL
+SF14_ENG_005	per:city_of_birth	stackingms	NIL
+SF14_ENG_028	per:siblings	stackingms	NIL
+SF14_ENG_064	org:alternate_names	stackingms	NIL
+SF14_ENG_014	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_048	per:country_of_birth	stackingms	NIL
+SF14_ENG_064	org:top_members_employees	stackingms	NIL
+SF14_ENG_072	org:website	stackingms	NIL
+SF14_ENG_081	org:alternate_names	stackingms	NIL
+SF14_ENG_004	per:country_of_birth	stackingms	NIL
+SF14_ENG_018	per:title	stackingms	NIL
+SF14_ENG_043	per:other_family	stackingms	NIL
+SF14_ENG_002	per:cities_of_residence	stackingms	NIL
+SF14_ENG_018	per:cities_of_residence	stackingms	NIL
+SF14_ENG_034	per:country_of_birth	stackingms	NIL
+SF14_ENG_018	per:schools_attended	stackingms	NIL
+SF14_ENG_014	per:alternate_names	stackingms	NIL
+SF14_ENG_053	org:subsidiaries	stackingms	NIL
+SF14_ENG_056	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_030	per:countries_of_residence	stackingms	NIL
+SF14_ENG_054	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_022	per:origin	stackingms	NIL
+SF14_ENG_043	per:date_of_birth	stackingms	NIL
+SF14_ENG_070	org:founded_by	stackingms	NIL
+SF14_ENG_030	per:date_of_birth	stackingms	NIL
+SF14_ENG_021	per:charges	stackingms	NIL
+SF14_ENG_081	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_021	per:country_of_death	stackingms	NIL
+SF14_ENG_043	per:spouse	stackingms	NIL
+SF14_ENG_020	per:cause_of_death	stackingms	NIL
+SF14_ENG_044	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_020	per:schools_attended	stackingms	NIL
+SF14_ENG_022	per:countries_of_residence	stackingms	NIL
+SF14_ENG_026	per:cause_of_death	stackingms	NIL
+SF14_ENG_033	per:religion	stackingms	NIL
+SF14_ENG_042	per:country_of_birth	stackingms	NIL
+SF14_ENG_021	per:alternate_names	stackingms	NIL
+SF14_ENG_052	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_033	per:city_of_death	stackingms	NIL
+SF14_ENG_079	org:subsidiaries	stackingms	NIL
+SF14_ENG_074	org:top_members_employees	stackingms	NIL
+SF14_ENG_051	org:top_members_employees	stackingms	NIL
+SF14_ENG_036	per:alternate_names	stackingms	NIL
+SF14_ENG_089	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_080	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_097	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_081	org:shareholders	stackingms	NIL
+SF14_ENG_006	per:date_of_death	stackingms	NIL
+SF14_ENG_003	per:cities_of_residence	stackingms	NIL
+SF14_ENG_022	per:charges	stackingms	NIL
+SF14_ENG_067	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_032	per:city_of_death	stackingms	NIL
+SF14_ENG_073	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_079	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_050	per:siblings	stackingms	NIL
+SF14_ENG_083	org:date_founded	stackingms	NIL
+SF14_ENG_049	per:country_of_birth	stackingms	NIL
+SF14_ENG_080	org:member_of	stackingms	NIL
+SF14_ENG_018	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_063	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_075	org:website	stackingms	NIL
+SF14_ENG_095	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_093	org:date_dissolved	stackingms	NIL
+SF14_ENG_071	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_014	per:city_of_birth	stackingms	NIL
+SF14_ENG_052	org:shareholders	stackingms	NIL
+SF14_ENG_004	per:parents	stackingms	NIL
+SF14_ENG_014	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_078	org:date_dissolved	stackingms	NIL
+SF14_ENG_082	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_006	per:country_of_death	stackingms	NIL
+SF14_ENG_040	per:countries_of_residence	stackingms	NIL
+SF14_ENG_069	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_063	org:subsidiaries	stackingms	NIL
+SF14_ENG_033	per:origin	stackingms	NIL
+SF14_ENG_004	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_015	per:country_of_birth	stackingms	NIL
+SF14_ENG_026	per:religion	stackingms	NIL
+SF14_ENG_049	per:religion	stackingms	NIL
+SF14_ENG_068	org:parents	stackingms	NIL
+SF14_ENG_041	per:cause_of_death	stackingms	NIL
+SF14_ENG_006	per:city_of_birth	stackingms	NIL
+SF14_ENG_015	per:origin	stackingms	NIL
+SF14_ENG_026	per:children	stackingms	NIL
+SF14_ENG_069	org:members	stackingms	NIL
+SF14_ENG_029	per:other_family	stackingms	NIL
+SF14_ENG_044	per:city_of_death	stackingms	NIL
+SF14_ENG_046	per:alternate_names	stackingms	NIL
+SF14_ENG_073	org:subsidiaries	stackingms	NIL
+SF14_ENG_034	per:date_of_death	stackingms	NIL
+SF14_ENG_076	org:top_members_employees	stackingms	NIL
+SF14_ENG_005	per:charges	stackingms	NIL
+SF14_ENG_068	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_006	per:children	stackingms	NIL
+SF14_ENG_097	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_091	org:website	stackingms	NIL
+SF14_ENG_050	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_087	org:parents	stackingms	NIL
+SF14_ENG_081	org:date_founded	stackingms	NIL
+SF14_ENG_002	per:city_of_death	stackingms	NIL
+SF14_ENG_075	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_025	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_062	org:subsidiaries	stackingms	NIL
+SF14_ENG_042	per:children	stackingms	NIL
+SF14_ENG_062	org:top_members_employees	stackingms	NIL
+SF14_ENG_036	per:other_family	stackingms	NIL
+SF14_ENG_029	per:charges	stackingms	NIL
+SF14_ENG_068	org:member_of	stackingms	NIL
+SF14_ENG_049	per:spouse	stackingms	NIL
+SF14_ENG_006	per:cities_of_residence	stackingms	NIL
+SF14_ENG_066	org:website	stackingms	NIL
+SF14_ENG_072	org:date_dissolved	stackingms	NIL
+SF14_ENG_006	per:religion	stackingms	NIL
+SF14_ENG_084	org:shareholders	stackingms	NIL
+SF14_ENG_003	per:other_family	stackingms	NIL
+SF14_ENG_099	org:member_of	stackingms	NIL
+SF14_ENG_055	org:date_founded	stackingms	NIL
+SF14_ENG_077	org:date_dissolved	stackingms	NIL
+SF14_ENG_004	per:religion	stackingms	NIL
