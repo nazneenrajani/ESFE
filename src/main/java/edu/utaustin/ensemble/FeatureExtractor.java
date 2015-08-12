@@ -114,14 +114,50 @@ public class FeatureExtractor {
 				"gpe:pos-from",
 				"gpe:neg-from",
 				"gpe:pos-towards",
-				"gpe:neg-towards");
+				"gpe:neg-towards",
+				
+				"org:employees_or_members",
+				"gpe:employees_or_members",
+				
+				"org:students",
+				"gpe:births_in_city",
+				"gpe:births_in_stateorprovince",
+				"gpe:births_in_country",
+				"gpe:residents_of_city",
+				"gpe:residents_of_stateorprovince",
+				"gpe:residents_of_country",
+				"gpe:deaths_in_city",
+				"gpe:deaths_in_stateorprovince",
+				"gpe:deaths_in_country",
+				
+				"per:holds_shares_in",
+				"org:holds_shares_in",
+				"gpe:holds_shares_in",
+				
+				"per:organizations_founded",
+				"org:organizations_founded",
+				"gpe:organizations_founded",
+				
+				"gpe:member_of",
+				
+				"per:top_member_employee_of",
+				"gpe:headquarters_in_city",
+				"gpe:headquarters_in_stateorprovince",
+				"gpe:headquarters_in_country");
 	}
 
 	public void getFiles(String path){
 		System.out.println(path);
 		File folder = new File(path);
+		System.out.println(folder.exists());
+		System.out.println(folder.getAbsolutePath());
+		File folder2 = new File("src/main/resources/");
+		System.out.println(folder2.exists());
 		File[] listOfFiles = folder.listFiles();
 		int k=0;
+//		import java.nio.file.Files;
+//		System.out.println(Files.exists(path));
+		System.out.println(listOfFiles.length);
 		for (int i = 0; i < listOfFiles.length; i++) {
 			if (listOfFiles[i].isFile()) {
 				REOutputs[k] = path+"/"+listOfFiles[i].getName();
@@ -162,7 +198,7 @@ public class FeatureExtractor {
 					double jaccard = 0.0;
 					int ans_length=mp1key.split("~")[2].split(" ").length;
 					System.out.println(mp1key.split("~")[0]);
-					int query_docs = query_lines.get(mp1key.split("~")[0]);
+//					int query_docs = query_lines.get(mp1key.split("~")[0]);
 					if(provenance.containsKey(mp1key)&&prov_count.containsKey(mp1key)){
 						String offset_main = provenance.get(mp1key);
 						String[] tmp_main = offset_main.split("-");
@@ -186,13 +222,17 @@ public class FeatureExtractor {
 						else if(year.equals("2014")){
 							mp2=scorers_2014[j].mpConfidence;				
 							t2=scorers_2014[j].mpTarget;
+//							System.out.println(t2.get(mp1key));
 							mpOut2=scorers_2014[j].mpOutput;
 							provenance2=scorers_2014[j].offset_rel;
 							prov2 = scorers_2014[i].rel_prov;
 						}
 
 						if(mp2.containsKey(mp1key)){
+//						if(mp2.containsKey(mp1key)&&t2.containsKey(mp1key)){
 							confs.add(mp2.get(mp1key));
+//							System.out.println(mp1key);
+//							System.out.println(t2.get(mp1key));
 							int target = t2.get(mp1key);
 							String out = mpOut2.get(mp1key);
 							if(target==1){
@@ -294,7 +334,8 @@ public class FeatureExtractor {
 		bfeatures.write("@attribute num_prov numeric\n");
 		bfeatures.write("@attribute jaccard numeric\n");
 		bfeatures.write("@attribute num_offset numeric\n");
-		bfeatures.write("@attribute rel {per:cities_of_residence,per:employee_or_member_of,per:age,org:date_founded,per:schools_attended,org:alternate_names,org:top_members_employees,org:member_of,org:shareholders,org:parents,org:subsidiaries,per:siblings,per:spouse,per:title,per:countries_of_residence,per:country_of_birth,per:alternate_names,per:parents,org:founded_by,org:country_of_headquarters,org:city_of_headquarters,org:date_dissolved,per:statesorprovinces_of_residence,per:stateorprovince_of_death,per:city_of_death,per:city_of_birth,per:stateorprovince_of_birth,org:members,per:children,per:cause_of_death,org:stateorprovince_of_headquarters,per:charges,org:website,per:religion,per:country_of_death,per:other_family,per:date_of_death,org:number_of_employees_members,per:date_of_birth,per:origin,org:political_religious_affiliation}\n");
+//		bfeatures.write("@attribute rel {per:cities_of_residence,per:employee_or_member_of,per:age,org:date_founded,per:schools_attended,org:alternate_names,org:top_members_employees,org:member_of,org:shareholders,org:parents,org:subsidiaries,per:siblings,per:spouse,per:title,per:countries_of_residence,per:country_of_birth,per:alternate_names,per:parents,org:founded_by,org:country_of_headquarters,org:city_of_headquarters,org:date_dissolved,per:statesorprovinces_of_residence,per:stateorprovince_of_death,per:city_of_death,per:city_of_birth,per:stateorprovince_of_birth,org:members,per:children,per:cause_of_death,org:stateorprovince_of_headquarters,per:charges,org:website,per:religion,per:country_of_death,per:other_family,per:date_of_death,org:number_of_employees_members,per:date_of_birth,per:origin,org:political_religious_affiliation}\n");
+		bfeatures.write("@attribute rel {per:cities_of_residence,per:employee_or_member_of,per:age,org:date_founded,per:schools_attended,org:alternate_names,org:top_members_employees,org:member_of,org:shareholders,org:parents,org:subsidiaries,per:siblings,per:spouse,per:title,per:countries_of_residence,per:country_of_birth,per:alternate_names,per:parents,org:founded_by,org:country_of_headquarters,org:city_of_headquarters,org:date_dissolved,per:statesorprovinces_of_residence,per:stateorprovince_of_death,per:city_of_death,per:city_of_birth,per:stateorprovince_of_birth,org:members,per:children,per:cause_of_death,org:stateorprovince_of_headquarters,per:charges,org:website,per:religion,per:country_of_death,per:other_family,per:date_of_death,org:number_of_employees_members,per:date_of_birth,per:origin,org:political_religious_affiliation,org:employees_or_members,gpe:employees_or_members,org:students,gpe:births_in_city,gpe:births_in_stateorprovince,gpe:births_in_country,gpe:residents_of_city,gpe:residents_of_stateorprovince,gpe:residents_of_country,gpe:deaths_in_city,gpe:deaths_in_stateorprovince,gpe:deaths_in_country,per:holds_shares_in,org:holds_shares_in,gpe:holds_shares_in,per:organizations_founded,org:organizations_founded,gpe:organizations_founded,gpe:member_of,per:top_member_employee_of,gpe:headquarters_in_city,gpe:headquarters_in_stateorprovince,gpe:headquarters_in_country}\n");
 		bfeatures.write("@attribute target {w,c}\n");
 		bfeatures.write("\n");
 		bfeatures.write("@data\n");
@@ -313,12 +354,15 @@ public class FeatureExtractor {
 			String out_str = fextractions_output.get(key);
 
 			bw.write(out_str+"\n");
+//			System.out.println(fextractions_target.get(key));
+//			if(fextractions_target.get(key) != null) {
 			if(fextractions_target.get(key)==1)
 				bfeatures.write(conf_str+parts[1]+","+"w"+"\n");
 			else if(fextractions_target.get(key)==0)
 				bfeatures.write(conf_str+parts[1]+","+"w"+"\n");
 			else
 				bfeatures.write(conf_str+parts[1]+","+"c"+"\n");
+//			}
 		}
 
 		bw.close();
@@ -461,21 +505,21 @@ public class FeatureExtractor {
 			prov_count.put(key_name, temp);
 			sys_count.put(key_name, (double)total_doc/10.0);
 		}
-		featureReader = new BufferedReader(new FileReader(query));
-		String q="";
-		if(year.equals("2013"))
-			q="SF13_ENG_";
-		else
-			q="SF14_ENG_";
-		int count=0;
-		while((line = featureReader.readLine()) != null){
-			count++;
-			if(count<10)
-				query_lines.put(q+"00"+count,Integer.parseInt(line.trim()));
-			else if(count<100)
-				query_lines.put(q+"0"+count,Integer.parseInt(line.trim()));
-			else
-				query_lines.put(q+count,Integer.parseInt(line.trim()));
-		}
+//		featureReader = new BufferedReader(new FileReader(query));
+//		String q="";
+//		if(year.equals("2013"))
+//			q="SF13_ENG_";
+//		else
+//			q="SF14_ENG_";
+//		int count=0;
+//		while((line = featureReader.readLine()) != null){
+//			count++;
+//			if(count<10)
+//				query_lines.put(q+"00"+count,Integer.parseInt(line.trim()));
+//			else if(count<100)
+//				query_lines.put(q+"0"+count,Integer.parseInt(line.trim()));
+//			else
+//				query_lines.put(q+count,Integer.parseInt(line.trim()));
+//		}
 	}
 }

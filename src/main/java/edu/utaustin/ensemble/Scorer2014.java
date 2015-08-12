@@ -368,7 +368,7 @@ public class Scorer2014 {
 	float precision;
 	float F;
 	// true to print out judgement for each line of response
-	boolean trace = false;
+	boolean trace = true;
 
 	// true to ignore docId ... match only on answerString
 	boolean anydoc = false;
@@ -531,13 +531,14 @@ public class Scorer2014 {
 			String jment = fields[5]; // overall judgment for the response
 			String relationProvjment = fields[6];
 			int eclass = 0;
-			try {
-				eclass = Integer.parseInt(fields[7]);
-			} catch (NumberFormatException e) {
-				System.out.println ("Warning: Invalid line in judgement file -- invalid equivalence class:");
-				System.out.println (line);
-				continue;
-			}
+//			try {
+//				eclass = Integer.parseInt(fields[7]);
+//			} catch (NumberFormatException e) {
+//				System.out.println ("Warning: Invalid line in judgement file -- invalid equivalence class:");
+//				System.out.println (line);
+//				continue;
+//			}
+			String link = fields[7];
 			if (eclass == 0)
 				eclass = eclass_generator++;
 
@@ -705,6 +706,8 @@ public class Scorer2014 {
 				offset_rel.put(key,off);
 			}
 			mpConfidence.put(key, confidence);
+//			System.out.println(key + "test");
+//			System.exit(1);
 			mpOutput.put(key, output_string);
 			if (response.get(query_id) == null)
 				response.put(query_id, new ArrayList<String>());
@@ -793,7 +796,11 @@ public class Scorer2014 {
 			if (type == "single") {
 				if (num_responses_to_query > 1) {
 					System.out.println ("Warning: Ignoring all but first response among multiple responses for single-valued slot " + query);
+//					System.out.println(responseList);
+//					responseList = responseList.subList(0,1);
 					responseList = responseList.subList(0,0);
+//					System.out.println(responseList);
+//					System.exit (1);
 					num_responses_to_query = responseList.size();
 					if (num_responses_to_query != 1) {
 						System.out.println ("Error: unable to take first of multiple responses for single-valued slot for query " + query);
@@ -879,6 +886,8 @@ public class Scorer2014 {
 						System.exit (1);
 					}
 				}
+//				System.out.println(tkey + "test2");
+//				System.exit(1);
 				if (trace)
 					System.out.println (symbol + " " + query + " " + responseString);
 			}
@@ -1007,7 +1016,36 @@ public class Scorer2014 {
 			"gpe:pos-from",
 			"gpe:neg-from",
 			"gpe:pos-towards",
-			"gpe:neg-towards");
+			"gpe:neg-towards",
+			
+			"org:employees_or_members",
+			"gpe:employees_or_members",
+			
+			"org:students",
+			"gpe:births_in_city",
+			"gpe:births_in_stateorprovince",
+			"gpe:births_in_country",
+			"gpe:residents_of_city",
+			"gpe:residents_of_stateorprovince",
+			"gpe:residents_of_country",
+			"gpe:deaths_in_city",
+			"gpe:deaths_in_stateorprovince",
+			"gpe:deaths_in_country",
+			
+			"per:holds_shares_in",
+			"org:holds_shares_in",
+			"gpe:holds_shares_in",
+			
+			"gpe:member_of",
+			
+			"per:organizations_founded",
+			"org:organizations_founded",
+			"gpe:organizations_founded",
+			
+			"per:top_member_employee_of",
+			"gpe:headquarters_in_city",
+			"gpe:headquarters_in_stateorprovince",
+			"gpe:headquarters_in_country");
 	/*
 	 * given entityId:slot, classify slot as "single" or "list" valued
 	 */

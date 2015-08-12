@@ -1,421 +1,381 @@
-SF14_ENG_031	per:title	stackingms	*	founder	*	1.0
-SF14_ENG_086	org:top_members_employees	stackingms	*	Joe Garcia	*	1.0
-SF14_ENG_050	per:origin	stackingms	*	American	*	1.0
-SF14_ENG_084	org:top_members_employees	stackingms	*	Sam Greenberg	*	1.0
-SF14_ENG_075	org:top_members_employees	stackingms	*	Herman Cain	*	1.0
-SF14_ENG_044	per:country_of_death	stackingms	*	England	*	1.0
-SF14_ENG_021	per:countries_of_residence	stackingms	*	Finland	*	1.0
-SF14_ENG_001	per:title	stackingms	*	analyst	*	1.0
-SF14_ENG_011	per:employee_or_member_of	stackingms	*	Havana	*	1.0
-SF14_ENG_032	per:title	stackingms	*	resident	*	1.0
-SF14_ENG_031	per:title	stackingms	*	author	*	1.0
-SF14_ENG_005	per:age	stackingms	*	22	*	1.0
-SF14_ENG_024	per:alternate_names	stackingms	*	Ruben	*	1.0
-SF14_ENG_049	per:cities_of_residence	stackingms	*	Seattle	*	1.0
-SF14_ENG_004	per:city_of_death	stackingms	*	Sacramento	*	1.0
-SF14_ENG_086	org:top_members_employees	stackingms	*	Robert Holden	*	1.0
-SF14_ENG_021	per:title	stackingms	*	player	*	1.0
-SF14_ENG_021	per:origin	stackingms	*	Finland	*	1.0
-SF14_ENG_094	org:alternate_names	stackingms	*	OANA	*	1.0
-SF14_ENG_025	per:statesorprovinces_of_residence	stackingms	*	Punjab	*	1.0
-SF14_ENG_045	per:employee_or_member_of	stackingms	*	Red Cross	*	1.0
-SF14_ENG_096	org:date_founded	stackingms	*	1996-XX-XX	*	1.0
-SF14_ENG_020	per:spouse	stackingms	*	Cleo Gates	*	1.0
-SF14_ENG_003	per:title	stackingms	*	founder	*	1.0
-SF14_ENG_013	per:statesorprovinces_of_residence	stackingms	*	Texas	*	1.0
-SF14_ENG_020	per:title	stackingms	*	spy	*	1.0
-SF14_ENG_099	org:top_members_employees	stackingms	*	Jeffrey Addicott	*	1.0
-SF14_ENG_087	org:alternate_names	stackingms	*	NTSO	*	1.0
-SF14_ENG_049	per:origin	stackingms	*	American	*	1.0
-SF14_ENG_012	per:origin	stackingms	*	Cuba	*	1.0
-SF14_ENG_031	per:title	stackingms	*	director	*	1.0
-SF14_ENG_024	per:origin	stackingms	*	Dutch	*	1.0
-SF14_ENG_042	per:title	stackingms	*	businessman	*	1.0
-SF14_ENG_075	org:top_members_employees	stackingms	*	Cain	*	1.0
-SF14_ENG_013	per:employee_or_member_of	stackingms	*	KBR	*	1.0
-SF14_ENG_012	per:spouse	stackingms	*	Judy	*	1.0
-SF14_ENG_022	per:date_of_death	stackingms	*	1977-XX-XX	*	1.0
-SF14_ENG_040	per:parents	stackingms	*	William Kunstler	*	1.0
-SF14_ENG_001	per:title	stackingms	*	author	*	1.0
-SF14_ENG_079	org:top_members_employees	stackingms	*	Alberto Alessi	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Liu Qi	*	1.0
-SF14_ENG_091	org:top_members_employees	stackingms	*	Nell Minow	*	1.0
-SF14_ENG_023	per:countries_of_residence	stackingms	*	Russian	*	1.0
-SF14_ENG_036	per:title	stackingms	*	president	*	1.0
-SF14_ENG_041	per:title	stackingms	*	ambassador	*	1.0
-SF14_ENG_040	per:age	stackingms	*	33	*	1.0
-SF14_ENG_061	org:city_of_headquarters	stackingms	*	Calabasas	*	1.0
-SF14_ENG_040	per:schools_attended	stackingms	*	Columbia Law School	*	1.0
-SF14_ENG_020	per:age	stackingms	*	30	*	1.0
-SF14_ENG_035	per:title	stackingms	*	assistant	*	1.0
-SF14_ENG_003	per:title	stackingms	*	clown	*	1.0
-SF14_ENG_061	org:top_members_employees	stackingms	*	Eric Sieracki	*	1.0
-SF14_ENG_016	per:title	stackingms	*	author	*	1.0
-SF14_ENG_038	per:siblings	stackingms	*	Adam Lange	*	1.0
-SF14_ENG_033	per:other_family	stackingms	*	Xie Caiping	*	1.0
-SF14_ENG_082	org:alternate_names	stackingms	*	Pluribus	*	1.0
-SF14_ENG_071	org:top_members_employees	stackingms	*	Arthur Mitchell	*	1.0
-SF14_ENG_042	per:title	stackingms	*	minister	*	1.0
-SF14_ENG_099	org:top_members_employees	stackingms	*	Ronald H. Covey Jr.	*	1.0
-SF14_ENG_049	per:city_of_birth	stackingms	*	Seattle	*	1.0
-SF14_ENG_012	per:title	stackingms	*	spy	*	1.0
-SF14_ENG_038	per:employee_or_member_of	stackingms	*	Caltech	*	1.0
-SF14_ENG_034	per:cities_of_residence	stackingms	*	Chongqing	*	1.0
-SF14_ENG_066	org:members	stackingms	*	Panama	*	1.0
-SF14_ENG_019	per:city_of_birth	stackingms	*	La Cumbre	*	1.0
-SF14_ENG_008	per:title	stackingms	*	architect	*	1.0
-SF14_ENG_045	per:origin	stackingms	*	Italian	*	1.0
-SF14_ENG_024	per:age	stackingms	*	9	*	1.0
-SF14_ENG_080	org:top_members_employees	stackingms	*	Bernice Berend Rose	*	1.0
-SF14_ENG_050	per:age	stackingms	*	40	*	1.0
-SF14_ENG_033	per:title	stackingms	*	legislator	*	1.0
-SF14_ENG_045	per:age	stackingms	*	62	*	1.0
-SF14_ENG_019	per:cities_of_residence	stackingms	*	Vancouver	*	1.0
-SF14_ENG_086	org:top_members_employees	stackingms	*	Jacqueline Johnson Pata	*	1.0
-SF14_ENG_011	per:countries_of_residence	stackingms	*	Cuba	*	1.0
-SF14_ENG_012	per:countries_of_residence	stackingms	*	U.S.	*	1.0
-SF14_ENG_049	per:parents	stackingms	*	Curt Knox	*	1.0
-SF14_ENG_068	org:alternate_names	stackingms	*	CCF	*	1.0
-SF14_ENG_071	org:city_of_headquarters	stackingms	*	New York	*	1.0
-SF14_ENG_050	per:title	stackingms	*	head	*	1.0
-SF14_ENG_049	per:charges	stackingms	*	murder	*	1.0
-SF14_ENG_038	per:siblings	stackingms	*	Karen Lange	*	1.0
-SF14_ENG_072	org:top_members_employees	stackingms	*	Whitney Young	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Wu Yin	*	1.0
-SF14_ENG_061	org:parents	stackingms	*	Bank of America	*	1.0
-SF14_ENG_041	per:title	stackingms	*	diplomat	*	1.0
-SF14_ENG_075	org:top_members_employees	stackingms	*	Sue Hensley	*	1.0
-SF14_ENG_026	per:title	stackingms	*	author	*	1.0
-SF14_ENG_025	per:age	stackingms	*	45	*	1.0
-SF14_ENG_019	per:employee_or_member_of	stackingms	*	AIM	*	1.0
-SF14_ENG_080	org:founded_by	stackingms	*	Dominique de Menil	*	1.0
-SF14_ENG_030	per:children	stackingms	*	Shelby LaFreniere	*	1.0
-SF14_ENG_050	per:title	stackingms	*	spokeswoman	*	1.0
-SF14_ENG_001	per:countries_of_residence	stackingms	*	Pakistan	*	1.0
-SF14_ENG_085	org:city_of_headquarters	stackingms	*	Beijing	*	1.0
-SF14_ENG_012	per:age	stackingms	*	60	*	1.0
-SF14_ENG_010	per:age	stackingms	*	71	*	1.0
-SF14_ENG_014	per:title	stackingms	*	Mayor	*	1.0
-SF14_ENG_021	per:employee_or_member_of	stackingms	*	Franklin Pierce College	*	1.0
-SF14_ENG_010	per:title	stackingms	*	owner	*	1.0
-SF14_ENG_045	per:title	stackingms	*	engineer	*	1.0
-SF14_ENG_024	per:parents	stackingms	*	Trudy	*	1.0
-SF14_ENG_034	per:title	stackingms	*	ringleader	*	1.0
-SF14_ENG_085	org:date_founded	stackingms	*	1941-XX-XX	*	1.0
-SF14_ENG_037	per:title	stackingms	*	fighter pilot	*	1.0
-SF14_ENG_049	per:charges	stackingms	*	sexual assault	*	1.0
-SF14_ENG_039	per:age	stackingms	*	56	*	1.0
-SF14_ENG_049	per:other_family	stackingms	*	Janet Huff	*	1.0
-SF14_ENG_068	org:country_of_headquarters	stackingms	*	China	*	1.0
-SF14_ENG_072	org:top_members_employees	stackingms	*	Marc Morial	*	1.0
-SF14_ENG_062	org:founded_by	stackingms	*	Simons	*	1.0
-SF14_ENG_090	org:founded_by	stackingms	*	Jane Rosenthal	*	1.0
-SF14_ENG_084	org:number_of_employees_members	stackingms	*	200	*	1.0
-SF14_ENG_019	per:siblings	stackingms	*	Margaret Graham Lewis	*	1.0
-SF14_ENG_089	org:top_members_employees	stackingms	*	Bill Martin	*	1.0
-SF14_ENG_024	per:siblings	stackingms	*	Enzo	*	1.0
-SF14_ENG_090	org:top_members_employees	stackingms	*	Geoffrey Gilmore	*	1.0
-SF14_ENG_038	per:statesorprovinces_of_residence	stackingms	*	Illinois	*	1.0
-SF14_ENG_095	org:top_members_employees	stackingms	*	Fiore	*	1.0
-SF14_ENG_096	org:alternate_names	stackingms	*	Allied Democratic Forces	*	1.0
-SF14_ENG_075	org:top_members_employees	stackingms	*	Dawn Sweeney	*	1.0
-SF14_ENG_035	per:charges	stackingms	*	corruption	*	1.0
-SF14_ENG_047	per:title	stackingms	*	owner	*	1.0
-SF14_ENG_029	per:age	stackingms	*	41	*	1.0
-SF14_ENG_038	per:city_of_birth	stackingms	*	Urbana	*	1.0
-SF14_ENG_045	per:countries_of_residence	stackingms	*	Philippines	*	1.0
-SF14_ENG_002	per:title	stackingms	*	writer	*	1.0
-SF14_ENG_075	org:alternate_names	stackingms	*	NRA	*	1.0
-SF14_ENG_025	per:countries_of_residence	stackingms	*	Pakistan	*	1.0
-SF14_ENG_033	per:title	stackingms	*	official	*	1.0
-SF14_ENG_053	org:city_of_headquarters	stackingms	*	Fairfield	*	1.0
-SF14_ENG_001	per:cities_of_residence	stackingms	*	Lahore	*	1.0
-SF14_ENG_039	per:city_of_death	stackingms	*	Philadelphia	*	1.0
-SF14_ENG_060	org:alternate_names	stackingms	*	UASR	*	1.0
-SF14_ENG_021	per:title	stackingms	*	goalkeeper	*	1.0
-SF14_ENG_045	per:title	stackingms	*	escort	*	1.0
-SF14_ENG_024	per:cities_of_residence	stackingms	*	Tilburg	*	1.0
-SF14_ENG_018	per:charges	stackingms	*	murder	*	1.0
-SF14_ENG_007	per:other_family	stackingms	*	Michael Chertoff	*	1.0
-SF14_ENG_020	per:employee_or_member_of	stackingms	*	American Indian Movement	*	1.0
-SF14_ENG_033	per:title	stackingms	*	delegate	*	1.0
-SF14_ENG_032	per:age	stackingms	*	26	*	1.0
-SF14_ENG_033	per:employee_or_member_of	stackingms	*	Chongqing	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Wang Qishan	*	1.0
-SF14_ENG_050	per:title	stackingms	*	missionary	*	1.0
-SF14_ENG_001	per:title	stackingms	*	journalist	*	1.0
-SF14_ENG_051	org:country_of_headquarters	stackingms	*	Indonesia	*	1.0
-SF14_ENG_079	org:date_founded	stackingms	*	1921-XX-XX	*	1.0
-SF14_ENG_085	org:top_members_employees	stackingms	*	Leng Jiesong	*	1.0
-SF14_ENG_072	org:alternate_names	stackingms	*	NUL	*	1.0
-SF14_ENG_005	per:title	stackingms	*	producer	*	1.0
-SF14_ENG_018	per:spouse	stackingms	*	Cleo Gates	*	1.0
-SF14_ENG_001	per:title	stackingms	*	correspondent	*	1.0
-SF14_ENG_084	org:founded_by	stackingms	*	Samuel Isaac Greenberg	*	1.0
-SF14_ENG_019	per:spouse	stackingms	*	Cleo Gates	*	1.0
-SF14_ENG_082	org:date_founded	stackingms	*	2009-XX-XX	*	1.0
-SF14_ENG_014	per:title	stackingms	*	attorney	*	1.0
-SF14_ENG_021	per:title	stackingms	*	defender	*	1.0
-SF14_ENG_008	per:siblings	stackingms	*	Michele	*	1.0
-SF14_ENG_013	per:title	stackingms	*	employee	*	1.0
-SF14_ENG_008	per:religion	stackingms	*	Christian	*	1.0
-SF14_ENG_073	org:website	stackingms	*	http://www.hki.org/	*	1.0
-SF14_ENG_035	per:spouse	stackingms	*	Zhou Xiaoya	*	1.0
-SF14_ENG_046	per:parents	stackingms	*	Luiz Henrique Ferreria Romao	*	1.0
-SF14_ENG_091	org:founded_by	stackingms	*	Nell Minow	*	1.0
-SF14_ENG_011	per:title	stackingms	*	president	*	1.0
-SF14_ENG_043	per:employee_or_member_of	stackingms	*	Cosa Nostra	*	1.0
-SF14_ENG_013	per:countries_of_residence	stackingms	*	Iraq	*	1.0
-SF14_ENG_038	per:cities_of_residence	stackingms	*	Urbana	*	1.0
-SF14_ENG_026	per:employee_or_member_of	stackingms	*	NYU	*	1.0
-SF14_ENG_032	per:parents	stackingms	*	Claudie	*	1.0
-SF14_ENG_019	per:title	stackingms	*	professor	*	1.0
-SF14_ENG_014	per:siblings	stackingms	*	Patricia Gonzalez	*	1.0
-SF14_ENG_043	per:title	stackingms	*	boss	*	1.0
-SF14_ENG_033	per:title	stackingms	*	director	*	1.0
-SF14_ENG_046	per:parents	stackingms	*	Bruno	*	1.0
-SF14_ENG_045	per:employee_or_member_of	stackingms	*	ICRC	*	1.0
-SF14_ENG_066	org:date_founded	stackingms	*	1991-XX-XX	*	1.0
-SF14_ENG_080	org:top_members_employees	stackingms	*	Dominique de Menil	*	1.0
-SF14_ENG_015	per:religion	stackingms	*	Christian	*	1.0
-SF14_ENG_042	per:title	stackingms	*	General	*	1.0
-SF14_ENG_036	per:employee_or_member_of	stackingms	*	United Negro	*	1.0
-SF14_ENG_023	per:countries_of_residence	stackingms	*	Finland	*	1.0
-SF14_ENG_038	per:cause_of_death	stackingms	*	suicide	*	1.0
-SF14_ENG_045	per:employee_or_member_of	stackingms	*	Philippine Red Cross	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Jiang Bing	*	1.0
-SF14_ENG_086	org:top_members_employees	stackingms	*	Jefferson Keel	*	1.0
-SF14_ENG_014	per:title	stackingms	*	regional director	*	1.0
-SF14_ENG_015	per:cause_of_death	stackingms	*	suicide	*	1.0
-SF14_ENG_033	per:cities_of_residence	stackingms	*	Chongqing	*	1.0
-SF14_ENG_049	per:cities_of_residence	stackingms	*	Perugia	*	1.0
-SF14_ENG_038	per:stateorprovince_of_birth	stackingms	*	Illinois	*	1.0
-SF14_ENG_019	per:title	stackingms	*	director	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Wang Siqiang	*	1.0
-SF14_ENG_033	per:charges	stackingms	*	rape	*	1.0
-SF14_ENG_044	per:age	stackingms	*	46	*	1.0
-SF14_ENG_046	per:title	stackingms	*	partner	*	1.0
-SF14_ENG_043	per:siblings	stackingms	*	Salvatore	*	1.0
-SF14_ENG_026	per:title	stackingms	*	Journalist	*	1.0
-SF14_ENG_017	per:siblings	stackingms	*	Ivan Henderson	*	1.0
-SF14_ENG_039	per:employee_or_member_of	stackingms	*	Cephalon Inc.	*	1.0
-SF14_ENG_098	org:alternate_names	stackingms	*	NDA	*	1.0
-SF14_ENG_029	per:schools_attended	stackingms	*	Tufts University School of Dental Medicine	*	1.0
-SF14_ENG_022	per:alternate_names	stackingms	*	Ponce Kiah Marchelle Heloise Cruse Evans	*	1.0
-SF14_ENG_066	org:top_members_employees	stackingms	*	Jacinto Suarez Espinoza	*	1.0
-SF14_ENG_016	per:city_of_death	stackingms	*	New York	*	1.0
-SF14_ENG_016	per:age	stackingms	*	61	*	1.0
-SF14_ENG_093	org:alternate_names	stackingms	*	US2	*	1.0
-SF14_ENG_012	per:title	stackingms	*	subcontractor	*	1.0
-SF14_ENG_047	per:title	stackingms	*	Chef	*	1.0
-SF14_ENG_010	per:cities_of_residence	stackingms	*	Stamford	*	1.0
-SF14_ENG_086	org:top_members_employees	stackingms	*	W. Ron Allen	*	1.0
-SF14_ENG_022	per:statesorprovinces_of_residence	stackingms	*	WASHINGTON	*	1.0
-SF14_ENG_047	per:title	stackingms	*	chef	*	1.0
-SF14_ENG_095	org:date_founded	stackingms	*	1961-XX-XX	*	1.0
-SF14_ENG_019	per:country_of_birth	stackingms	*	Canada	*	1.0
-SF14_ENG_050	per:parents	stackingms	*	John Sander	*	1.0
-SF14_ENG_012	per:city_of_birth	stackingms	*	Potomac	*	1.0
-SF14_ENG_037	per:employee_or_member_of	stackingms	*	NASA	*	1.0
-SF14_ENG_049	per:statesorprovinces_of_residence	stackingms	*	Washington	*	1.0
-SF14_ENG_037	per:date_of_death	stackingms	*	2009-09-13	*	1.0
-SF14_ENG_066	org:alternate_names	stackingms	*	PARLACEN	*	1.0
-SF14_ENG_022	per:parents	stackingms	*	Abelard	*	1.0
-SF14_ENG_081	org:top_members_employees	stackingms	*	Phillip Cooper	*	1.0
-SF14_ENG_033	per:title	stackingms	*	former deputy director	*	1.0
-SF14_ENG_015	per:schools_attended	stackingms	*	University of Pittsburgh	*	1.0
-SF14_ENG_075	org:date_founded	stackingms	*	1919-XX-XX	*	1.0
-SF14_ENG_015	per:title	stackingms	*	systems analyst	*	1.0
-SF14_ENG_048	per:children	stackingms	*	Meredith Kercher	*	1.0
-SF14_ENG_080	org:city_of_headquarters	stackingms	*	Houston	*	1.0
-SF14_ENG_013	per:siblings	stackingms	*	Hadeel Qassim Hamza	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Shi Lishan	*	1.0
-SF14_ENG_061	org:top_members_employees	stackingms	*	Angelo Mozilo	*	1.0
-SF14_ENG_046	per:title	stackingms	*	model	*	1.0
-SF14_ENG_011	per:religion	stackingms	*	Jewish	*	1.0
-SF14_ENG_008	per:title	stackingms	*	teacher	*	1.0
-SF14_ENG_056	org:date_founded	stackingms	*	1995-XX-XX	*	1.0
-SF14_ENG_072	org:top_members_employees	stackingms	*	Benjamin Jealous	*	1.0
-SF14_ENG_036	per:title	stackingms	*	Dr.	*	1.0
-SF14_ENG_071	org:alternate_names	stackingms	*	DTH	*	1.0
-SF14_ENG_049	per:siblings	stackingms	*	Deanna	*	1.0
-SF14_ENG_006	per:title	stackingms	*	researcher	*	1.0
-SF14_ENG_038	per:title	stackingms	*	chairman	*	1.0
-SF14_ENG_040	per:date_of_death	stackingms	*	1995-XX-XX	*	1.0
-SF14_ENG_075	org:top_members_employees	stackingms	*	Jonathan Martin	*	1.0
-SF14_ENG_001	per:siblings	stackingms	*	Rateb Popal	*	1.0
-SF14_ENG_023	per:title	stackingms	*	wrestler	*	1.0
-SF14_ENG_038	per:title	stackingms	*	physicist	*	1.0
-SF14_ENG_021	per:title	stackingms	*	coach	*	1.0
-SF14_ENG_024	per:countries_of_residence	stackingms	*	Netherlands	*	1.0
-SF14_ENG_086	org:stateorprovince_of_headquarters	stackingms	*	Washington	*	1.0
-SF14_ENG_037	per:parents	stackingms	*	Ilan Ramon	*	1.0
-SF14_ENG_023	per:title	stackingms	*	amateur wrestler	*	1.0
-SF14_ENG_050	per:employee_or_member_of	stackingms	*	New Life Children	*	1.0
-SF14_ENG_034	per:other_family	stackingms	*	Wen Qiang	*	1.0
-SF14_ENG_005	per:cities_of_residence	stackingms	*	Oneonta	*	1.0
-SF14_ENG_041	per:employee_or_member_of	stackingms	*	United Nations	*	1.0
-SF14_ENG_097	org:country_of_headquarters	stackingms	*	China	*	1.0
-SF14_ENG_071	org:top_members_employees	stackingms	*	Laveen Naidu	*	1.0
-SF14_ENG_048	per:siblings	stackingms	*	Stephanie	*	1.0
-SF14_ENG_023	per:origin	stackingms	*	Russia	*	1.0
-SF14_ENG_025	per:spouse	stackingms	*	Ashiq Masih	*	1.0
-SF14_ENG_016	per:title	stackingms	*	model	*	1.0
-SF14_ENG_050	per:charges	stackingms	*	kidnapping	*	1.0
-SF14_ENG_089	org:founded_by	stackingms	*	Bill Martin	*	1.0
-SF14_ENG_037	per:title	stackingms	*	pilot	*	1.0
-SF14_ENG_025	per:religion	stackingms	*	Christian	*	1.0
-SF14_ENG_019	per:charges	stackingms	*	second-degree murder	*	1.0
-SF14_ENG_013	per:origin	stackingms	*	American	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Sun Qin	*	1.0
-SF14_ENG_044	per:date_of_death	stackingms	*	2002-XX-XX	*	1.0
-SF14_ENG_028	per:age	stackingms	*	82	*	1.0
-SF14_ENG_080	org:top_members_employees	stackingms	*	Josef Helfenstein	*	1.0
-SF14_ENG_003	per:title	stackingms	*	researcher	*	1.0
-SF14_ENG_042	per:title	stackingms	*	head	*	1.0
-SF14_ENG_016	per:cities_of_residence	stackingms	*	Provincetown	*	1.0
-SF14_ENG_061	org:top_members_employees	stackingms	*	David Sambol	*	1.0
-SF14_ENG_061	org:founded_by	stackingms	*	David Loeb	*	1.0
-SF14_ENG_002	per:alternate_names	stackingms	*	Wayne A Holst	*	1.0
-SF14_ENG_019	per:title	stackingms	*	Administrator	*	1.0
-SF14_ENG_019	per:title	stackingms	*	Dr.	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Gu Jun	*	1.0
-SF14_ENG_026	per:title	stackingms	*	journalist	*	1.0
-SF14_ENG_050	per:country_of_birth	stackingms	*	Haiti	*	1.0
-SF14_ENG_033	per:employee_or_member_of	stackingms	*	Chongqing Municipal Judicial Bureau	*	1.0
-SF14_ENG_049	per:parents	stackingms	*	Edda Mellas	*	1.0
-SF14_ENG_044	per:origin	stackingms	*	England	*	1.0
-SF14_ENG_012	per:spouse	stackingms	*	Judy Gross	*	1.0
-SF14_ENG_003	per:title	stackingms	*	investigator	*	1.0
-SF14_ENG_049	per:parents	stackingms	*	Kurt Knox	*	1.0
-SF14_ENG_041	per:age	stackingms	*	60	*	1.0
-SF14_ENG_011	per:employee_or_member_of	stackingms	*	Temple Beth Shalom	*	1.0
-SF14_ENG_095	org:top_members_employees	stackingms	*	David Achey	*	1.0
-SF14_ENG_016	per:spouse	stackingms	*	Norman Mailer	*	1.0
-SF14_ENG_012	per:title	stackingms	*	contractor	*	1.0
-SF14_ENG_092	org:alternate_names	stackingms	*	PATA	*	1.0
-SF14_ENG_023	per:origin	stackingms	*	Russian	*	1.0
-SF14_ENG_014	per:age	stackingms	*	56	*	1.0
-SF14_ENG_049	per:age	stackingms	*	22	*	1.0
-SF14_ENG_015	per:cities_of_residence	stackingms	*	Pittsburgh	*	1.0
-SF14_ENG_016	per:title	stackingms	*	artist	*	1.0
-SF14_ENG_016	per:statesorprovinces_of_residence	stackingms	*	Arkansas	*	1.0
-SF14_ENG_035	per:title	stackingms	*	Professor	*	1.0
-SF14_ENG_084	org:alternate_names	stackingms	*	Greenberg	*	1.0
-SF14_ENG_034	per:age	stackingms	*	46	*	1.0
-SF14_ENG_020	per:charges	stackingms	*	kidnapping	*	1.0
-SF14_ENG_012	per:cities_of_residence	stackingms	*	Potomac	*	1.0
-SF14_ENG_049	per:countries_of_residence	stackingms	*	Italy	*	1.0
-SF14_ENG_016	per:origin	stackingms	*	American	*	1.0
-SF14_ENG_016	per:cities_of_residence	stackingms	*	Russellville	*	1.0
-SF14_ENG_019	per:origin	stackingms	*	Indian	*	1.0
-SF14_ENG_003	per:employee_or_member_of	stackingms	*	Citizen Investigation Team	*	1.0
-SF14_ENG_086	org:city_of_headquarters	stackingms	*	Washington	*	1.0
-SF14_ENG_079	org:country_of_headquarters	stackingms	*	Italy	*	1.0
-SF14_ENG_038	per:schools_attended	stackingms	*	Princeton University	*	1.0
-SF14_ENG_089	org:city_of_headquarters	stackingms	*	Chicago	*	1.0
-SF14_ENG_072	org:top_members_employees	stackingms	*	Martin Luther King III	*	1.0
-SF14_ENG_020	per:children	stackingms	*	Denise Maloney Pictou	*	1.0
-SF14_ENG_015	per:title	stackingms	*	programmer-analyst	*	1.0
-SF14_ENG_016	per:alternate_names	stackingms	*	Barbara Jean Davis	*	1.0
-SF14_ENG_040	per:siblings	stackingms	*	Emily	*	1.0
-SF14_ENG_019	per:age	stackingms	*	55	*	1.0
-SF14_ENG_006	per:origin	stackingms	*	American	*	1.0
-SF14_ENG_009	per:age	stackingms	*	53	*	1.0
-SF14_ENG_055	org:top_members_employees	stackingms	*	Marjorie Hill	*	1.0
-SF14_ENG_050	per:statesorprovinces_of_residence	stackingms	*	Idaho	*	1.0
-SF14_ENG_091	org:top_members_employees	stackingms	*	Hodgson	*	1.0
-SF14_ENG_042	per:title	stackingms	*	lieutenant	*	1.0
-SF14_ENG_029	per:title	stackingms	*	Dr.	*	1.0
-SF14_ENG_031	per:title	stackingms	*	science director	*	1.0
-SF14_ENG_038	per:title	stackingms	*	Physicist	*	1.0
-SF14_ENG_047	per:cause_of_death	stackingms	*	suicide	*	1.0
-SF14_ENG_050	per:parents	stackingms	*	Mel Coulter	*	1.0
-SF14_ENG_016	per:title	stackingms	*	writer	*	1.0
-SF14_ENG_084	org:date_founded	stackingms	*	1938-XX-XX	*	1.0
-SF14_ENG_083	org:city_of_headquarters	stackingms	*	Osaka	*	1.0
-SF14_ENG_049	per:title	stackingms	*	senator	*	1.0
-SF14_ENG_022	per:title	stackingms	*	columnist	*	1.0
-SF14_ENG_038	per:date_of_birth	stackingms	*	1957-07-23	*	1.0
-SF14_ENG_097	org:alternate_names	stackingms	*	NEA	*	1.0
-SF14_ENG_025	per:title	stackingms	*	worker	*	1.0
-SF14_ENG_054	org:top_members_employees	stackingms	*	Tim Carpenter	*	1.0
-SF14_ENG_050	per:title	stackingms	*	organizer	*	1.0
-SF14_ENG_086	org:date_founded	stackingms	*	1944-XX-XX	*	1.0
-SF14_ENG_054	org:alternate_names	stackingms	*	PDA	*	1.0
-SF14_ENG_078	org:parents	stackingms	*	AIG	*	1.0
-SF14_ENG_019	per:title	stackingms	*	professor of finance	*	1.0
-SF14_ENG_036	per:employee_or_member_of	stackingms	*	United Negro College Fund	*	1.0
-SF14_ENG_036	per:title	stackingms	*	chief executive	*	1.0
-SF14_ENG_091	org:city_of_headquarters	stackingms	*	Portland	*	1.0
-SF14_ENG_050	per:title	stackingms	*	director	*	1.0
-SF14_ENG_091	org:stateorprovince_of_headquarters	stackingms	*	Maine	*	1.0
-SF14_ENG_042	per:employee_or_member_of	stackingms	*	Young Patriots	*	1.0
-SF14_ENG_016	per:children	stackingms	*	Matthew	*	1.0
-SF14_ENG_020	per:origin	stackingms	*	Canada	*	1.0
-SF14_ENG_033	per:charges	stackingms	*	corruption	*	1.0
-SF14_ENG_015	per:cities_of_residence	stackingms	*	Scott Township	*	1.0
-SF14_ENG_019	per:charges	stackingms	*	felony	*	1.0
-SF14_ENG_024	per:other_family	stackingms	*	An van de Sande	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Wu Guihui	*	1.0
-SF14_ENG_028	per:spouse	stackingms	*	Roger Spooner	*	1.0
-SF14_ENG_033	per:title	stackingms	*	deputy director	*	1.0
-SF14_ENG_061	org:founded_by	stackingms	*	Angelo Mozilo	*	1.0
-SF14_ENG_004	per:charges	stackingms	*	murder	*	1.0
-SF14_ENG_045	per:countries_of_residence	stackingms	*	Italy	*	1.0
-SF14_ENG_050	per:title	stackingms	*	businesswoman	*	1.0
-SF14_ENG_044	per:spouse	stackingms	*	Pat	*	1.0
-SF14_ENG_017	per:parents	stackingms	*	Charlesetta Dunlap	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Huang Li	*	1.0
-SF14_ENG_045	per:siblings	stackingms	*	Francesco	*	1.0
-SF14_ENG_019	per:spouse	stackingms	*	Angie Begay	*	1.0
-SF14_ENG_022	per:title	stackingms	*	author	*	1.0
-SF14_ENG_046	per:age	stackingms	*	25	*	1.0
-SF14_ENG_025	per:charges	stackingms	*	blasphemy	*	1.0
-SF14_ENG_019	per:title	stackingms	*	architect	*	1.0
-SF14_ENG_076	org:city_of_headquarters	stackingms	*	Boston	*	1.0
-SF14_ENG_086	org:top_members_employees	stackingms	*	John Dossett	*	1.0
-SF14_ENG_016	per:title	stackingms	*	painter	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Zhou Xi'an	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Zhang Guobao	*	1.0
-SF14_ENG_014	per:siblings	stackingms	*	Misael Santollo	*	1.0
-SF14_ENG_062	org:date_founded	stackingms	*	2000-XX-XX	*	1.0
-SF14_ENG_012	per:statesorprovinces_of_residence	stackingms	*	Maryland	*	1.0
-SF14_ENG_039	per:date_of_death	stackingms	*	2010-12-16	*	1.0
-SF14_ENG_088	org:country_of_headquarters	stackingms	*	France	*	1.0
-SF14_ENG_039	per:title	stackingms	*	founder	*	1.0
-SF14_ENG_049	per:title	stackingms	*	lawyer	*	1.0
-SF14_ENG_071	org:founded_by	stackingms	*	Arthur Mitchell	*	1.0
-SF14_ENG_001	per:origin	stackingms	*	Pakistani	*	1.0
-SF14_ENG_035	per:spouse	stackingms	*	Wen	*	1.0
-SF14_ENG_055	org:alternate_names	stackingms	*	GMHC	*	1.0
-SF14_ENG_008	per:origin	stackingms	*	American	*	1.0
-SF14_ENG_049	per:schools_attended	stackingms	*	University of Washington	*	1.0
-SF14_ENG_038	per:parents	stackingms	*	Joan Lange	*	1.0
-SF14_ENG_019	per:origin	stackingms	*	Canadian	*	1.0
-SF14_ENG_019	per:date_of_birth	stackingms	*	1925-12-01	*	1.0
-SF14_ENG_020	per:title	stackingms	*	activist	*	1.0
-SF14_ENG_069	org:date_founded	stackingms	*	1995-XX-XX	*	1.0
-SF14_ENG_012	per:charges	stackingms	*	espionage	*	1.0
-SF14_ENG_012	per:employee_or_member_of	stackingms	*	State Department	*	1.0
-SF14_ENG_006	per:title	stackingms	*	journalist	*	1.0
-SF14_ENG_040	per:title	stackingms	*	attorney	*	1.0
-SF14_ENG_037	per:age	stackingms	*	21	*	1.0
-SF14_ENG_066	org:city_of_headquarters	stackingms	*	Guatemala City	*	1.0
-SF14_ENG_023	per:date_of_death	stackingms	*	2010-08-07	*	1.0
-SF14_ENG_021	per:title	stackingms	*	assistant	*	1.0
-SF14_ENG_031	per:title	stackingms	*	designer	*	1.0
-SF14_ENG_097	org:top_members_employees	stackingms	*	Qian Zhimin	*	1.0
-SF14_ENG_092	org:top_members_employees	stackingms	*	Gregory Duffell	*	1.0
-SF14_ENG_049	per:countries_of_residence	stackingms	*	Ivory Coast	*	1.0
-SF14_ENG_032	per:cities_of_residence	stackingms	*	Paris	*	1.0
-SF14_ENG_095	org:top_members_employees	stackingms	*	John Armstrong	*	1.0
-SF14_ENG_016	per:stateorprovince_of_death	stackingms	*	New York	*	1.0
-SF14_ENG_072	org:top_members_employees	stackingms	*	Stephanie J. Jones	*	1.0
-SF14_ENG_015	per:age	stackingms	*	48	*	1.0
-SF14_ENG_075	org:top_members_employees	stackingms	*	Steven C. Anderson	*	1.0
-SF14_ENG_035	per:title	stackingms	*	officer	*	1.0
-SF14_ENG_027	per:employee_or_member_of	stackingms	*	Parliament	*	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100724.0114:3155-3293	Ariel Cohen	XIN_ENG_20100724.0114:3155-3165	1.0
+CS14_ENG_201	org:employees_or_members	stackingms	eng-NG-31-137518-8620272:1919-1969	John Dossett	eng-NG-31-137518-8620272:1905-1916	1.0
+CS14_ENG_155	per:spouse	stackingms	APW_ENG_20090608.1079:3740-3754,APW_ENG_20090608.1174:3972-3986,APW_ENG_20090608.1174:4158-4165	Jeffrey Denner	APW_ENG_20090608.1079:3336-3349	1.0
+CS14_ENG_196	gpe:deaths_in_city	stackingms	NYT_ENG_20100819.0120:3-152	JOE L. BROWN	NYT_ENG_20100819.0120:3-14	1.0
+CS14_ENG_227	gpe:residents_of_city	stackingms	NYT_ENG_20100414.0157:3511-3544	Alesia Ranney - Marinelli	NYT_ENG_20100414.0157:3511-3533	1.0
+CS14_ENG_198	gpe:member_of	stackingms	XIN_ENG_20101214.0279:181-293	Eurocities	XIN_ENG_20101214.0279:75-84	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	NYT_ENG_20101028.0105:2348-2376	Exxon Mobil	NYT_ENG_20101028.0105:164-174	1.0
+CS14_ENG_202	org:employees_or_members	stackingms	APW_ENG_20101229.0303:3487-3533,APW_ENG_20101229.0329:3829-3875,APW_ENG_20101229.0357:4100-4146	John Low	APW_ENG_20101229.0329:3819-3826	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100430.0172:1970-2072	Curtis Dubay	XIN_ENG_20100430.0172:1993-2004	1.0
+CS14_ENG_204	org:employees_or_members	stackingms	XIN_ENG_20090605.0155:384-402,XIN_ENG_20090605.0155:384-418,XIN_ENG_20090605.0158:372-390,XIN_ENG_20090605.0158:372-406	Kerryn Morrison	XIN_ENG_20090605.0158:392-406	1.0
+CS14_ENG_176	gpe:headquarters_in_city	stackingms	eng-NG-31-127100-9197959:1456-1590	MindBrain Consortium	eng-NG-31-127100-9197959:1473-1492	1.0
+CS14_ENG_224	gpe:headquarters_in_city	stackingms	WPB_ENG_20100728.0087:4899-4930	CVS Caremark Corp.	WPB_ENG_20100728.0087:4899-4916	1.0
+CS14_ENG_196	gpe:deaths_in_city	stackingms	APW_ENG_20100930.0950:314-392	Ron Clark	APW_ENG_20100930.0950:314-322	1.0
+CS14_ENG_183	gpe:headquarters_in_city	stackingms	eng-NG-31-133408-9521329:1691-1840	Associate Scientist II	eng-NG-31-133408-9521329:1755-1776	1.0
+CS14_ENG_195	gpe:residents_of_city	stackingms	NYT_ENG_20101008.0097:2461-2556	David Foster Wallace	NYT_ENG_20101008.0097:2719-2738	1.0
+CS14_ENG_237	per:children	stackingms	AFP_ENG_20090803.0344:1543-1565,AFP_ENG_20090803.0492:1562-1605	Kristina Bernadette	AFP_ENG_20090803.0492:1587-1605	1.0
+CS14_ENG_190	org:students	stackingms	NYT_ENG_20090827.0037:3065-3110	William Austin Emerson Jr.	NYT_ENG_20090827.0037:2819-2844	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	WPB_ENG_20100915.0008:4859-4970	Derek Scissors	WPB_ENG_20100915.0008:4888-4901	1.0
+CS14_ENG_241	gpe:births_in_country	stackingms	eng-NG-31-141808-9968205:2058-2196	Bin Adam	eng-NG-31-141808-9968205:2058-2065	1.0
+CS14_ENG_193	per:employee_or_member_of	stackingms	NYT_ENG_20091202.0075:5787-5816,NYT_ENG_20100215.0042:1278-1297	BRAVES	NYT_ENG_20100215.0042:58-63	1.0
+CS14_ENG_224	gpe:headquarters_in_city	stackingms	NYT_ENG_20100827.0183:527-548	Landmark Medical Center	NYT_ENG_20100827.0183:482-504	1.0
+CS14_ENG_151	org:top_members_employees	stackingms	NYT_ENG_20100425.0138:4610-4759	Gerard Arpey	NYT_ENG_20100425.0138:4679-4690	1.0
+CS14_ENG_153	org:top_members_employees	stackingms	XIN_ENG_20100120.0139:200-343,XIN_ENG_20100120.0139:345-354	Sipho Thomo	XIN_ENG_20100120.0139:278-288	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100909.0420:434-552	Wang Dianzuo	XIN_ENG_20100909.0420:444-455	1.0
+CS14_ENG_176	gpe:headquarters_in_city	stackingms	APW_ENG_20100211.0743:979-989,APW_ENG_20100211.0743:979-1013,APW_ENG_20100211.0743:1009-1013	FirstEnergy	APW_ENG_20100211.0743:207-217	1.0
+CS14_ENG_170	gpe:residents_of_city	stackingms	NYT_ENG_20091004.0038:2367-2396	Johnna De La Torre	NYT_ENG_20091004.0038:2367-2384	1.0
+CS14_ENG_227	gpe:residents_of_city	stackingms	NYT_ENG_20100414.0157:3511-3533,NYT_ENG_20100414.0157:3511-3544,NYT_ENG_20100414.0157:3538-3544	Alesia Ranney-Marinelli	NYT_ENG_20100414.0157:3511-3533	1.0
+CS14_ENG_241	gpe:births_in_country	stackingms	eng-NG-31-128618-9338707:1210-1303	Johnston	eng-NG-31-128618-9338707:1210-1217	1.0
+CS14_ENG_236	org:employees_or_members	stackingms	NYT_ENG_20100608.0074:8287-8394	Mark Setlock	NYT_ENG_20100608.0074:8341-8352	1.0
+CS14_ENG_249	gpe:residents_of_city	stackingms	APW_ENG_20090807.0051:5996-6144	Tom Krisher	APW_ENG_20090807.0051:6065-6075	1.0
+CS14_ENG_177	gpe:residents_of_city	stackingms	NYT_ENG_20100201.0007:571-593	Chris Del Bosco	NYT_ENG_20100201.0007:571-585	1.0
+CS14_ENG_221	org:subsidiaries	stackingms	APW_ENG_20101101.0748:1556-1609,APW_ENG_20101101.0748:1569-1609	Sidetur	APW_ENG_20101101.0748:390-396	1.0
+CS14_ENG_211	org:holds_shares_in	stackingms	LTW_ENG_20090809.0013:1071-1209	Google	LTW_ENG_20090809.0013:1173-1178	1.0
+CS14_ENG_153	org:top_members_employees	stackingms	XIN_ENG_20100120.0139:365-470	Popo Molefe	XIN_ENG_20100120.0139:382-392	1.0
+CS14_ENG_237	per:children	stackingms	NYT_ENG_20100314.0093:1449-1595	Benigno Aquino III	NYT_ENG_20100314.0093:1512-1529	1.0
+CS14_ENG_237	per:children	stackingms	APW_ENG_20090805.0897:3603-3752	Kris	APW_ENG_20090805.0897:3676-3679	1.0
+CS14_ENG_196	gpe:deaths_in_city	stackingms	NYT_ENG_20100819.0120:136-282,NYT_ENG_20100819.0120:284-326	Joe L. Brown	NYT_ENG_20100819.0120:58-69	1.0
+CS14_ENG_184	per:employee_or_member_of	stackingms	AFP_ENG_20100126.0479:1512-1660	Apple	AFP_ENG_20100126.0479:1584-1588	1.0
+CS14_ENG_195	gpe:residents_of_city	stackingms	LTW_ENG_20090719.0039:224-242	Hunter	LTW_ENG_20090719.0039:117-122	1.0
+CS14_ENG_176	gpe:headquarters_in_city	stackingms	NYT_ENG_20101021.0144:3616-3642	FirstEnergy Corp.	NYT_ENG_20101021.0144:3616-3632	1.0
+CS14_ENG_168	per:parents	stackingms	eng-NG-31-127450-9226135:778-887	Mel Tolkin	eng-NG-31-127450-9226135:577-586	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20100120.0467:1297-1320	William Servat	AFP_ENG_20100120.0467:1297-1310	1.0
+CS14_ENG_223	org:parents	stackingms	NYT_ENG_20091110.0012:1131-1212	Electronic Arts	NYT_ENG_20091110.0012:1131-1145	1.0
+CS14_ENG_166	gpe:employees_or_members	stackingms	AFP_ENG_20091009.0092:2560-2583	Youssouf Ouedraogo	AFP_ENG_20091009.0092:2523-2540	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	APW_ENG_20100711.0735:1356-1365,APW_ENG_20100711.0735:1356-1382,APW_ENG_20100711.0735:1377-1382	ExxonMobil Corp.	APW_ENG_20100711.0735:894-909	1.0
+CS14_ENG_176	gpe:headquarters_in_city	stackingms	AFP_ENG_20100502.0628:884-902	University of Akron	AFP_ENG_20100502.0628:884-902	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20101030.0074:2423-2570	James Jay Carafano	NYT_ENG_20101030.0074:2488-2505	1.0
+CS14_ENG_226	gpe:residents_of_city	stackingms	APW_ENG_20090902.0066:609-752,APW_ENG_20090902.0066:754-832	Erik Menendez	APW_ENG_20090902.0066:739-751	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100530.0246:586-631	Hu Dunxin	XIN_ENG_20100530.0246:586-594	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20100512.0118:2181-2262	James L. Gattuso	NYT_ENG_20100512.0118:2181-2196	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	APW_ENG_20100731.0045:5035-5182,APW_ENG_20100731.0045:5184-5261	Michaels Stores Inc.	APW_ENG_20100731.0045:5184-5203	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20090709.0415:387-532	Nanfang Weekly	XIN_ENG_20090709.0415:403-416	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20091023.0124:2648-2736	Ron Utt	NYT_ENG_20091023.0124:2653-2659	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20090606.0191:4441-4537	James Phillips	XIN_ENG_20090606.0191:4457-4470	1.0
+CS14_ENG_166	gpe:employees_or_members	stackingms	AFP_ENG_20091201.0075:506-535	Mamadou Sanou	AFP_ENG_20091201.0075:537-549	1.0
+CS14_ENG_216	per:organizations_founded	stackingms	eng-NG-31-126841-9161000:4572-4606,eng-NG-31-126841-9161000:4585-4606,eng-NG-31-126841-9161000:10268-10301	Blackwater	eng-NG-31-126841-9161000:4597-4606	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20091023.0390:1108-1219	People's Congress of Guangzhou	XIN_ENG_20091023.0390:823-852	1.0
+CS14_ENG_201	org:employees_or_members	stackingms	WPB_ENG_20101226.0008:3824-3880	Helen Maynor Scheirbeck	WPB_ENG_20101226.0008:210-232	1.0
+CS14_ENG_248	per:children	stackingms	APW_ENG_20090624.0806:172-274	Hanne Hiob	APW_ENG_20090624.0806:187-196	1.0
+CS14_ENG_237	per:children	stackingms	AFP_ENG_20090706.0415:778-890	Kristina Bernadette Aquino	AFP_ENG_20090706.0415:840-865	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100425.0220:461-480,XIN_ENG_20100425.0220:461-543,XIN_ENG_20100425.0220:513-543	Wu Changxin	XIN_ENG_20100425.0220:470-480	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100226.0214:710-858	Robert Moffit	XIN_ENG_20100226.0214:778-790	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	WPB_ENG_20100623.0027:2052-2079	Denso Guangzhou Nansha Co.	WPB_ENG_20100623.0027:2024-2049	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	NYT_ENG_20101215.0195:757-865	Archon Group	NYT_ENG_20101215.0195:785-796	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	CNA_ENG_20090622.0024:878-974	Zion Health Club	CNA_ENG_20090622.0024:898-913	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100226.0386:377-525	Wang Sichao	XIN_ENG_20100226.0386:446-456	1.0
+CS14_ENG_172	per:siblings	stackingms	WPB_ENG_20100913.0036:514-580	Kevin McCarthy	WPB_ENG_20100913.0036:57-70	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	AFP_ENG_20100331.0568:2085-2154	Dean Cheng	AFP_ENG_20100331.0568:2085-2094	1.0
+CS14_ENG_196	gpe:deaths_in_city	stackingms	NYT_ENG_20090905.0105:997-1122	Rosen	NYT_ENG_20090905.0105:997-1001	1.0
+CS14_ENG_160	org:top_members_employees	stackingms	APW_ENG_20091018.0135:2092-2107	Mukesh	APW_ENG_20091018.0135:493-498	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	NYT_ENG_20100201.0099:852-940	BSA 's Hispanic Initiatives	NYT_ENG_20100201.0099:914-939	1.0
+CS14_ENG_156	per:employee_or_member_of	stackingms	eng-NG-31-128245-9256312:544-643	MIT	eng-NG-31-128245-9256312:617-619	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100204.0378:1765-1844	Ding Zhongli	XIN_ENG_20100204.0378:1765-1776	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	LTW_ENG_20090630.0113:3999-4085	Hans von Spakovsky	LTW_ENG_20090630.0113:4003-4020	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100307.0169:1792-1869	Zhou Qi	XIN_ENG_20100307.0169:1792-1798	1.0
+CS14_ENG_219	org:city_of_headquarters	stackingms	WPB_ENG_20100520.0053:1615-1706	South San Francisco	WPB_ENG_20100520.0053:1680-1698	1.0
+CS14_ENG_177	gpe:residents_of_city	stackingms	NYT_ENG_20100227.0132:275-420	Lindsey Vonn	NYT_ENG_20100227.0132:343-354	1.0
+CS14_ENG_193	per:employee_or_member_of	stackingms	NYT_ENG_20090731.0081:1472-1525	Pirates	NYT_ENG_20090731.0081:1472-1478	1.0
+CS14_ENG_187	per:spouse	stackingms	APW_ENG_20101007.0353:1088-1089,APW_ENG_20101007.0353:1088-1111,APW_ENG_20101007.0353:1099-1111	Julia Urquidi	APW_ENG_20101007.0353:1099-1111	1.0
+CS14_ENG_194	org:founded_by	stackingms	bolt-eng-DF-170-181110-8765440:468-546	Gary Comer	bolt-eng-DF-170-181110-8765440:468-477	1.0
+CS14_ENG_162	per:city_of_death	stackingms	eng-NG-31-126958-8238195:538-651	BATON ROUGE	eng-NG-31-126958-8238195:320-330	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	CNA_ENG_20091014.0030:1404-1484	Edwin Feulner	CNA_ENG_20091014.0030:1404-1416	1.0
+CS14_ENG_177	gpe:residents_of_city	stackingms	AFP_ENG_20091208.0671:1096-1137,NYT_ENG_20100227.0132:329-341,NYT_ENG_20100401.0014:2726-2743	LINDSEY VONN	NYT_ENG_20100401.0014:97-108	1.0
+CS14_ENG_210	gpe:deaths_in_stateorprovince	stackingms	APW_ENG_20100325.0293:649-759	Patricia Wrightson	APW_ENG_20100325.0293:76-93	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20090918.0069:332-412	Stuart Butler	NYT_ENG_20090918.0069:332-344	1.0
+CS14_ENG_201	org:employees_or_members	stackingms	APW_ENG_20090615.0030:2965-3030	Joe Garcia	APW_ENG_20090615.0030:2965-2974	1.0
+CS14_ENG_174	org:city_of_headquarters	stackingms	APW_ENG_20101211.0146:449-484	San Francisco	APW_ENG_20101211.0146:449-461	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20100901.0073:3387-3402,XIN_ENG_20100901.0073:3387-3416,XIN_ENG_20100901.0073:3407-3416	Adam Bandt	XIN_ENG_20100901.0073:670-679	1.0
+CS14_ENG_151	org:top_members_employees	stackingms	WPB_ENG_20100122.0053:470-619	Tom Horton	WPB_ENG_20100122.0053:540-549	1.0
+CS14_ENG_190	org:students	stackingms	eng-NG-31-126958-8238436:2057-2070,eng-NG-31-126958-8238436:2057-2088	John Montgomery Belk	eng-NG-31-126958-8238436:158-177	1.0
+CS14_ENG_158	per:parents	stackingms	NYT_ENG_20101231.0106:175-198	Arnie Bielema	NYT_ENG_20101231.0106:175-187	1.0
+CS14_ENG_160	org:top_members_employees	stackingms	APW_ENG_20090719.0030:3853-3997	Mukesh Ambani	APW_ENG_20090719.0030:3906-3918	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100204.0380:1630-1665,XIN_ENG_20100204.0380:1630-1665,XIN_ENG_20100204.0380:1662-1664	Zhan Wenlong	XIN_ENG_20100204.0380:1630-1641	1.0
+CS14_ENG_214	per:employee_or_member_of	stackingms	APW_ENG_20100322.1029:3498-3642	King's College	APW_ENG_20100322.1029:3612-3625	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20090815.0053:1507-1522,AFP_ENG_20090815.0053:1507-1532,AFP_ENG_20100411.0120:807-830	Guy Noves	AFP_ENG_20100411.0120:822-830	1.0
+CS14_ENG_203	org:parents	stackingms	NYT_ENG_20100916.0182:3730-3839	Brookings Institution	NYT_ENG_20100916.0182:3794-3814	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	APW_ENG_20090711.0124:3684-3711,APW_ENG_20090711.0124:4015-4034	George Lima	APW_ENG_20090711.0124:202-212	1.0
+CS14_ENG_235	per:children	stackingms	AFP_ENG_20101231.0091:1471-1513	Mariss Jansons	AFP_ENG_20101231.0091:206-219	1.0
+CS14_ENG_227	gpe:residents_of_city	stackingms	NYT_ENG_20090810.0189:2240-2268	Christine Toy Johnson	NYT_ENG_20090810.0189:2063-2083	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20091029.0196:4839-4977	China Normal University	XIN_ENG_20091029.0196:4892-4914	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	bolt-eng-DF-170-181113-8748436:774-918,bolt-eng-DF-170-181113-8748436:920-1005	Hostess Brands Inc.	bolt-eng-DF-170-181113-8748436:502-520	1.0
+CS14_ENG_239	org:top_members_employees	stackingms	AFP_ENG_20100507.0305:3540-3668	Thomas Plant	AFP_ENG_20100507.0305:3548-3559	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20100920.0160:96-155	Patricio Albacete	AFP_ENG_20100920.0160:139-155	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	AFP_ENG_20100324.0613:4673-4729,AFP_ENG_20100505.0792:1396-1504,eng-NG-31-132588-12132461:751-856	Lisa Curtis	eng-NG-31-132588-12132461:796-806	1.0
+CS14_ENG_154	per:parents	stackingms	APW_ENG_20100803.0734:1681-1703,APW_ENG_20100804.0078:1688-1710	Mohamed	APW_ENG_20100803.0734:1697-1703	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20090818.0072:1040-1164	Nick Xenophon	XIN_ENG_20090818.0072:1016-1028	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	bolt-eng-DF-212-191666-3034963:818-966	Robert Rector	bolt-eng-DF-212-191666-3034963:886-898	1.0
+CS14_ENG_250	per:employee_or_member_of	stackingms	APW_ENG_20091030.0109:1017-1054,APW_ENG_20091030.0121:1017-1054,APW_ENG_20091030.0209:1566-1603,APW_ENG_20100117.0095:3321-3373	Tampa Bay	APW_ENG_20091030.0209:1595-1603	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	AFP_ENG_20100530.0117:1620-1735	Sun Yat-Sen University Cancer Centre	AFP_ENG_20100530.0117:1686-1721	1.0
+CS14_ENG_232	gpe:headquarters_in_city	stackingms	NYT_ENG_20091126.0048:2444-2522	Plastic Jungle	NYT_ENG_20091126.0048:2448-2461	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100211.0168:495-600	Robert E. Moffit	XIN_ENG_20100211.0168:495-510	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20091031.0216:2480-2483,XIN_ENG_20091031.0216:2480-2533,XIN_ENG_20091031.0216:2503-2533	Qian Xuesen	XIN_ENG_20091031.0216:241-251	1.0
+CS14_ENG_154	per:parents	stackingms	APW_ENG_20100803.0734:1648-1759	Aysha Bary	APW_ENG_20100803.0734:1709-1718	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100117.0247:3723-3802	Sun Jiadong	XIN_ENG_20100117.0247:3723-3733	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20100126.0388:737-868	Southern Daily	XIN_ENG_20100126.0388:789-802	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	NYT_ENG_20101028.0105:2189-2210	Exxon	NYT_ENG_20101028.0105:2189-2193	1.0
+CS14_ENG_183	gpe:headquarters_in_city	stackingms	APW_ENG_20100907.0430:1138-1261	Lincoln National Corp.	APW_ENG_20100907.0430:475-496	1.0
+CS14_ENG_160	org:top_members_employees	stackingms	AFP_ENG_20100507.0644:1181-1191	Anil Ambani	AFP_ENG_20100507.0644:352-362	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20091225.0149:1002-1150	Yang Huanming	XIN_ENG_20091225.0149:1070-1082	1.0
+CS14_ENG_237	per:children	stackingms	APW_ENG_20090804.0608:1146-1226	Maria Elena Cruz	APW_ENG_20090804.0608:1146-1161	1.0
+CS14_ENG_237	per:children	stackingms	AFP_ENG_20101012.0362:2804-2933,AFP_ENG_20101012.0386:2174-2303	Aquino	AFP_ENG_20101012.0386:733-738	1.0
+CS14_ENG_247	org:members	stackingms	NYT_ENG_20100930.0217:4849-4925	Hearst Magazines	NYT_ENG_20100930.0217:4891-4906	1.0
+CS14_ENG_237	per:children	stackingms	APW_ENG_20090804.0608:1411-1427	Aurora Corazon Abellada	APW_ENG_20090804.0608:1429-1451	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	WPB_ENG_20101006.0062:3826-3973,WPB_ENG_20101006.0062:3975-4008	Charles D. Stimson	WPB_ENG_20101006.0062:3831-3856	1.0
+CS14_ENG_193	per:employee_or_member_of	stackingms	NYT_ENG_20100215.0042:1274-1354	Braves	NYT_ENG_20100215.0042:1278-1283	1.0
+CS14_ENG_210	gpe:deaths_in_stateorprovince	stackingms	AFP_ENG_20100118.0576:330-396	Wallaby Cyril Burke	AFP_ENG_20100118.0576:234-252	1.0
+CS14_ENG_229	org:employees_or_members	stackingms	WPB_ENG_20100109.0022:1702-1752	Carol Waaser	WPB_ENG_20100109.0022:1740-1751	1.0
+CS14_ENG_169	per:spouse	stackingms	eng-NG-31-100397-10789575:10621-10746	Louise Bourgeois	eng-NG-31-100397-10789575:159-174	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100113.0331:1328-1476	Ben Lieberman	XIN_ENG_20100113.0331:1396-1408	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	NYT_ENG_20100212.0127:463-495,NYT_ENG_20100509.0173:1246-1279	Patrick J. Kennedy	NYT_ENG_20100212.0127:181-198	1.0
+CS14_ENG_166	gpe:employees_or_members	stackingms	AFP_ENG_20091009.0092:556-590	Salifou Sawadogo	AFP_ENG_20091009.0092:538-553	1.0
+CS14_ENG_187	per:spouse	stackingms	APW_ENG_20101007.0353:1669-1670,APW_ENG_20101007.0353:1669-1706,APW_ENG_20101007.0353:1680-1706	Patricia Llosa	APW_ENG_20101007.0353:1692-1705	1.0
+CS14_ENG_227	gpe:residents_of_city	stackingms	eng-NG-31-141957-8676798:679-740	Marc Black	eng-NG-31-141957-8676798:693-702	1.0
+CS14_ENG_173	gpe:employees_or_members	stackingms	APW_ENG_20090712.0595:1964-2019	Gurbanguli Berdymukhamedov	APW_ENG_20090712.0595:1964-1989	1.0
+CS14_ENG_217	gpe:births_in_city	stackingms	NYT_ENG_20100828.0096:2536-2587	Robert Stephen Ingersoll	NYT_ENG_20100828.0096:2536-2559	1.0
+CS14_ENG_195	gpe:residents_of_city	stackingms	eng-NG-31-132385-12130286:7663-7732	Mark McGwire	eng-NG-31-132385-12130286:7648-7659	1.0
+CS14_ENG_151	org:top_members_employees	stackingms	NYT_ENG_20100705.0060:2775-2902	Carty	NYT_ENG_20100705.0060:2810-2814	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20100204.0346:2245-2388	Zhongshan University	XIN_ENG_20100204.0346:2304-2323	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	eng-NG-31-141959-9982588:788-936	Michael Franc	eng-NG-31-141959-9982588:856-868	1.0
+CS14_ENG_184	per:employee_or_member_of	stackingms	APW_ENG_20100929.0080:3486-3531	Apple Inc.	APW_ENG_20100929.0080:3486-3495	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	CNA_ENG_20100320.0045:734-825	Xian Health and Medical Center	CNA_ENG_20100320.0045:796-825	1.0
+CS14_ENG_177	gpe:residents_of_city	stackingms	APW_ENG_20101226.0013:2008-2156	John Feagin	APW_ENG_20101226.0013:2077-2087	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	WPB_ENG_20101025.0058:2917-2933	Jack Reed	WPB_ENG_20101025.0058:2917-2925	1.0
+CS14_ENG_171	org:top_members_employees	stackingms	AFP_ENG_20100520.0465:854-952,AFP_ENG_20100520.0537:201-218,AFP_ENG_20100524.0080:1199-1216,AFP_ENG_20100601.0552:1097-1114	Mikel Karrera Sarobe	AFP_ENG_20100524.0080:392-411	1.0
+CS14_ENG_237	per:children	stackingms	AFP_ENG_20100401.0407:2837-2953,XIN_ENG_20100130.0038:1960-1990	Benigno "Noynoy" Aquino	XIN_ENG_20100130.0038:1968-1990	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20101115.0491:3487-3567	Zhang Yunquan	XIN_ENG_20101115.0491:3487-3499	1.0
+CS14_ENG_225	gpe:residents_of_city	stackingms	NYT_ENG_20101123.0181:5811-5877	Andrew Benett	NYT_ENG_20101123.0181:100-112	1.0
+CS14_ENG_249	gpe:residents_of_city	stackingms	APW_ENG_20101027.0182:3190-3229	John Flesher	APW_ENG_20101027.0182:3190-3201	1.0
+CS14_ENG_170	gpe:residents_of_city	stackingms	NYT_ENG_20090715.0212:1890-1916	Kevin O&apos;Connell	NYT_ENG_20090715.0212:1890-1904	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	APW_ENG_20101004.0585:426-467	Federico Santander	APW_ENG_20101004.0585:426-443	1.0
+CS14_ENG_181	per:other_family	stackingms	AFP_ENG_20090819.0129:597-746	James Kane	AFP_ENG_20090819.0129:667-676	1.0
+CS14_ENG_241	gpe:births_in_country	stackingms	eng-NG-31-141808-8670829:2058-2065,eng-NG-31-141808-8670829:2058-2091,eng-NG-31-141808-8670829:2084-2091	Mahjub bin Adam Mohamed	eng-NG-31-141808-8670829:739-761	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20091204.0375:718-720,XIN_ENG_20091204.0375:718-743,XIN_ENG_20091204.0375:718-743	Lu Yongxiang	XIN_ENG_20091204.0375:732-743	1.0
+CS14_ENG_204	org:employees_or_members	stackingms	APW_ENG_20101101.0198:665-812	Arnaud Le Roux	APW_ENG_20101101.0198:732-745	1.0
+CS14_ENG_229	org:employees_or_members	stackingms	eng-NG-31-131704-8427384:3820-3880	David Lotz	eng-NG-31-131704-8427384:3833-3842	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20090923.0323:1195-1310	Da An Gene Co.	XIN_ENG_20090923.0323:1211-1224	1.0
+CS14_ENG_241	gpe:births_in_country	stackingms	APW_ENG_20091011.0631:498-591	Rogers Mtagwa	APW_ENG_20091011.0631:331-343	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	APW_ENG_20100928.0611:3095-3176	Rea Hederman Jr.	APW_ENG_20100928.0611:3095-3110	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100812.0172:1905-2047	James Sherk	XIN_ENG_20100812.0172:1905-1915	1.0
+CS14_ENG_239	org:top_members_employees	stackingms	WPB_ENG_20101014.0064:5607-5756	Shinzo Yotsumoto	WPB_ENG_20101014.0064:5674-5689	1.0
+CS14_ENG_151	org:top_members_employees	stackingms	NYT_ENG_20100421.0076:591-615,NYT_ENG_20100421.0077:591-615	Gerard J. Arpey	NYT_ENG_20100421.0077:570-584	1.0
+CS14_ENG_241	gpe:births_in_country	stackingms	AFP_ENG_20091130.0415:655-665,AFP_ENG_20091130.0415:655-686,AFP_ENG_20091130.0415:679-686	Naren Patel	AFP_ENG_20091130.0415:655-665	1.0
+CS14_ENG_249	gpe:residents_of_city	stackingms	APW_ENG_20091224.0577:200-309	Michael Moore	APW_ENG_20091224.0577:58-70	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20090723.0394:524-590	Li Tipei	XIN_ENG_20090723.0394:524-531	1.0
+CS14_ENG_225	gpe:residents_of_city	stackingms	NYT_ENG_20091210.0152:2993-3055	Karl E. Case	NYT_ENG_20091210.0152:216-227	1.0
+CS14_ENG_225	gpe:residents_of_city	stackingms	APW_ENG_20101229.0506:1354-1453	Joseph Murray	APW_ENG_20101229.0506:897-909	1.0
+CS14_ENG_170	gpe:residents_of_city	stackingms	eng-NG-31-142685-8718744:667-672,eng-NG-31-142685-8718744:667-694,eng-NG-31-142685-8718744:687-694	Hector	eng-NG-31-142685-8718744:667-672	1.0
+CS14_ENG_227	gpe:residents_of_city	stackingms	NYT_ENG_20100115.0065:1975-1995,NYT_ENG_20100115.0065:1975-2007,NYT_ENG_20100115.0065:2001-2007	Stephanie Crispinelli	NYT_ENG_20100115.0065:1975-1995	1.0
+CS14_ENG_201	org:employees_or_members	stackingms	APW_ENG_20101229.0136:1953-2038	Jacqueline Johnson Pata	APW_ENG_20101229.0136:1953-1975	1.0
+CS14_ENG_183	gpe:headquarters_in_city	stackingms	NYT_ENG_20100205.0038:3401-3425	Airgas	NYT_ENG_20100205.0038:249-254	1.0
+CS14_ENG_183	gpe:headquarters_in_city	stackingms	WPB_ENG_20101202.0059:872-1020	Haverford Trust	WPB_ENG_20101202.0059:939-953	1.0
+CS14_ENG_164	per:holds_shares_in	stackingms	XIN_ENG_20090927.0012:800-942	DNO International	XIN_ENG_20090927.0012:390-406	1.0
+CS14_ENG_245	per:employee_or_member_of	stackingms	eng-NG-31-100600-8843479:4359-4495	Harvard	eng-NG-31-100600-8843479:4430-4436	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20101028.0496:2335-2346,XIN_ENG_20101028.0496:2335-2396,XIN_ENG_20101028.0496:2366-2396	Pan Jiazheng	XIN_ENG_20101028.0496:2335-2346	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	APW_ENG_20090626.0248:452-499	Bawang International Group	APW_ENG_20090626.0248:219-244	1.0
+CS14_ENG_214	per:employee_or_member_of	stackingms	APW_ENG_20100322.1029:3067-3198	ICI	APW_ENG_20100322.1029:2007-2009	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100203.0269:2995-3027	Eaglen	XIN_ENG_20100203.0269:2995-3000	1.0
+CS14_ENG_190	org:students	stackingms	APW_ENG_20100802.0280:2918-2953	Robert H. Reid	APW_ENG_20100802.0280:179-192	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	LTW_ENG_20090811.0108:4685-4740,LTW_ENG_20090811.0108:4731-4746	Elizabeth Steere	LTW_ENG_20090811.0108:4685-4700	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	APW_ENG_20100212.0298:3005-3042	Jim Langevin	APW_ENG_20100212.0298:2991-3002	1.0
+CS14_ENG_151	org:top_members_employees	stackingms	NYT_ENG_20100705.0060:2729-2860	Don Carty	NYT_ENG_20100705.0060:1749-1757	1.0
+CS14_ENG_240	per:employee_or_member_of	stackingms	NYT_ENG_20100406.0192:3812-3817,NYT_ENG_20100406.0192:3812-3837,NYT_ENG_20100406.0192:3812-3837	Boston	NYT_ENG_20100406.0192:561-566	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20100629.0424:631-688	China Southern Airlines	XIN_ENG_20100629.0424:647-669	1.0
+CS14_ENG_213	per:country_of_birth	stackingms	AFP_ENG_20100217.0044:1447-1487	South Africa	AFP_ENG_20100217.0044:1466-1477	1.0
+CS14_ENG_200	gpe:deaths_in_city	stackingms	NYT_ENG_20090630.0103:180-190,NYT_ENG_20090630.0103:180-329,NYT_ENG_20090630.0103:370-378	Pina Bausch	NYT_ENG_20090630.0103:180-190	1.0
+CS14_ENG_237	per:children	stackingms	AFP_ENG_20100511.0782:1156-1291	Benigno	AFP_ENG_20100511.0782:1227-1233	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	AFP_ENG_20090901.0728:3201-3257	Bruce Klingner	AFP_ENG_20090901.0728:3201-3214	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20100827.0022:1609-1756	Wilkie	XIN_ENG_20100827.0022:1680-1685	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20091114.0125:351-380	Romain Millo-Chluski	AFP_ENG_20091114.0125:351-370	1.0
+CS14_ENG_239	org:top_members_employees	stackingms	WPB_ENG_20100918.0003:1977-2056	John Plant	WPB_ENG_20100918.0003:1977-1986	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	APW_ENG_20100711.0735:1356-1435	ExxonMobil	APW_ENG_20100711.0735:894-903	1.0
+CS14_ENG_237	per:children	stackingms	AFP_ENG_20100511.0794:1698-1700,AFP_ENG_20100511.0794:1698-1723,AFP_ENG_20100511.0794:1710-1723	Noynoy Aquino	AFP_ENG_20100511.0794:722-734	1.0
+CS14_ENG_176	gpe:headquarters_in_city	stackingms	NYT_ENG_20091014.0079:356-477	St. Vincent-St. Mary High School	NYT_ENG_20091014.0079:387-418	1.0
+CS14_ENG_195	gpe:residents_of_city	stackingms	eng-NG-31-108087-8955767:6503-6622	Rob Strandlin	eng-NG-31-108087-8955767:6522-6534	1.0
+CS14_ENG_243	per:parents	stackingms	APW_ENG_20101004.0914:1554-1608	Alberto Fujimori	APW_ENG_20101004.0914:1593-1608	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	WPB_ENG_20100216.0045:3437-3581	Heritage Foundation President Edwin Feulner	WPB_ENG_20100216.0045:3463-3505	1.0
+CS14_ENG_203	org:parents	stackingms	WPB_ENG_20100404.0020:7552-7683	Urban Institute	WPB_ENG_20100404.0020:7638-7652	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	XIN_ENG_20090915.0268:741-801	Darling International Inc	XIN_ENG_20090915.0268:754-778	1.0
+CS14_ENG_163	gpe:headquarters_in_city	stackingms	eng-NG-31-146856-10448337:4077-4145	FileMaker, Inc	eng-NG-31-146856-10448337:4148-4161	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	APW_ENG_20091020.0390:285-360	David Swain	APW_ENG_20091020.0390:427-437	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20090915.0130:2425-2517	Karen Campbell	NYT_ENG_20090915.0130:2437-2450	1.0
+CS14_ENG_160	org:top_members_employees	stackingms	NYT_ENG_20091122.0098:982-1000,NYT_ENG_20091122.0098:982-1022,NYT_ENG_20091122.0098:993-1076,NYT_ENG_20091122.0098:1015-1076	Mukesh D. Ambani	NYT_ENG_20091122.0098:1025-1040	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20091019.0285:177-210	Thierry Dusautoir	AFP_ENG_20091019.0285:194-210	1.0
+CS14_ENG_166	gpe:employees_or_members	stackingms	AFP_ENG_20100202.0272:3571-3601,eng-NG-31-142685-8718399:5803-5827	Blaise Compaore	eng-NG-31-142685-8718399:5782-5796	1.0
+CS14_ENG_197	org:founded_by	stackingms	NYT_ENG_20090910.0057:1075-1190	Henri Cartier-Bresson	NYT_ENG_20090910.0057:1139-1159	1.0
+CS14_ENG_175	org:top_members_employees	stackingms	XIN_ENG_20100514.0215:627-737	Clemens Hellsberg	XIN_ENG_20100514.0215:655-671	1.0
+CS14_ENG_166	gpe:employees_or_members	stackingms	eng-NG-31-142685-8718399:5630-5676	Blaise Compaor	eng-NG-31-142685-8718399:5630-5643	1.0
+CS14_ENG_163	gpe:headquarters_in_city	stackingms	eng-NG-31-127464-8318486:2431-2559	Sun Microsystems Inc.	eng-NG-31-127464-8318486:662-682	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	WPB_ENG_20100714.0081:3945-4024	Todd Gaziano	WPB_ENG_20100714.0081:3945-3956	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	eng-NG-31-126841-9160496:4491-4588	Peter Brookes	eng-NG-31-126841-9160496:343-355	1.0
+CS14_ENG_180	gpe:employees_or_members	stackingms	APW_ENG_20101009.0008:331-354,APW_ENG_20101009.0032:358-381,APW_ENG_20101009.0047:462-485	Anthony DaRos	APW_ENG_20101009.0047:487-499	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	AFP_ENG_20100622.0717:1357-1428	Guangqi Toyota	AFP_ENG_20100622.0717:1357-1370	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	WPB_ENG_20100803.0035:1528-1634	Merritt Hawkins	WPB_ENG_20100803.0035:1595-1609	1.0
+CS14_ENG_204	org:employees_or_members	stackingms	WPB_ENG_20100827.0061:581-728	Faan Coetzee	WPB_ENG_20100827.0061:649-660	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	CNA_ENG_20100421.0033:2626-2686,CNA_ENG_20100421.0033:2626-2686,CNA_ENG_20100421.0033:2669-2685	Miriam Solomon	CNA_ENG_20100421.0033:2626-2639	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20101024.0042:803-918	Bob Brown	XIN_ENG_20101024.0042:828-836	1.0
+CS14_ENG_227	gpe:residents_of_city	stackingms	eng-NG-31-141957-8676798:446-516	Martha Stewart	eng-NG-31-141957-8676798:486-499	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	AFP_ENG_20100704.0383:2045-2151	Anthony Kim	AFP_ENG_20100704.0383:2068-2078	1.0
+CS14_ENG_251	gpe:employees_or_members	stackingms	APW_ENG_20100211.0287:446-518	Nordin Kadir	APW_ENG_20100211.0287:446-457	1.0
+CS14_ENG_156	per:employee_or_member_of	stackingms	XIN_ENG_20100517.0003:971-1108	Massachusetts Institute of Technology	XIN_ENG_20100517.0003:1016-1052	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100108.0186:1121-1200	Robert Book	XIN_ENG_20100108.0186:1121-1131	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	APW_ENG_20100113.1435:483-607	Zale Corp.	APW_ENG_20100113.1435:208-217	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20090828.0025:1430-1458,AFP_ENG_20090828.0271:1430-1458,AFP_ENG_20091025.0083:2793-2821	Alain Casanova	AFP_ENG_20090828.0271:1445-1458	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20101001.0390:1546-1622	Wu Ji	XIN_ENG_20101001.0390:1546-1550	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20091104.0062:189-254	Rachel Siewert	XIN_ENG_20091104.0062:215-228	1.0
+CS14_ENG_190	org:students	stackingms	eng-NG-31-149599-10593506:478-625	GA. P.C.	eng-NG-31-149599-10593506:548-555	1.0
+CS14_ENG_191	per:spouse	stackingms	NYT_ENG_20100517.0107:12798-12936	Vince	NYT_ENG_20100517.0107:12860-12864	1.0
+CS14_ENG_227	gpe:residents_of_city	stackingms	NYT_ENG_20101109.0016:422-444	Roger C. Davidson	NYT_ENG_20101109.0016:145-161	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	APW_ENG_20090828.0551:2703-2726,APW_ENG_20091122.0510:3923-3962,APW_ENG_20101005.0842:190-227,APW_ENG_20101226.0335:322-352	Patrick Kennedy	APW_ENG_20101005.0842:213-227	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	APW_ENG_20090820.0027:5894-5975	Matthew Spalding	APW_ENG_20090820.0027:5894-5909	1.0
+CS14_ENG_177	gpe:residents_of_city	stackingms	NYT_ENG_20100201.0007:715-793	Del Bosco	NYT_ENG_20100201.0007:715-723	1.0
+CS14_ENG_155	per:spouse	stackingms	APW_ENG_20090612.1005:1715-1738,APW_ENG_20090612.1183:1691-1714,APW_ENG_20090612.1321:2367-2390	Clark Rockefeller	APW_ENG_20090612.1005:217-233	1.0
+CS14_ENG_183	gpe:headquarters_in_city	stackingms	WPB_ENG_20100421.0087:3643-3791	Haverford Trust Co.	WPB_ENG_20100421.0087:3708-3726	1.0
+CS14_ENG_195	gpe:residents_of_city	stackingms	NYT_ENG_20100730.0177:297-317	DAVID ALEXANDER	NYT_ENG_20100730.0177:58-72	1.0
+CS14_ENG_233	per:other_family	stackingms	WPB_ENG_20100422.0064:450-528	Vincent Van Gogh	WPB_ENG_20100422.0064:513-528	1.0
+CS14_ENG_212	org:members	stackingms	XIN_ENG_20101005.0042:169-262	South Korea	XIN_ENG_20101005.0042:169-179	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100812.0172:2745-2879	Conn Carroll	XIN_ENG_20100812.0172:2813-2824	1.0
+CS14_ENG_170	gpe:residents_of_city	stackingms	APW_ENG_20090807.1218:1438-1560	R. Don Steele	APW_ENG_20090807.1218:513-525	1.0
+CS14_ENG_197	org:founded_by	stackingms	APW_ENG_20100409.0058:969-1002	Cartier - Bresson	APW_ENG_20100409.0058:85-99	1.0
+CS14_ENG_225	gpe:residents_of_city	stackingms	WPB_ENG_20100301.0055:867-869,WPB_ENG_20100301.0055:867-929,WPB_ENG_20100301.0055:880-929	Brian Moynihan	WPB_ENG_20100301.0055:257-270	1.0
+CS14_ENG_155	per:spouse	stackingms	APW_ENG_20090612.1183:1691-1726,APW_ENG_20090612.1321:2367-2402	Gerhartsreiter	APW_ENG_20090612.1321:681-694	1.0
+CS14_ENG_229	org:employees_or_members	stackingms	NYT_ENG_20090815.0005:2677-2721,NYT_ENG_20090815.0005:2692-2721	Maria Somma	NYT_ENG_20090815.0005:2677-2687	1.0
+CS14_ENG_156	per:employee_or_member_of	stackingms	AFP_ENG_20100518.0284:1509-1638	US Massachusetts Institute of Technology	AFP_ENG_20100518.0284:1554-1593	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20100107.0100:215-246	Fode Mansare	AFP_ENG_20100107.0100:235-246	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20100506.0408:511-658	Yangcheng Evening News	XIN_ENG_20100506.0408:574-595	1.0
+CS14_ENG_179	per:organizations_founded	stackingms	APW_ENG_20100831.0027:2518-2660,APW_ENG_20100831.0027:2662-2669	Armadillo Aerospace	APW_ENG_20100831.0027:421-439	1.0
+CS14_ENG_183	gpe:headquarters_in_city	stackingms	AFP_ENG_20100205.0587:1495-1553	Airgas Inc.	AFP_ENG_20100205.0587:339-349	1.0
+CS14_ENG_195	gpe:residents_of_city	stackingms	NYT_ENG_20100327.0021:3141-3172	Miguel Santana	NYT_ENG_20100327.0021:179-192	1.0
+CS14_ENG_164	per:holds_shares_in	stackingms	AFP_ENG_20090922.0399:1401-1434	DNO	AFP_ENG_20090922.0399:75-77	1.0
+CS14_ENG_167	per:schools_attended	stackingms	APW_ENG_20090709.1036:362-478	University High School	APW_ENG_20090709.1036:393-414	1.0
+CS14_ENG_223	org:parents	stackingms	APW_ENG_20101020.0888:1567-1645	Electronic Arts Inc.	APW_ENG_20101020.0888:185-204	1.0
+CS14_ENG_165	per:spouse	stackingms	AFP_ENG_20100719.0409:184-205,AFP_ENG_20100719.0409:349-361	Eleonora Moro	AFP_ENG_20100719.0409:349-361	1.0
+CS14_ENG_237	per:children	stackingms	AFP_ENG_20100609.0020:1033-1038,AFP_ENG_20100609.0020:1033-1104,AFP_ENG_20100609.0020:1091-1104	Benigno Aquino	AFP_ENG_20100609.0020:227-240	1.0
+CS14_ENG_240	per:employee_or_member_of	stackingms	APW_ENG_20100117.0455:3517-3532	Democratic	APW_ENG_20100117.0455:264-273	1.0
+CS14_ENG_201	org:employees_or_members	stackingms	APW_ENG_20100718.0007:4480-4560	Robert Holden	APW_ENG_20100718.0007:4480-4492	1.0
+CS14_ENG_192	per:city_of_birth	stackingms	NYT_ENG_20100327.0125:8657-8776	Augusta	NYT_ENG_20100327.0125:8673-8679	1.0
+CS14_ENG_161	per:cities_of_residence	stackingms	APW_ENG_20090616.1095:2311-2403	El Paso	APW_ENG_20090616.1095:2365-2371	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	APW_ENG_20100528.0590:1190-1227	Honda Automobile China	APW_ENG_20100528.0590:924-945	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	NYT_ENG_20100317.0127:1716-1753,NYT_ENG_20100423.0148:3339-3401	Boy Scouts of America	NYT_ENG_20100423.0148:175-195	1.0
+CS14_ENG_240	per:employee_or_member_of	stackingms	NYT_ENG_20091103.0188:2141-2277	Democratic Party	NYT_ENG_20091103.0188:549-564	1.0
+CS14_ENG_173	gpe:employees_or_members	stackingms	bolt-eng-DF-199-192909-6669129:263-300,bolt-eng-DF-199-192909-6669129:2159-2179,bolt-eng-DF-199-192909-6669129:9223-9266,bolt-eng-DF-212-191667-3077300:955-979	Saparmurat Niyazov	bolt-eng-DF-199-192909-6669129:302-319	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	APW_ENG_20100422.0115:1896-1924,NYT_ENG_20100423.0148:3343-3365	Boy Scouts	NYT_ENG_20100423.0148:3071-3080	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	APW_ENG_20091221.0071:844-877,NYT_ENG_20090713.0003:3369-3402	Sheldon Whitehouse	NYT_ENG_20090713.0003:3369-3386	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	AFP_ENG_20090727.0244:753-901	Weihua Xu	AFP_ENG_20090727.0244:823-831	1.0
+CS14_ENG_242	per:schools_attended	stackingms	WPB_ENG_20101006.0020:3276-3424	Columbia University	WPB_ENG_20101006.0020:3341-3359	1.0
+CS14_ENG_214	per:employee_or_member_of	stackingms	APW_ENG_20100322.1029:3498-3642	University College	APW_ENG_20100322.1029:3563-3580	1.0
+CS14_ENG_154	per:parents	stackingms	APW_ENG_20090821.1272:872-874,APW_ENG_20090821.1272:872-895,APW_ENG_20090821.1272:884-895	Mohamed Bary	APW_ENG_20090821.1272:884-895	1.0
+CS14_ENG_237	per:children	stackingms	XIN_ENG_20090805.0111:3027-3049	Kris Aquino	XIN_ENG_20090805.0111:2994-3004	1.0
+CS14_ENG_225	gpe:residents_of_city	stackingms	NYT_ENG_20100928.0148:3955-3976	Jennifer Sherwood	NYT_ENG_20100928.0148:3932-3948	1.0
+CS14_ENG_166	gpe:employees_or_members	stackingms	CNA_ENG_20100506.0015:462-473,CNA_ENG_20100506.0015:462-502,CNA_ENG_20100506.0015:462-502	Tertius Zongo	CNA_ENG_20100506.0015:490-502	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	APW_ENG_20100815.0388:1209-1241	Etienne Didot	APW_ENG_20100815.0388:1229-1241	1.0
+CS14_ENG_251	gpe:employees_or_members	stackingms	AFP_ENG_20090826.0587:488-574	Zainal Abidin Othman	AFP_ENG_20090826.0587:488-507	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20100701.0149:1091-1165,NYT_ENG_20100701.0149:1091-1165,NYT_ENG_20100701.0149:1129-1164	Stuart M. Butler	NYT_ENG_20100701.0149:1091-1106	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	WPB_ENG_20100517.0047:3904-3927	Southern Weekly	WPB_ENG_20100517.0047:3929-3943	1.0
+CS14_ENG_206	per:children	stackingms	NYT_ENG_20100406.0173:3910-4037	Corin William Redgrave	NYT_ENG_20100406.0173:3910-3931	1.0
+CS14_ENG_151	org:top_members_employees	stackingms	NYT_ENG_20091228.0120:6058-6207	Robert L. Crandall	NYT_ENG_20091228.0120:6124-6141	1.0
+CS14_ENG_163	gpe:headquarters_in_city	stackingms	LTW_ENG_20091005.0010:8346-8444	Applied Materials	LTW_ENG_20091005.0010:7648-7664	1.0
+CS14_ENG_249	gpe:residents_of_city	stackingms	eng-NG-31-126841-9161000:1881-1908	Jason Allen	eng-NG-31-126841-9161000:1881-1891	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20091218.0322:2487-2566	Sun Honglie	XIN_ENG_20091218.0322:2487-2497	1.0
+CS14_ENG_195	gpe:residents_of_city	stackingms	WPB_ENG_20100908.0053:4619-4640	Chris Trueman	WPB_ENG_20100908.0053:3553-3565	1.0
+CS14_ENG_179	per:organizations_founded	stackingms	APW_ENG_20100312.0444:2146-2164,APW_ENG_20100312.0446:2146-2164	Software	APW_ENG_20100312.0444:2146-2153	1.0
+CS14_ENG_239	org:top_members_employees	stackingms	WPB_ENG_20100809.0022:230-312	Michael Monroney	WPB_ENG_20100809.0022:230-245	1.0
+CS14_ENG_202	org:employees_or_members	stackingms	APW_ENG_20100908.0742:2124-2183,APW_ENG_20100908.0742:2145-2183	Susan Saxon - Harrold	APW_ENG_20100908.0742:2124-2142	1.0
+CS14_ENG_170	gpe:residents_of_city	stackingms	eng-NG-31-104869-8882705:1321-1326,eng-NG-31-104869-8882705:1321-1339,eng-NG-31-104869-8882705:1332-1339	Hector Flores	eng-NG-31-104869-8882705:944-956	1.0
+CS14_ENG_251	gpe:employees_or_members	stackingms	AFP_ENG_20100329.0564:710-717,AFP_ENG_20100329.0564:710-754,AFP_ENG_20100329.0564:710-754	Johari Yusof	AFP_ENG_20100329.0564:743-754	1.0
+CS14_ENG_176	gpe:headquarters_in_city	stackingms	APW_ENG_20091028.0745:563-652	Goodyear Tire &amp; Rubber Co.	APW_ENG_20091028.0745:178-207	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	WPB_ENG_20100506.0033:2165-2244	Fluor Corp .	WPB_ENG_20100506.0033:2234-2244	1.0
+CS14_ENG_206	per:children	stackingms	bolt-eng-DF-200-192434-4519184:369-420,bolt-eng-DF-200-192434-4519184:902-911	Natasha Richardson	bolt-eng-DF-200-192434-4519184:248-265	1.0
+CS14_ENG_237	per:children	stackingms	AFP_ENG_20100608.0546:386-452,AFP_ENG_20100609.0702:2742-2751	Benigno `` Noynoy &apos;&apos; Aquino	AFP_ENG_20100608.0546:181-203	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20090801.0242:2132-2202	Guangshou, Hong Kong and Macao Youth Research Institute	XIN_ENG_20090801.0242:2148-2202	1.0
+CS14_ENG_190	org:students	stackingms	eng-NG-31-149599-10593506:399-547	P.C. Enniss	eng-NG-31-149599-10593506:468-478	1.0
+CS14_ENG_237	per:children	stackingms	APW_ENG_20090916.0235:719-728	Benigno "Noynoy" Aquino III	APW_ENG_20090916.0235:562-588	1.0
+CS14_ENG_224	gpe:headquarters_in_city	stackingms	APW_ENG_20090831.1266:1782-1799,LTW_ENG_20090611.0121:435-451,NYT_ENG_20101227.0154:4849-4872,WPB_ENG_20100621.0061:1513-1536	CVS Caremark	WPB_ENG_20100621.0061:212-223	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	WPB_ENG_20100620.0021:1976-1988,WPB_ENG_20100620.0021:1976-2054,WPB_ENG_20100620.0021:2019-2054	Chuck Donovan	WPB_ENG_20100620.0021:1976-1988	1.0
+CS14_ENG_183	gpe:headquarters_in_city	stackingms	APW_ENG_20091228.0706:1968-1998,APW_ENG_20100809.0721:2528-2558,APW_ENG_20100809.0826:3100-3130,WPB_ENG_20101117.0051:4386-4416	Haverford Investments	APW_ENG_20091228.0706:1968-1988	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	eng-NG-31-143151-10149603:6436-6490	Christine Milne	eng-NG-31-143151-10149603:6470-6484	1.0
+CS14_ENG_156	per:employee_or_member_of	stackingms	XIN_ENG_20100517.0003:293-310,XIN_ENG_20100517.0003:293-323	United States	XIN_ENG_20100517.0003:1183-1195	1.0
+CS14_ENG_186	per:country_of_birth	stackingms	AFP_ENG_20090531.0079:1370-1509	Angola	AFP_ENG_20090531.0079:105-110	1.0
+CS14_ENG_158	per:parents	stackingms	NYT_ENG_20101231.0106:4085-4094,NYT_ENG_20101231.0106:4568-4577	Marilyn	NYT_ENG_20101231.0106:3998-4004	1.0
+CS14_ENG_170	gpe:residents_of_city	stackingms	LTW_ENG_20090704.0010:3196-3225	Nomar Garciaparra	LTW_ENG_20090704.0010:2992-3008	1.0
+CS14_ENG_248	per:children	stackingms	NYT_ENG_20100826.0194:934-1074	Stefan	NYT_ENG_20100826.0194:1045-1050	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	bolt-eng-DF-199-192780-6924249:486-600	Fucheng Zhang	bolt-eng-DF-199-192780-6924249:520-532	1.0
+CS14_ENG_210	gpe:deaths_in_stateorprovince	stackingms	AFP_ENG_20091030.0544:596-704	David Iredale	AFP_ENG_20091030.0544:616-628	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20100617.0082:1832-1837,XIN_ENG_20100617.0082:1832-1864,XIN_ENG_20100617.0082:1832-1864	Sarah Hanson-Young	XIN_ENG_20100617.0082:1847-1864	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	CNA_ENG_20100316.0035:462-602	John J. Tkacik Jr.	CNA_ENG_20100316.0035:191-208	1.0
+CS14_ENG_236	org:employees_or_members	stackingms	NYT_ENG_20101027.0045:5350-5397	Raj Dixit	NYT_ENG_20101027.0045:5350-5358	1.0
+CS14_ENG_152	per:siblings	stackingms	AFP_ENG_20100703.0167:541-604	Kristyna Pliskova	AFP_ENG_20100703.0167:187-203	1.0
+CS14_ENG_201	org:employees_or_members	stackingms	NYT_ENG_20091201.0122:1655-1666,NYT_ENG_20091201.0122:1655-1768,NYT_ENG_20091201.0122:1728-1768	W. Ron Allen	NYT_ENG_20091201.0122:1655-1666	1.0
+CS14_ENG_222	org:founded_by	stackingms	APW_ENG_20100502.0134:2434-2494	Carters	APW_ENG_20100502.0134:2434-2440	1.0
+CS14_ENG_190	org:students	stackingms	NYT_ENG_20090904.0133:5445-5492	Carell Brown	NYT_ENG_20090904.0133:5445-5456	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	AFP_ENG_20100207.0451:800-906	Wang Haijun	AFP_ENG_20100207.0451:800-810	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	eng-NG-31-127124-8264264:2997-3139	He Zuoxiu	eng-NG-31-127124-8264264:3061-3069	1.0
+CS14_ENG_251	gpe:employees_or_members	stackingms	APW_ENG_20090629.0147:642-676	Marzuki Ismail	APW_ENG_20090629.0147:663-676	1.0
+CS14_ENG_222	org:founded_by	stackingms	APW_ENG_20090607.0762:1885-1973	Lady Rosalynn Carter	APW_ENG_20090607.0762:1909-1928	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	WPB_ENG_20101021.0022:2315-2459	TRT Holdings Inc.	WPB_ENG_20101021.0022:2358-2374	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20100901.0054:2177-2192	Larissa Waters	XIN_ENG_20100901.0054:496-509	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	LTW_ENG_20090729.0129:2783-2863	Brian Darling	LTW_ENG_20090729.0129:2783-2795	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	WPB_ENG_20101119.0094:3539-3675	Baker Spring	WPB_ENG_20101119.0094:3607-3618	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20100921.0056:1030-1061	Scott Ludlam	XIN_ENG_20100921.0056:1045-1056	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20090915.0128:5505-5589	Mike Gonzalez	NYT_ENG_20090915.0128:5509-5521	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	AFP_ENG_20100713.0213:1070-1189	Zhibin Zhang	AFP_ENG_20100713.0213:1109-1120	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	WPB_ENG_20100921.0044:1397-1545	Lee Edwards	WPB_ENG_20100921.0044:1466-1476	1.0
+CS14_ENG_201	org:employees_or_members	stackingms	NYT_ENG_20101119.0162:2983-3120	Jefferson Keel	NYT_ENG_20101119.0162:3050-3063	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20101120.0260:2568-2716,XIN_ENG_20101120.0260:2718-2736	21st Century Business Herald	XIN_ENG_20101120.0260:2588-2615	1.0
+CS14_ENG_151	org:top_members_employees	stackingms	APW_ENG_20101208.0457:454-522	Bella Goren	APW_ENG_20101208.0457:458-468	1.0
+CS14_ENG_218	per:stateorprovince_of_death	stackingms	AFP_ENG_20090915.0524:379-438	Dorset	AFP_ENG_20090915.0524:415-420	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20090619.0162:1827-1905	Bill Beach	XIN_ENG_20090619.0162:1827-1836	1.0
+CS14_ENG_151	org:top_members_employees	stackingms	APW_ENG_20100121.0012:3640-3748	Thomas Horton	APW_ENG_20100121.0012:3668-3680	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	APW_ENG_20100722.0185:3641-3766	Brian Riedl	APW_ENG_20100722.0185:3710-3720	1.0
+CS14_ENG_240	per:employee_or_member_of	stackingms	WPB_ENG_20101119.0048:1209-1323	Kennett	WPB_ENG_20101119.0048:1227-1233	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100203.0269:1851-1915	Mackenzie Eaglen	XIN_ENG_20100203.0269:1851-1866	1.0
+CS14_ENG_216	per:organizations_founded	stackingms	eng-NG-31-142265-10040840:2750-2767,eng-NG-31-142265-10040840:2750-2779	Blackwater USA	eng-NG-31-142265-10040840:614-627	1.0
+CS14_ENG_207	per:countries_of_residence	stackingms	XIN_ENG_20090614.0111:177-316	Czech	XIN_ENG_20090614.0111:177-181	1.0
+CS14_ENG_208	org:city_of_headquarters	stackingms	XIN_ENG_20100410.0047:187-318	Bangkok	XIN_ENG_20100410.0047:295-301	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20100719.0052:526-645	Ebony Bennett	XIN_ENG_20100719.0052:564-576	1.0
+CS14_ENG_214	per:employee_or_member_of	stackingms	APW_ENG_20100322.0876:184-298	University of Dundee	APW_ENG_20100322.0876:188-207	1.0
+CS14_ENG_244	org:top_members_employees	stackingms	NYT_ENG_20100817.0086:2282-2426	David Koch	NYT_ENG_20100817.0086:2352-2361	1.0
+CS14_ENG_163	gpe:headquarters_in_city	stackingms	eng-NG-31-142265-10040767:3778-3825	Affymetrix Inc.	eng-NG-31-142265-10040767:3811-3825	1.0
+CS14_ENG_196	gpe:deaths_in_city	stackingms	LTW_ENG_20090606.0113:120-238	Hammersley	LTW_ENG_20090606.0113:75-84	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20100113.0191:1836-1848,NYT_ENG_20100113.0191:1836-1898,NYT_ENG_20100113.0191:1863-1898	Ernest Istook	NYT_ENG_20100113.0191:1836-1848	1.0
+CS14_ENG_225	gpe:residents_of_city	stackingms	NYT_ENG_20091223.0028:2440-2459,NYT_ENG_20091223.0028:2440-2472,NYT_ENG_20091223.0028:2464-2472	Robin Smith Swanberg	NYT_ENG_20091223.0028:2440-2459	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100603.0451:908-1056	Duan Yibing	XIN_ENG_20100603.0451:977-987	1.0
+CS14_ENG_155	per:spouse	stackingms	APW_ENG_20090601.0941:409-544	Christian Karl Gerhartsreiter	APW_ENG_20090601.0941:485-513	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20100202.0179:3343-3486	Mike Franc	NYT_ENG_20100202.0179:3412-3421	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20100920.0160:290-327	Jean Bouilhou	AFP_ENG_20100920.0160:290-302	1.0
+CS14_ENG_244	org:top_members_employees	stackingms	bolt-eng-DF-170-181103-8904800:163734-163883	Charles Koch	bolt-eng-DF-170-181103-8904800:163803-163814	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	APW_ENG_20100404.0410:970-1004	Daniel Braaten	APW_ENG_20100404.0410:970-983	1.0
+CS14_ENG_196	gpe:deaths_in_city	stackingms	NYT_ENG_20090905.0105:997-1049	Louis Rosen	NYT_ENG_20090905.0105:58-68	1.0
+CS14_ENG_246	gpe:headquarters_in_city	stackingms	XIN_ENG_20091023.0390:886-930	South China Normal University	XIN_ENG_20091023.0390:902-930	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	bolt-eng-DF-170-181122-8793268:2258-2275,bolt-eng-DF-170-181122-8793268:2258-2319,bolt-eng-DF-170-181122-8793268:2297-2319	Hans Von Spakovsky	bolt-eng-DF-170-181122-8793268:2258-2275	1.0
+CS14_ENG_183	gpe:headquarters_in_city	stackingms	NYT_ENG_20101116.0197:3436-3553	NewSpring Capital	NYT_ENG_20101116.0197:3436-3452	1.0
+CS14_ENG_191	per:spouse	stackingms	WPB_ENG_20101014.0017:2056-2161	Vince McMahon	WPB_ENG_20101014.0017:2081-2093	1.0
+CS14_ENG_250	per:employee_or_member_of	stackingms	APW_ENG_20101023.0068:1427-1465,NYT_ENG_20101208.0216:1356-1379	Flames	APW_ENG_20101023.0068:1460-1465	1.0
+CS14_ENG_224	gpe:headquarters_in_city	stackingms	APW_ENG_20090831.1266:1644-1661	CVS	APW_ENG_20090831.1266:1644-1646	1.0
+CS14_ENG_179	per:organizations_founded	stackingms	APW_ENG_20100831.0027:2518-2660,APW_ENG_20100831.0027:2662-2669	id Software	APW_ENG_20100831.0027:2659-2669	1.0
+CS14_ENG_211	org:holds_shares_in	stackingms	LTW_ENG_20090809.0013:1071-1209	Yahoo	LTW_ENG_20090809.0013:1181-1185	1.0
+CS14_ENG_217	gpe:births_in_city	stackingms	LTW_ENG_20090922.0031:1117-1195	Christy C. Bulkeley	LTW_ENG_20090922.0031:146-164	1.0
+CS14_ENG_185	gpe:headquarters_in_city	stackingms	eng-NG-31-141827-9970160:2723-2744	Irving Animal Services	eng-NG-31-141827-9970160:2723-2744	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	NYT_ENG_20090609.0166:2495-2554	Brian M. Riedl	NYT_ENG_20090609.0166:2495-2508	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100320.0096:2063-2119	James Carafano	XIN_ENG_20100320.0096:2063-2076	1.0
+CS14_ENG_157	org:employees_or_members	stackingms	XIN_ENG_20100210.0231:1973-2045	J.D. Foster	XIN_ENG_20100210.0231:1973-1983	1.0
+CS14_ENG_241	gpe:births_in_country	stackingms	LTW_ENG_20091007.0005:11400-11549,LTW_ENG_20091007.0005:11551-11594	David Adjaye	LTW_ENG_20091007.0005:144-155	1.0
+CS14_ENG_222	org:founded_by	stackingms	eng-NG-31-142693-10077211:4818-4952	Jimmy Carter	eng-NG-31-142693-10077211:4835-4846	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100807.0244:427-430,XIN_ENG_20100807.0244:427-482,XIN_ENG_20100807.0244:452-482	Qian Weichang	XIN_ENG_20100807.0244:277-289	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	LTW_ENG_20090601.0031:4876-4897,LTW_ENG_20090914.0034:5528-5549	Lincoln Chafee	LTW_ENG_20090914.0034:5528-5541	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100312.0386:750-809	Chu Junhao	XIN_ENG_20100312.0386:360-369	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20091015.0420:853-892	Xu Xing	XIN_ENG_20091015.0420:853-859	1.0
+CS14_ENG_189	org:employees_or_members	stackingms	AFP_ENG_20091223.0025:2610-2633	Paulo Mechado	AFP_ENG_20091223.0025:2621-2633	1.0
+CS14_ENG_229	org:employees_or_members	stackingms	NYT_ENG_20090815.0005:5430-5463,NYT_ENG_20090815.0005:5440-5463	Billy Butler	NYT_ENG_20090815.0005:4944-4955	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	eng-NG-31-126851-9167002:7541-7590	Ray Goodlass	eng-NG-31-126851-9167002:450-461	1.0
+CS14_ENG_205	org:employees_or_members	stackingms	XIN_ENG_20100622.0442:1161-1284	Pang Shaojun	XIN_ENG_20100622.0442:1230-1241	1.0
+CS14_ENG_232	gpe:headquarters_in_city	stackingms	APW_ENG_20101103.0528:641-686	Google Inc.	APW_ENG_20101103.0528:555-565	1.0
+CS14_ENG_152	per:siblings	stackingms	AFP_ENG_20100130.0343:422-429,AFP_ENG_20100130.0343:422-453,AFP_ENG_20100130.0343:446-453	Kristyna	AFP_ENG_20100130.0343:446-453	1.0
+CS14_ENG_176	gpe:headquarters_in_city	stackingms	APW_ENG_20100211.0703:891-1020	First Energy	APW_ENG_20100211.0703:58-68	1.0
+CS14_ENG_188	gpe:residents_of_stateorprovince	stackingms	APW_ENG_20090831.1052:1750-1793	Melissa Curry	APW_ENG_20090831.1052:1750-1762	1.0
+CS14_ENG_199	org:employees_or_members	stackingms	XIN_ENG_20101230.0063:182-265	Brown	XIN_ENG_20101230.0063:663-667	1.0
+CS14_ENG_197	org:founded_by	stackingms	APW_ENG_20100409.0058:969-1002	Henri Cartier - Bresson	APW_ENG_20100409.0058:231-251	1.0
+SF14_ENG_003	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_009	per:date_of_death	stackingms	NIL
 SF14_ENG_024	per:children	stackingms	NIL
 SF14_ENG_056	org:stateorprovince_of_headquarters	stackingms	NIL
@@ -435,16 +395,20 @@ SF14_ENG_055	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_071	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_064	org:subsidiaries	stackingms	NIL
 SF14_ENG_029	per:date_of_birth	stackingms	NIL
+SF14_ENG_049	per:countries_of_residence	stackingms	NIL
 SF14_ENG_062	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_013	per:other_family	stackingms	NIL
 SF14_ENG_030	per:city_of_birth	stackingms	NIL
 SF14_ENG_008	per:other_family	stackingms	NIL
 SF14_ENG_077	org:top_members_employees	stackingms	NIL
+SF14_ENG_005	per:age	stackingms	NIL
 SF14_ENG_048	per:country_of_death	stackingms	NIL
 SF14_ENG_090	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_006	per:cities_of_residence	stackingms	NIL
 SF14_ENG_011	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_010	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_090	org:founded_by	stackingms	NIL
+SF14_ENG_033	per:title	stackingms	NIL
 SF14_ENG_014	per:spouse	stackingms	NIL
 SF14_ENG_091	org:website	stackingms	NIL
 SF14_ENG_034	per:spouse	stackingms	NIL
@@ -466,25 +430,32 @@ SF14_ENG_041	per:city_of_death	stackingms	NIL
 SF14_ENG_066	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_095	org:website	stackingms	NIL
 SF14_ENG_021	per:schools_attended	stackingms	NIL
+SF14_ENG_073	org:website	stackingms	NIL
 SF14_ENG_002	per:age	stackingms	NIL
 SF14_ENG_030	per:other_family	stackingms	NIL
 SF14_ENG_097	org:website	stackingms	NIL
 SF14_ENG_075	org:website	stackingms	NIL
 SF14_ENG_014	per:children	stackingms	NIL
 SF14_ENG_050	per:countries_of_residence	stackingms	NIL
+SF14_ENG_015	per:title	stackingms	NIL
 SF14_ENG_002	per:children	stackingms	NIL
+SF14_ENG_062	org:founded_by	stackingms	NIL
 SF14_ENG_003	per:city_of_birth	stackingms	NIL
 SF14_ENG_006	per:countries_of_residence	stackingms	NIL
+SF14_ENG_039	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_057	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_079	org:website	stackingms	NIL
 SF14_ENG_057	org:founded_by	stackingms	NIL
 SF14_ENG_007	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_025	per:date_of_birth	stackingms	NIL
 SF14_ENG_031	per:schools_attended	stackingms	NIL
+SF14_ENG_091	org:top_members_employees	stackingms	NIL
 SF14_ENG_046	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_046	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_069	org:date_dissolved	stackingms	NIL
+SF14_ENG_004	per:charges	stackingms	NIL
 SF14_ENG_059	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_082	org:date_founded	stackingms	NIL
 SF14_ENG_010	per:children	stackingms	NIL
 SF14_ENG_022	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_006	per:charges	stackingms	NIL
@@ -499,15 +470,20 @@ SF14_ENG_099	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_038	per:children	stackingms	NIL
 SF14_ENG_034	per:children	stackingms	NIL
 SF14_ENG_022	per:origin	stackingms	NIL
+SF14_ENG_049	per:origin	stackingms	NIL
 SF14_ENG_014	per:city_of_death	stackingms	NIL
 SF14_ENG_029	per:origin	stackingms	NIL
+SF14_ENG_044	per:country_of_death	stackingms	NIL
 SF14_ENG_052	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_090	org:shareholders	stackingms	NIL
 SF14_ENG_002	per:origin	stackingms	NIL
 SF14_ENG_095	org:alternate_names	stackingms	NIL
 SF14_ENG_040	per:cities_of_residence	stackingms	NIL
 SF14_ENG_001	per:date_of_death	stackingms	NIL
+SF14_ENG_084	org:top_members_employees	stackingms	NIL
+SF14_ENG_042	per:title	stackingms	NIL
 SF14_ENG_053	org:founded_by	stackingms	NIL
+SF14_ENG_006	per:title	stackingms	NIL
 SF14_ENG_052	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_044	per:children	stackingms	NIL
 SF14_ENG_034	per:city_of_birth	stackingms	NIL
@@ -519,6 +495,7 @@ SF14_ENG_095	org:date_dissolved	stackingms	NIL
 SF14_ENG_047	per:spouse	stackingms	NIL
 SF14_ENG_030	per:country_of_death	stackingms	NIL
 SF14_ENG_007	per:city_of_birth	stackingms	NIL
+SF14_ENG_048	per:children	stackingms	NIL
 SF14_ENG_085	org:shareholders	stackingms	NIL
 SF14_ENG_030	per:age	stackingms	NIL
 SF14_ENG_061	org:alternate_names	stackingms	NIL
@@ -540,6 +517,7 @@ SF14_ENG_078	org:members	stackingms	NIL
 SF14_ENG_026	per:charges	stackingms	NIL
 SF14_ENG_038	per:country_of_death	stackingms	NIL
 SF14_ENG_008	per:schools_attended	stackingms	NIL
+SF14_ENG_022	per:alternate_names	stackingms	NIL
 SF14_ENG_049	per:city_of_death	stackingms	NIL
 SF14_ENG_068	org:top_members_employees	stackingms	NIL
 SF14_ENG_046	per:date_of_birth	stackingms	NIL
@@ -548,6 +526,8 @@ SF14_ENG_094	org:founded_by	stackingms	NIL
 SF14_ENG_028	per:children	stackingms	NIL
 SF14_ENG_001	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_005	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_019	per:date_of_birth	stackingms	NIL
+SF14_ENG_022	per:date_of_death	stackingms	NIL
 SF14_ENG_020	per:country_of_death	stackingms	NIL
 SF14_ENG_033	per:country_of_birth	stackingms	NIL
 SF14_ENG_057	org:alternate_names	stackingms	NIL
@@ -557,16 +537,22 @@ SF14_ENG_083	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_030	per:cities_of_residence	stackingms	NIL
 SF14_ENG_087	org:subsidiaries	stackingms	NIL
 SF14_ENG_065	org:date_founded	stackingms	NIL
+SF14_ENG_020	per:children	stackingms	NIL
 SF14_ENG_036	per:age	stackingms	NIL
+SF14_ENG_024	per:alternate_names	stackingms	NIL
 SF14_ENG_017	per:country_of_death	stackingms	NIL
 SF14_ENG_051	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_041	per:other_family	stackingms	NIL
 SF14_ENG_037	per:charges	stackingms	NIL
 SF14_ENG_051	org:date_dissolved	stackingms	NIL
 SF14_ENG_015	per:charges	stackingms	NIL
+SF14_ENG_029	per:schools_attended	stackingms	NIL
 SF14_ENG_001	per:spouse	stackingms	NIL
+SF14_ENG_086	org:top_members_employees	stackingms	NIL
 SF14_ENG_023	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_044	per:countries_of_residence	stackingms	NIL
+SF14_ENG_019	per:charges	stackingms	NIL
+SF14_ENG_038	per:city_of_birth	stackingms	NIL
 SF14_ENG_081	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_041	per:spouse	stackingms	NIL
 SF14_ENG_092	org:members	stackingms	NIL
@@ -577,11 +563,16 @@ SF14_ENG_070	org:members	stackingms	NIL
 SF14_ENG_017	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_068	org:date_dissolved	stackingms	NIL
 SF14_ENG_096	org:members	stackingms	NIL
+SF14_ENG_001	per:countries_of_residence	stackingms	NIL
 SF14_ENG_025	per:other_family	stackingms	NIL
+SF14_ENG_013	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_062	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_015	per:origin	stackingms	NIL
+SF14_ENG_050	per:title	stackingms	NIL
 SF14_ENG_013	per:city_of_birth	stackingms	NIL
 SF14_ENG_018	per:children	stackingms	NIL
+SF14_ENG_033	per:charges	stackingms	NIL
+SF14_ENG_049	per:schools_attended	stackingms	NIL
 SF14_ENG_011	per:charges	stackingms	NIL
 SF14_ENG_057	org:website	stackingms	NIL
 SF14_ENG_074	org:members	stackingms	NIL
@@ -590,6 +581,7 @@ SF14_ENG_028	per:city_of_death	stackingms	NIL
 SF14_ENG_058	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_020	per:cause_of_death	stackingms	NIL
 SF14_ENG_024	per:country_of_death	stackingms	NIL
+SF14_ENG_025	per:countries_of_residence	stackingms	NIL
 SF14_ENG_022	per:children	stackingms	NIL
 SF14_ENG_047	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_062	org:shareholders	stackingms	NIL
@@ -599,16 +591,20 @@ SF14_ENG_097	org:shareholders	stackingms	NIL
 SF14_ENG_008	per:spouse	stackingms	NIL
 SF14_ENG_048	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_080	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_084	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_060	org:website	stackingms	NIL
 SF14_ENG_079	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_013	per:country_of_death	stackingms	NIL
+SF14_ENG_071	org:founded_by	stackingms	NIL
 SF14_ENG_032	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_039	per:date_of_birth	stackingms	NIL
 SF14_ENG_074	org:alternate_names	stackingms	NIL
 SF14_ENG_028	per:origin	stackingms	NIL
 SF14_ENG_036	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_049	per:title	stackingms	NIL
 SF14_ENG_042	per:date_of_death	stackingms	NIL
 SF14_ENG_034	per:country_of_death	stackingms	NIL
+SF14_ENG_050	per:country_of_birth	stackingms	NIL
 SF14_ENG_003	per:country_of_death	stackingms	NIL
 SF14_ENG_042	per:children	stackingms	NIL
 SF14_ENG_089	org:members	stackingms	NIL
@@ -618,6 +614,8 @@ SF14_ENG_085	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_017	per:cause_of_death	stackingms	NIL
 SF14_ENG_018	per:religion	stackingms	NIL
 SF14_ENG_068	org:shareholders	stackingms	NIL
+SF14_ENG_024	per:cities_of_residence	stackingms	NIL
+SF14_ENG_055	org:alternate_names	stackingms	NIL
 SF14_ENG_094	org:date_founded	stackingms	NIL
 SF14_ENG_044	per:cause_of_death	stackingms	NIL
 SF14_ENG_081	org:subsidiaries	stackingms	NIL
@@ -625,14 +623,17 @@ SF14_ENG_042	per:cause_of_death	stackingms	NIL
 SF14_ENG_048	per:spouse	stackingms	NIL
 SF14_ENG_100	org:subsidiaries	stackingms	NIL
 SF14_ENG_037	per:cause_of_death	stackingms	NIL
+SF14_ENG_049	per:age	stackingms	NIL
 SF14_ENG_024	per:title	stackingms	NIL
 SF14_ENG_039	per:alternate_names	stackingms	NIL
 SF14_ENG_081	org:members	stackingms	NIL
 SF14_ENG_091	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_040	per:siblings	stackingms	NIL
 SF14_ENG_039	per:cause_of_death	stackingms	NIL
 SF14_ENG_025	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_064	org:website	stackingms	NIL
 SF14_ENG_085	org:members	stackingms	NIL
+SF14_ENG_008	per:religion	stackingms	NIL
 SF14_ENG_050	per:siblings	stackingms	NIL
 SF14_ENG_025	per:schools_attended	stackingms	NIL
 SF14_ENG_089	org:alternate_names	stackingms	NIL
@@ -642,6 +643,7 @@ SF14_ENG_022	per:charges	stackingms	NIL
 SF14_ENG_078	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_003	per:alternate_names	stackingms	NIL
 SF14_ENG_004	per:schools_attended	stackingms	NIL
+SF14_ENG_049	per:cities_of_residence	stackingms	NIL
 SF14_ENG_068	org:website	stackingms	NIL
 SF14_ENG_006	per:country_of_birth	stackingms	NIL
 SF14_ENG_033	per:spouse	stackingms	NIL
@@ -651,26 +653,32 @@ SF14_ENG_039	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_032	per:date_of_birth	stackingms	NIL
 SF14_ENG_011	per:date_of_death	stackingms	NIL
 SF14_ENG_015	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_016	per:title	stackingms	NIL
 SF14_ENG_028	per:country_of_death	stackingms	NIL
 SF14_ENG_004	per:religion	stackingms	NIL
 SF14_ENG_042	per:cities_of_residence	stackingms	NIL
 SF14_ENG_096	org:date_dissolved	stackingms	NIL
 SF14_ENG_008	per:city_of_death	stackingms	NIL
 SF14_ENG_028	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_086	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_012	per:date_of_death	stackingms	NIL
 SF14_ENG_047	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_051	org:shareholders	stackingms	NIL
 SF14_ENG_020	per:siblings	stackingms	NIL
 SF14_ENG_007	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_067	org:founded_by	stackingms	NIL
+SF14_ENG_091	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_041	per:origin	stackingms	NIL
 SF14_ENG_079	org:member_of	stackingms	NIL
 SF14_ENG_017	per:age	stackingms	NIL
 SF14_ENG_007	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_021	per:origin	stackingms	NIL
+SF14_ENG_023	per:title	stackingms	NIL
 SF14_ENG_014	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_061	org:shareholders	stackingms	NIL
 SF14_ENG_057	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_075	org:subsidiaries	stackingms	NIL
+SF14_ENG_015	per:schools_attended	stackingms	NIL
 SF14_ENG_038	per:city_of_death	stackingms	NIL
 SF14_ENG_028	per:religion	stackingms	NIL
 SF14_ENG_092	org:stateorprovince_of_headquarters	stackingms	NIL
@@ -685,23 +693,32 @@ SF14_ENG_047	per:cities_of_residence	stackingms	NIL
 SF14_ENG_035	per:alternate_names	stackingms	NIL
 SF14_ENG_093	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_015	per:date_of_death	stackingms	NIL
+SF14_ENG_068	org:alternate_names	stackingms	NIL
 SF14_ENG_086	org:shareholders	stackingms	NIL
 SF14_ENG_080	org:subsidiaries	stackingms	NIL
 SF14_ENG_067	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_023	per:countries_of_residence	stackingms	NIL
 SF14_ENG_067	org:date_dissolved	stackingms	NIL
 SF14_ENG_087	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_088	org:top_members_employees	stackingms	NIL
+SF14_ENG_016	per:cities_of_residence	stackingms	NIL
 SF14_ENG_052	org:members	stackingms	NIL
 SF14_ENG_075	org:date_dissolved	stackingms	NIL
+SF14_ENG_066	org:date_founded	stackingms	NIL
+SF14_ENG_040	per:age	stackingms	NIL
 SF14_ENG_058	org:members	stackingms	NIL
 SF14_ENG_094	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_014	per:country_of_death	stackingms	NIL
+SF14_ENG_080	org:top_members_employees	stackingms	NIL
 SF14_ENG_002	per:other_family	stackingms	NIL
 SF14_ENG_048	per:charges	stackingms	NIL
+SF14_ENG_016	per:alternate_names	stackingms	NIL
+SF14_ENG_034	per:cities_of_residence	stackingms	NIL
 SF14_ENG_023	per:country_of_death	stackingms	NIL
 SF14_ENG_063	org:alternate_names	stackingms	NIL
 SF14_ENG_006	per:religion	stackingms	NIL
 SF14_ENG_024	per:city_of_birth	stackingms	NIL
+SF14_ENG_037	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_002	per:religion	stackingms	NIL
 SF14_ENG_095	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_071	org:date_dissolved	stackingms	NIL
@@ -711,6 +728,7 @@ SF14_ENG_030	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_056	org:shareholders	stackingms	NIL
 SF14_ENG_044	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_047	per:country_of_birth	stackingms	NIL
+SF14_ENG_004	per:city_of_death	stackingms	NIL
 SF14_ENG_040	per:country_of_birth	stackingms	NIL
 SF14_ENG_053	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_022	per:siblings	stackingms	NIL
@@ -733,9 +751,11 @@ SF14_ENG_072	org:founded_by	stackingms	NIL
 SF14_ENG_003	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_014	per:city_of_birth	stackingms	NIL
 SF14_ENG_008	per:date_of_birth	stackingms	NIL
+SF14_ENG_014	per:title	stackingms	NIL
 SF14_ENG_042	per:siblings	stackingms	NIL
 SF14_ENG_060	org:date_founded	stackingms	NIL
 SF14_ENG_093	org:date_dissolved	stackingms	NIL
+SF14_ENG_041	per:title	stackingms	NIL
 SF14_ENG_084	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_029	per:alternate_names	stackingms	NIL
 SF14_ENG_030	per:alternate_names	stackingms	NIL
@@ -744,6 +764,7 @@ SF14_ENG_052	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_076	org:founded_by	stackingms	NIL
 SF14_ENG_040	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_071	org:date_founded	stackingms	NIL
+SF14_ENG_080	org:founded_by	stackingms	NIL
 SF14_ENG_017	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_040	per:charges	stackingms	NIL
 SF14_ENG_045	per:schools_attended	stackingms	NIL
@@ -754,6 +775,7 @@ SF14_ENG_084	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_042	per:charges	stackingms	NIL
 SF14_ENG_007	per:country_of_birth	stackingms	NIL
 SF14_ENG_031	per:date_of_birth	stackingms	NIL
+SF14_ENG_022	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_073	org:top_members_employees	stackingms	NIL
 SF14_ENG_098	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_020	per:countries_of_residence	stackingms	NIL
@@ -773,21 +795,28 @@ SF14_ENG_028	per:charges	stackingms	NIL
 SF14_ENG_001	per:other_family	stackingms	NIL
 SF14_ENG_065	org:parents	stackingms	NIL
 SF14_ENG_021	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_024	per:siblings	stackingms	NIL
 SF14_ENG_042	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_092	org:date_dissolved	stackingms	NIL
 SF14_ENG_026	per:other_family	stackingms	NIL
 SF14_ENG_001	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_006	per:spouse	stackingms	NIL
 SF14_ENG_009	per:schools_attended	stackingms	NIL
+SF14_ENG_082	org:alternate_names	stackingms	NIL
 SF14_ENG_022	per:date_of_birth	stackingms	NIL
 SF14_ENG_063	org:member_of	stackingms	NIL
 SF14_ENG_074	org:date_dissolved	stackingms	NIL
 SF14_ENG_084	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_015	per:date_of_birth	stackingms	NIL
 SF14_ENG_060	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_095	org:date_founded	stackingms	NIL
 SF14_ENG_082	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_022	per:parents	stackingms	NIL
 SF14_ENG_024	per:religion	stackingms	NIL
 SF14_ENG_047	per:date_of_death	stackingms	NIL
+SF14_ENG_039	per:age	stackingms	NIL
+SF14_ENG_015	per:age	stackingms	NIL
+SF14_ENG_023	per:origin	stackingms	NIL
 SF14_ENG_056	org:parents	stackingms	NIL
 SF14_ENG_099	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_017	per:charges	stackingms	NIL
@@ -796,8 +825,10 @@ SF14_ENG_049	per:date_of_birth	stackingms	NIL
 SF14_ENG_081	org:founded_by	stackingms	NIL
 SF14_ENG_039	per:charges	stackingms	NIL
 SF14_ENG_067	org:shareholders	stackingms	NIL
+SF14_ENG_097	org:top_members_employees	stackingms	NIL
 SF14_ENG_076	org:parents	stackingms	NIL
 SF14_ENG_075	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_043	per:title	stackingms	NIL
 SF14_ENG_048	per:city_of_birth	stackingms	NIL
 SF14_ENG_055	org:website	stackingms	NIL
 SF14_ENG_077	org:member_of	stackingms	NIL
@@ -808,6 +839,7 @@ SF14_ENG_023	per:city_of_birth	stackingms	NIL
 SF14_ENG_058	org:founded_by	stackingms	NIL
 SF14_ENG_044	per:parents	stackingms	NIL
 SF14_ENG_002	per:siblings	stackingms	NIL
+SF14_ENG_016	per:children	stackingms	NIL
 SF14_ENG_075	org:founded_by	stackingms	NIL
 SF14_ENG_094	org:members	stackingms	NIL
 SF14_ENG_072	org:members	stackingms	NIL
@@ -824,6 +856,7 @@ SF14_ENG_020	per:country_of_birth	stackingms	NIL
 SF14_ENG_076	org:date_founded	stackingms	NIL
 SF14_ENG_061	org:member_of	stackingms	NIL
 SF14_ENG_087	org:parents	stackingms	NIL
+SF14_ENG_010	per:cities_of_residence	stackingms	NIL
 SF14_ENG_051	org:subsidiaries	stackingms	NIL
 SF14_ENG_080	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_009	per:date_of_birth	stackingms	NIL
@@ -831,13 +864,16 @@ SF14_ENG_004	per:cities_of_residence	stackingms	NIL
 SF14_ENG_014	per:cause_of_death	stackingms	NIL
 SF14_ENG_038	per:countries_of_residence	stackingms	NIL
 SF14_ENG_015	per:spouse	stackingms	NIL
+SF14_ENG_039	per:city_of_death	stackingms	NIL
 SF14_ENG_085	org:member_of	stackingms	NIL
+SF14_ENG_008	per:origin	stackingms	NIL
 SF14_ENG_070	org:date_founded	stackingms	NIL
 SF14_ENG_066	org:founded_by	stackingms	NIL
 SF14_ENG_075	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_075	org:member_of	stackingms	NIL
 SF14_ENG_050	per:cause_of_death	stackingms	NIL
 SF14_ENG_085	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_007	per:other_family	stackingms	NIL
 SF14_ENG_027	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_027	per:country_of_birth	stackingms	NIL
 SF14_ENG_036	per:countries_of_residence	stackingms	NIL
@@ -845,6 +881,7 @@ SF14_ENG_021	per:cause_of_death	stackingms	NIL
 SF14_ENG_071	org:member_of	stackingms	NIL
 SF14_ENG_029	per:cities_of_residence	stackingms	NIL
 SF14_ENG_046	per:date_of_death	stackingms	NIL
+SF14_ENG_039	per:date_of_death	stackingms	NIL
 SF14_ENG_076	org:subsidiaries	stackingms	NIL
 SF14_ENG_045	per:city_of_death	stackingms	NIL
 SF14_ENG_013	per:country_of_birth	stackingms	NIL
@@ -859,10 +896,15 @@ SF14_ENG_057	org:shareholders	stackingms	NIL
 SF14_ENG_073	org:member_of	stackingms	NIL
 SF14_ENG_083	org:members	stackingms	NIL
 SF14_ENG_008	per:country_of_death	stackingms	NIL
+SF14_ENG_020	per:charges	stackingms	NIL
+SF14_ENG_049	per:city_of_birth	stackingms	NIL
 SF14_ENG_085	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_047	per:origin	stackingms	NIL
 SF14_ENG_009	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_099	org:top_members_employees	stackingms	NIL
 SF14_ENG_017	per:origin	stackingms	NIL
+SF14_ENG_031	per:title	stackingms	NIL
+SF14_ENG_019	per:cities_of_residence	stackingms	NIL
 SF14_ENG_003	per:countries_of_residence	stackingms	NIL
 SF14_ENG_065	org:member_of	stackingms	NIL
 SF14_ENG_054	org:subsidiaries	stackingms	NIL
@@ -873,6 +915,7 @@ SF14_ENG_047	per:country_of_death	stackingms	NIL
 SF14_ENG_071	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_089	org:subsidiaries	stackingms	NIL
 SF14_ENG_055	org:shareholders	stackingms	NIL
+SF14_ENG_008	per:title	stackingms	NIL
 SF14_ENG_007	per:origin	stackingms	NIL
 SF14_ENG_028	per:siblings	stackingms	NIL
 SF14_ENG_036	per:schools_attended	stackingms	NIL
@@ -887,6 +930,7 @@ SF14_ENG_003	per:other_family	stackingms	NIL
 SF14_ENG_006	per:city_of_birth	stackingms	NIL
 SF14_ENG_049	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_045	per:country_of_death	stackingms	NIL
+SF14_ENG_050	per:origin	stackingms	NIL
 SF14_ENG_026	per:age	stackingms	NIL
 SF14_ENG_034	per:schools_attended	stackingms	NIL
 SF14_ENG_070	org:city_of_headquarters	stackingms	NIL
@@ -895,6 +939,7 @@ SF14_ENG_075	org:shareholders	stackingms	NIL
 SF14_ENG_041	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_060	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_099	org:parents	stackingms	NIL
+SF14_ENG_001	per:cities_of_residence	stackingms	NIL
 SF14_ENG_096	org:parents	stackingms	NIL
 SF14_ENG_098	org:parents	stackingms	NIL
 SF14_ENG_055	org:city_of_headquarters	stackingms	NIL
@@ -918,6 +963,8 @@ SF14_ENG_006	per:parents	stackingms	NIL
 SF14_ENG_023	per:age	stackingms	NIL
 SF14_ENG_032	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_061	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_012	per:spouse	stackingms	NIL
+SF14_ENG_076	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_022	per:spouse	stackingms	NIL
 SF14_ENG_008	per:alternate_names	stackingms	NIL
 SF14_ENG_018	per:siblings	stackingms	NIL
@@ -930,11 +977,15 @@ SF14_ENG_024	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_057	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_028	per:cities_of_residence	stackingms	NIL
 SF14_ENG_088	org:parents	stackingms	NIL
+SF14_ENG_026	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_066	org:member_of	stackingms	NIL
+SF14_ENG_071	org:top_members_employees	stackingms	NIL
 SF14_ENG_054	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_082	org:member_of	stackingms	NIL
 SF14_ENG_004	per:country_of_death	stackingms	NIL
+SF14_ENG_035	per:title	stackingms	NIL
 SF14_ENG_028	per:alternate_names	stackingms	NIL
+SF14_ENG_054	org:top_members_employees	stackingms	NIL
 SF14_ENG_025	per:siblings	stackingms	NIL
 SF14_ENG_048	per:age	stackingms	NIL
 SF14_ENG_054	org:founded_by	stackingms	NIL
@@ -943,8 +994,10 @@ SF14_ENG_014	per:date_of_birth	stackingms	NIL
 SF14_ENG_062	org:top_members_employees	stackingms	NIL
 SF14_ENG_012	per:country_of_birth	stackingms	NIL
 SF14_ENG_043	per:religion	stackingms	NIL
+SF14_ENG_020	per:origin	stackingms	NIL
 SF14_ENG_018	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_099	org:alternate_names	stackingms	NIL
+SF14_ENG_041	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_002	per:country_of_death	stackingms	NIL
 SF14_ENG_024	per:schools_attended	stackingms	NIL
 SF14_ENG_055	org:date_founded	stackingms	NIL
@@ -954,6 +1007,7 @@ SF14_ENG_082	org:parents	stackingms	NIL
 SF14_ENG_049	per:country_of_death	stackingms	NIL
 SF14_ENG_035	per:other_family	stackingms	NIL
 SF14_ENG_029	per:siblings	stackingms	NIL
+SF14_ENG_017	per:parents	stackingms	NIL
 SF14_ENG_033	per:religion	stackingms	NIL
 SF14_ENG_084	org:parents	stackingms	NIL
 SF14_ENG_009	per:spouse	stackingms	NIL
@@ -964,6 +1018,7 @@ SF14_ENG_013	per:parents	stackingms	NIL
 SF14_ENG_028	per:country_of_birth	stackingms	NIL
 SF14_ENG_038	per:other_family	stackingms	NIL
 SF14_ENG_047	per:alternate_names	stackingms	NIL
+SF14_ENG_061	org:founded_by	stackingms	NIL
 SF14_ENG_017	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_032	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_059	org:political_religious_affiliation	stackingms	NIL
@@ -972,6 +1027,7 @@ SF14_ENG_002	per:cities_of_residence	stackingms	NIL
 SF14_ENG_062	org:subsidiaries	stackingms	NIL
 SF14_ENG_078	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_097	org:subsidiaries	stackingms	NIL
+SF14_ENG_032	per:parents	stackingms	NIL
 SF14_ENG_047	per:siblings	stackingms	NIL
 SF14_ENG_077	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_097	org:number_of_employees_members	stackingms	NIL
@@ -982,6 +1038,7 @@ SF14_ENG_048	per:city_of_death	stackingms	NIL
 SF14_ENG_023	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_046	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_081	org:date_founded	stackingms	NIL
+SF14_ENG_039	per:title	stackingms	NIL
 SF14_ENG_050	per:religion	stackingms	NIL
 SF14_ENG_037	per:country_of_death	stackingms	NIL
 SF14_ENG_077	org:subsidiaries	stackingms	NIL
@@ -991,8 +1048,11 @@ SF14_ENG_013	per:cause_of_death	stackingms	NIL
 SF14_ENG_036	per:country_of_birth	stackingms	NIL
 SF14_ENG_081	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_002	per:cause_of_death	stackingms	NIL
+SF14_ENG_075	org:date_founded	stackingms	NIL
 SF14_ENG_036	per:siblings	stackingms	NIL
+SF14_ENG_010	per:title	stackingms	NIL
 SF14_ENG_070	org:founded_by	stackingms	NIL
+SF14_ENG_011	per:religion	stackingms	NIL
 SF14_ENG_100	org:founded_by	stackingms	NIL
 SF14_ENG_007	per:alternate_names	stackingms	NIL
 SF14_ENG_058	org:shareholders	stackingms	NIL
@@ -1020,6 +1080,10 @@ SF14_ENG_028	per:parents	stackingms	NIL
 SF14_ENG_065	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_020	per:date_of_birth	stackingms	NIL
 SF14_ENG_100	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_046	per:parents	stackingms	NIL
+SF14_ENG_024	per:parents	stackingms	NIL
+SF14_ENG_049	per:parents	stackingms	NIL
+SF14_ENG_024	per:origin	stackingms	NIL
 SF14_ENG_018	per:age	stackingms	NIL
 SF14_ENG_078	org:shareholders	stackingms	NIL
 SF14_ENG_025	per:parents	stackingms	NIL
@@ -1032,11 +1096,13 @@ SF14_ENG_054	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_021	per:religion	stackingms	NIL
 SF14_ENG_010	per:siblings	stackingms	NIL
 SF14_ENG_031	per:age	stackingms	NIL
+SF14_ENG_066	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_040	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_085	org:parents	stackingms	NIL
 SF14_ENG_002	per:date_of_death	stackingms	NIL
 SF14_ENG_008	per:cause_of_death	stackingms	NIL
 SF14_ENG_027	per:cities_of_residence	stackingms	NIL
+SF14_ENG_035	per:spouse	stackingms	NIL
 SF14_ENG_018	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_100	org:date_founded	stackingms	NIL
 SF14_ENG_046	per:statesorprovinces_of_residence	stackingms	NIL
@@ -1047,7 +1113,9 @@ SF14_ENG_078	org:date_founded	stackingms	NIL
 SF14_ENG_051	org:alternate_names	stackingms	NIL
 SF14_ENG_050	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_010	per:religion	stackingms	NIL
+SF14_ENG_087	org:alternate_names	stackingms	NIL
 SF14_ENG_046	per:countries_of_residence	stackingms	NIL
+SF14_ENG_017	per:siblings	stackingms	NIL
 SF14_ENG_030	per:origin	stackingms	NIL
 SF14_ENG_019	per:cause_of_death	stackingms	NIL
 SF14_ENG_063	org:stateorprovince_of_headquarters	stackingms	NIL
@@ -1057,6 +1125,7 @@ SF14_ENG_031	per:other_family	stackingms	NIL
 SF14_ENG_018	per:cities_of_residence	stackingms	NIL
 SF14_ENG_007	per:siblings	stackingms	NIL
 SF14_ENG_046	per:cause_of_death	stackingms	NIL
+SF14_ENG_072	org:alternate_names	stackingms	NIL
 SF14_ENG_091	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_060	org:parents	stackingms	NIL
 SF14_ENG_100	org:shareholders	stackingms	NIL
@@ -1068,6 +1137,7 @@ SF14_ENG_035	per:cause_of_death	stackingms	NIL
 SF14_ENG_081	org:parents	stackingms	NIL
 SF14_ENG_005	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_039	per:parents	stackingms	NIL
+SF14_ENG_012	per:city_of_birth	stackingms	NIL
 SF14_ENG_014	per:parents	stackingms	NIL
 SF14_ENG_039	per:spouse	stackingms	NIL
 SF14_ENG_032	per:schools_attended	stackingms	NIL
@@ -1076,15 +1146,19 @@ SF14_ENG_053	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_037	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_023	per:spouse	stackingms	NIL
 SF14_ENG_082	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_085	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_025	per:cities_of_residence	stackingms	NIL
 SF14_ENG_018	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_073	org:date_founded	stackingms	NIL
 SF14_ENG_006	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_022	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_014	per:age	stackingms	NIL
 SF14_ENG_005	per:date_of_birth	stackingms	NIL
+SF14_ENG_043	per:siblings	stackingms	NIL
 SF14_ENG_051	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_039	per:religion	stackingms	NIL
 SF14_ENG_044	per:country_of_birth	stackingms	NIL
+SF14_ENG_011	per:countries_of_residence	stackingms	NIL
 SF14_ENG_093	org:date_founded	stackingms	NIL
 SF14_ENG_019	per:schools_attended	stackingms	NIL
 SF14_ENG_096	org:political_religious_affiliation	stackingms	NIL
@@ -1099,8 +1173,11 @@ SF14_ENG_001	per:alternate_names	stackingms	NIL
 SF14_ENG_056	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_078	org:alternate_names	stackingms	NIL
 SF14_ENG_045	per:alternate_names	stackingms	NIL
+SF14_ENG_001	per:origin	stackingms	NIL
 SF14_ENG_083	org:date_founded	stackingms	NIL
+SF14_ENG_025	per:title	stackingms	NIL
 SF14_ENG_029	per:countries_of_residence	stackingms	NIL
+SF14_ENG_021	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_002	per:date_of_birth	stackingms	NIL
 SF14_ENG_046	per:country_of_birth	stackingms	NIL
 SF14_ENG_012	per:country_of_death	stackingms	NIL
@@ -1117,6 +1194,8 @@ SF14_ENG_036	per:origin	stackingms	NIL
 SF14_ENG_098	org:date_founded	stackingms	NIL
 SF14_ENG_035	per:age	stackingms	NIL
 SF14_ENG_061	org:date_dissolved	stackingms	NIL
+SF14_ENG_006	per:origin	stackingms	NIL
+SF14_ENG_050	per:charges	stackingms	NIL
 SF14_ENG_088	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_051	org:members	stackingms	NIL
 SF14_ENG_054	org:members	stackingms	NIL
@@ -1126,6 +1205,7 @@ SF14_ENG_026	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_053	org:date_founded	stackingms	NIL
 SF14_ENG_088	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_091	org:shareholders	stackingms	NIL
+SF14_ENG_097	org:alternate_names	stackingms	NIL
 SF14_ENG_035	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_002	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_019	per:countries_of_residence	stackingms	NIL
@@ -1140,10 +1220,12 @@ SF14_ENG_069	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_005	per:spouse	stackingms	NIL
 SF14_ENG_081	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_086	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_030	per:children	stackingms	NIL
 SF14_ENG_002	per:country_of_birth	stackingms	NIL
 SF14_ENG_021	per:siblings	stackingms	NIL
 SF14_ENG_006	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_010	per:city_of_birth	stackingms	NIL
+SF14_ENG_040	per:schools_attended	stackingms	NIL
 SF14_ENG_074	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_018	per:origin	stackingms	NIL
 SF14_ENG_096	org:member_of	stackingms	NIL
@@ -1165,6 +1247,7 @@ SF14_ENG_059	org:top_members_employees	stackingms	NIL
 SF14_ENG_094	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_052	org:member_of	stackingms	NIL
 SF14_ENG_065	org:members	stackingms	NIL
+SF14_ENG_098	org:alternate_names	stackingms	NIL
 SF14_ENG_047	per:religion	stackingms	NIL
 SF14_ENG_042	per:countries_of_residence	stackingms	NIL
 SF14_ENG_027	per:age	stackingms	NIL
@@ -1178,6 +1261,7 @@ SF14_ENG_046	per:spouse	stackingms	NIL
 SF14_ENG_080	org:alternate_names	stackingms	NIL
 SF14_ENG_069	org:alternate_names	stackingms	NIL
 SF14_ENG_069	org:parents	stackingms	NIL
+SF14_ENG_079	org:top_members_employees	stackingms	NIL
 SF14_ENG_098	org:shareholders	stackingms	NIL
 SF14_ENG_045	per:cause_of_death	stackingms	NIL
 SF14_ENG_066	org:parents	stackingms	NIL
@@ -1193,11 +1277,17 @@ SF14_ENG_082	org:subsidiaries	stackingms	NIL
 SF14_ENG_083	org:date_dissolved	stackingms	NIL
 SF14_ENG_086	org:member_of	stackingms	NIL
 SF14_ENG_073	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_097	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_013	per:countries_of_residence	stackingms	NIL
+SF14_ENG_016	per:spouse	stackingms	NIL
 SF14_ENG_076	org:member_of	stackingms	NIL
+SF14_ENG_040	per:parents	stackingms	NIL
 SF14_ENG_083	org:shareholders	stackingms	NIL
 SF14_ENG_038	per:charges	stackingms	NIL
 SF14_ENG_043	per:parents	stackingms	NIL
 SF14_ENG_004	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_032	per:cities_of_residence	stackingms	NIL
+SF14_ENG_013	per:origin	stackingms	NIL
 SF14_ENG_051	org:founded_by	stackingms	NIL
 SF14_ENG_077	org:parents	stackingms	NIL
 SF14_ENG_037	per:country_of_birth	stackingms	NIL
@@ -1206,6 +1296,7 @@ SF14_ENG_100	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_055	org:parents	stackingms	NIL
 SF14_ENG_040	per:countries_of_residence	stackingms	NIL
 SF14_ENG_096	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_012	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_017	per:alternate_names	stackingms	NIL
 SF14_ENG_051	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_098	org:stateorprovince_of_headquarters	stackingms	NIL
@@ -1217,6 +1308,8 @@ SF14_ENG_057	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_059	org:website	stackingms	NIL
 SF14_ENG_011	per:spouse	stackingms	NIL
 SF14_ENG_039	per:country_of_death	stackingms	NIL
+SF14_ENG_002	per:title	stackingms	NIL
+SF14_ENG_035	per:charges	stackingms	NIL
 SF14_ENG_004	per:children	stackingms	NIL
 SF14_ENG_036	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_073	org:members	stackingms	NIL
@@ -1230,6 +1323,9 @@ SF14_ENG_017	per:countries_of_residence	stackingms	NIL
 SF14_ENG_038	per:country_of_birth	stackingms	NIL
 SF14_ENG_026	per:children	stackingms	NIL
 SF14_ENG_010	per:country_of_birth	stackingms	NIL
+SF14_ENG_049	per:charges	stackingms	NIL
+SF14_ENG_014	per:siblings	stackingms	NIL
+SF14_ENG_025	per:religion	stackingms	NIL
 SF14_ENG_065	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_052	org:alternate_names	stackingms	NIL
 SF14_ENG_041	per:schools_attended	stackingms	NIL
@@ -1249,11 +1345,14 @@ SF14_ENG_009	per:cause_of_death	stackingms	NIL
 SF14_ENG_065	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_023	per:cause_of_death	stackingms	NIL
 SF14_ENG_092	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_029	per:title	stackingms	NIL
 SF14_ENG_050	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_023	per:other_family	stackingms	NIL
 SF14_ENG_015	per:countries_of_residence	stackingms	NIL
 SF14_ENG_089	org:country_of_headquarters	stackingms	NIL
+SF14_ENG_038	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_088	org:alternate_names	stackingms	NIL
+SF14_ENG_028	per:spouse	stackingms	NIL
 SF14_ENG_034	per:cause_of_death	stackingms	NIL
 SF14_ENG_073	org:shareholders	stackingms	NIL
 SF14_ENG_072	org:member_of	stackingms	NIL
@@ -1266,12 +1365,14 @@ SF14_ENG_062	org:members	stackingms	NIL
 SF14_ENG_087	org:members	stackingms	NIL
 SF14_ENG_018	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_063	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_071	org:alternate_names	stackingms	NIL
 SF14_ENG_049	per:cause_of_death	stackingms	NIL
 SF14_ENG_018	per:countries_of_residence	stackingms	NIL
 SF14_ENG_031	per:cities_of_residence	stackingms	NIL
 SF14_ENG_066	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_028	per:other_family	stackingms	NIL
 SF14_ENG_073	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_092	org:top_members_employees	stackingms	NIL
 SF14_ENG_045	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_067	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_081	org:website	stackingms	NIL
@@ -1297,6 +1398,7 @@ SF14_ENG_057	org:date_founded	stackingms	NIL
 SF14_ENG_006	per:cause_of_death	stackingms	NIL
 SF14_ENG_055	org:member_of	stackingms	NIL
 SF14_ENG_060	org:founded_by	stackingms	NIL
+SF14_ENG_085	org:top_members_employees	stackingms	NIL
 SF14_ENG_069	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_070	org:website	stackingms	NIL
 SF14_ENG_094	org:city_of_headquarters	stackingms	NIL
@@ -1323,15 +1425,20 @@ SF14_ENG_074	org:website	stackingms	NIL
 SF14_ENG_058	org:date_dissolved	stackingms	NIL
 SF14_ENG_032	per:country_of_death	stackingms	NIL
 SF14_ENG_096	org:website	stackingms	NIL
+SF14_ENG_011	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_033	per:other_family	stackingms	NIL
 SF14_ENG_047	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_013	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_027	per:date_of_birth	stackingms	NIL
+SF14_ENG_019	per:title	stackingms	NIL
 SF14_ENG_074	org:date_founded	stackingms	NIL
 SF14_ENG_005	per:country_of_death	stackingms	NIL
 SF14_ENG_078	org:top_members_employees	stackingms	NIL
 SF14_ENG_043	per:city_of_death	stackingms	NIL
+SF14_ENG_020	per:title	stackingms	NIL
 SF14_ENG_069	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_004	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_005	per:cities_of_residence	stackingms	NIL
 SF14_ENG_042	per:country_of_death	stackingms	NIL
 SF14_ENG_061	org:website	stackingms	NIL
 SF14_ENG_079	org:date_dissolved	stackingms	NIL
@@ -1346,6 +1453,7 @@ SF14_ENG_076	org:top_members_employees	stackingms	NIL
 SF14_ENG_094	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_033	per:schools_attended	stackingms	NIL
 SF14_ENG_091	org:member_of	stackingms	NIL
+SF14_ENG_096	org:alternate_names	stackingms	NIL
 SF14_ENG_077	org:shareholders	stackingms	NIL
 SF14_ENG_082	org:shareholders	stackingms	NIL
 SF14_ENG_061	org:subsidiaries	stackingms	NIL
@@ -1372,10 +1480,12 @@ SF14_ENG_065	org:website	stackingms	NIL
 SF14_ENG_069	org:website	stackingms	NIL
 SF14_ENG_023	per:cities_of_residence	stackingms	NIL
 SF14_ENG_063	org:website	stackingms	NIL
+SF14_ENG_069	org:date_founded	stackingms	NIL
 SF14_ENG_080	org:members	stackingms	NIL
 SF14_ENG_082	org:members	stackingms	NIL
 SF14_ENG_035	per:country_of_birth	stackingms	NIL
 SF14_ENG_023	per:charges	stackingms	NIL
+SF14_ENG_025	per:charges	stackingms	NIL
 SF14_ENG_084	org:members	stackingms	NIL
 SF14_ENG_086	org:members	stackingms	NIL
 SF14_ENG_094	org:member_of	stackingms	NIL
@@ -1398,6 +1508,7 @@ SF14_ENG_064	org:founded_by	stackingms	NIL
 SF14_ENG_050	per:spouse	stackingms	NIL
 SF14_ENG_019	per:religion	stackingms	NIL
 SF14_ENG_056	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_090	org:top_members_employees	stackingms	NIL
 SF14_ENG_029	per:charges	stackingms	NIL
 SF14_ENG_061	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_010	per:spouse	stackingms	NIL
@@ -1405,50 +1516,61 @@ SF14_ENG_053	org:member_of	stackingms	NIL
 SF14_ENG_072	org:subsidiaries	stackingms	NIL
 SF14_ENG_022	per:city_of_death	stackingms	NIL
 SF14_ENG_056	org:subsidiaries	stackingms	NIL
+SF14_ENG_085	org:date_founded	stackingms	NIL
 SF14_ENG_005	per:other_family	stackingms	NIL
 SF14_ENG_048	per:date_of_death	stackingms	NIL
 SF14_ENG_039	per:children	stackingms	NIL
 SF14_ENG_021	per:other_family	stackingms	NIL
 SF14_ENG_093	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_031	per:children	stackingms	NIL
+SF14_ENG_088	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_005	per:countries_of_residence	stackingms	NIL
 SF14_ENG_042	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_058	org:member_of	stackingms	NIL
 SF14_ENG_011	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_024	per:countries_of_residence	stackingms	NIL
 SF14_ENG_046	per:city_of_birth	stackingms	NIL
 SF14_ENG_061	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_095	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_041	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_016	per:charges	stackingms	NIL
 SF14_ENG_036	per:charges	stackingms	NIL
+SF14_ENG_015	per:cities_of_residence	stackingms	NIL
 SF14_ENG_010	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_043	per:schools_attended	stackingms	NIL
 SF14_ENG_058	org:website	stackingms	NIL
 SF14_ENG_094	org:shareholders	stackingms	NIL
 SF14_ENG_031	per:spouse	stackingms	NIL
+SF14_ENG_089	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_022	per:other_family	stackingms	NIL
 SF14_ENG_025	per:origin	stackingms	NIL
+SF14_ENG_038	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_053	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_091	org:members	stackingms	NIL
 SF14_ENG_057	org:date_dissolved	stackingms	NIL
 SF14_ENG_054	org:website	stackingms	NIL
 SF14_ENG_059	org:date_dissolved	stackingms	NIL
 SF14_ENG_071	org:members	stackingms	NIL
 SF14_ENG_071	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_016	per:city_of_death	stackingms	NIL
 SF14_ENG_007	per:religion	stackingms	NIL
 SF14_ENG_094	org:top_members_employees	stackingms	NIL
 SF14_ENG_009	per:religion	stackingms	NIL
 SF14_ENG_074	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_095	org:members	stackingms	NIL
+SF14_ENG_012	per:charges	stackingms	NIL
 SF14_ENG_075	org:members	stackingms	NIL
 SF14_ENG_032	per:charges	stackingms	NIL
 SF14_ENG_021	per:cities_of_residence	stackingms	NIL
 SF14_ENG_060	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_041	per:children	stackingms	NIL
+SF14_ENG_012	per:title	stackingms	NIL
 SF14_ENG_001	per:country_of_birth	stackingms	NIL
 SF14_ENG_078	org:founded_by	stackingms	NIL
 SF14_ENG_057	org:members	stackingms	NIL
 SF14_ENG_049	per:children	stackingms	NIL
 SF14_ENG_099	org:members	stackingms	NIL
+SF14_ENG_025	per:age	stackingms	NIL
 SF14_ENG_005	per:charges	stackingms	NIL
 SF14_ENG_040	per:date_of_birth	stackingms	NIL
 SF14_ENG_047	per:charges	stackingms	NIL
@@ -1462,11 +1584,19 @@ SF14_ENG_009	per:charges	stackingms	NIL
 SF14_ENG_068	org:date_founded	stackingms	NIL
 SF14_ENG_048	per:countries_of_residence	stackingms	NIL
 SF14_ENG_003	per:date_of_death	stackingms	NIL
+SF14_ENG_044	per:age	stackingms	NIL
+SF14_ENG_033	per:cities_of_residence	stackingms	NIL
+SF14_ENG_012	per:origin	stackingms	NIL
+SF14_ENG_019	per:origin	stackingms	NIL
 SF14_ENG_013	per:date_of_birth	stackingms	NIL
+SF14_ENG_044	per:spouse	stackingms	NIL
 SF14_ENG_011	per:cause_of_death	stackingms	NIL
 SF14_ENG_029	per:country_of_birth	stackingms	NIL
 SF14_ENG_059	org:member_of	stackingms	NIL
+SF14_ENG_062	org:date_founded	stackingms	NIL
 SF14_ENG_021	per:children	stackingms	NIL
+SF14_ENG_036	per:title	stackingms	NIL
+SF14_ENG_019	per:age	stackingms	NIL
 SF14_ENG_029	per:religion	stackingms	NIL
 SF14_ENG_070	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_026	per:city_of_birth	stackingms	NIL
@@ -1482,7 +1612,9 @@ SF14_ENG_001	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_008	per:country_of_birth	stackingms	NIL
 SF14_ENG_013	per:age	stackingms	NIL
 SF14_ENG_006	per:date_of_birth	stackingms	NIL
+SF14_ENG_011	per:title	stackingms	NIL
 SF14_ENG_089	org:website	stackingms	NIL
+SF14_ENG_037	per:title	stackingms	NIL
 SF14_ENG_035	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_032	per:city_of_birth	stackingms	NIL
 SF14_ENG_085	org:website	stackingms	NIL
@@ -1499,9 +1631,11 @@ SF14_ENG_009	per:title	stackingms	NIL
 SF14_ENG_001	per:charges	stackingms	NIL
 SF14_ENG_065	org:shareholders	stackingms	NIL
 SF14_ENG_043	per:charges	stackingms	NIL
+SF14_ENG_019	per:city_of_birth	stackingms	NIL
 SF14_ENG_019	per:children	stackingms	NIL
 SF14_ENG_029	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_003	per:spouse	stackingms	NIL
+SF14_ENG_051	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_021	per:alternate_names	stackingms	NIL
 SF14_ENG_073	org:founded_by	stackingms	NIL
 SF14_ENG_030	per:countries_of_residence	stackingms	NIL
@@ -1514,10 +1648,13 @@ SF14_ENG_071	org:shareholders	stackingms	NIL
 SF14_ENG_017	per:schools_attended	stackingms	NIL
 SF14_ENG_079	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_031	per:alternate_names	stackingms	NIL
+SF14_ENG_032	per:age	stackingms	NIL
 SF14_ENG_082	org:date_dissolved	stackingms	NIL
 SF14_ENG_095	org:subsidiaries	stackingms	NIL
 SF14_ENG_011	per:origin	stackingms	NIL
+SF14_ENG_015	per:religion	stackingms	NIL
 SF14_ENG_016	per:schools_attended	stackingms	NIL
+SF14_ENG_043	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_005	per:country_of_birth	stackingms	NIL
 SF14_ENG_097	org:member_of	stackingms	NIL
 SF14_ENG_007	per:countries_of_residence	stackingms	NIL
@@ -1526,6 +1663,7 @@ SF14_ENG_066	org:shareholders	stackingms	NIL
 SF14_ENG_030	per:date_of_birth	stackingms	NIL
 SF14_ENG_046	per:origin	stackingms	NIL
 SF14_ENG_026	per:origin	stackingms	NIL
+SF14_ENG_049	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_008	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_078	org:date_dissolved	stackingms	NIL
 SF14_ENG_026	per:stateorprovince_of_death	stackingms	NIL
@@ -1537,6 +1675,7 @@ SF14_ENG_018	per:title	stackingms	NIL
 SF14_ENG_006	per:city_of_death	stackingms	NIL
 SF14_ENG_017	per:other_family	stackingms	NIL
 SF14_ENG_056	org:date_dissolved	stackingms	NIL
+SF14_ENG_056	org:date_founded	stackingms	NIL
 SF14_ENG_005	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_055	org:members	stackingms	NIL
 SF14_ENG_007	per:date_of_birth	stackingms	NIL
@@ -1549,6 +1688,9 @@ SF14_ENG_092	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_064	org:alternate_names	stackingms	NIL
 SF14_ENG_058	org:date_founded	stackingms	NIL
 SF14_ENG_069	org:founded_by	stackingms	NIL
+SF14_ENG_013	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_016	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_044	per:date_of_death	stackingms	NIL
 SF14_ENG_007	per:children	stackingms	NIL
 SF14_ENG_060	org:top_members_employees	stackingms	NIL
 SF14_ENG_015	per:alternate_names	stackingms	NIL
@@ -1556,15 +1698,19 @@ SF14_ENG_049	per:country_of_birth	stackingms	NIL
 SF14_ENG_090	org:date_founded	stackingms	NIL
 SF14_ENG_050	per:alternate_names	stackingms	NIL
 SF14_ENG_027	per:other_family	stackingms	NIL
+SF14_ENG_025	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_018	per:spouse	stackingms	NIL
 SF14_ENG_017	per:cities_of_residence	stackingms	NIL
 SF14_ENG_017	per:religion	stackingms	NIL
 SF14_ENG_013	per:religion	stackingms	NIL
 SF14_ENG_020	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_099	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_048	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_050	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_076	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_045	per:spouse	stackingms	NIL
 SF14_ENG_085	org:date_dissolved	stackingms	NIL
+SF14_ENG_019	per:country_of_birth	stackingms	NIL
 SF14_ENG_092	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_038	per:origin	stackingms	NIL
 SF14_ENG_069	org:member_of	stackingms	NIL
@@ -1576,6 +1722,7 @@ SF14_ENG_014	per:date_of_death	stackingms	NIL
 SF14_ENG_060	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_074	org:top_members_employees	stackingms	NIL
 SF14_ENG_008	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_021	per:countries_of_residence	stackingms	NIL
 SF14_ENG_090	org:subsidiaries	stackingms	NIL
 SF14_ENG_085	org:subsidiaries	stackingms	NIL
 SF14_ENG_068	org:founded_by	stackingms	NIL
@@ -1588,34 +1735,43 @@ SF14_ENG_042	per:country_of_birth	stackingms	NIL
 SF14_ENG_051	org:member_of	stackingms	NIL
 SF14_ENG_003	per:cities_of_residence	stackingms	NIL
 SF14_ENG_012	per:alternate_names	stackingms	NIL
+SF14_ENG_021	per:title	stackingms	NIL
+SF14_ENG_038	per:parents	stackingms	NIL
 SF14_ENG_046	per:other_family	stackingms	NIL
 SF14_ENG_036	per:parents	stackingms	NIL
 SF14_ENG_030	per:parents	stackingms	NIL
 SF14_ENG_048	per:cities_of_residence	stackingms	NIL
+SF14_ENG_046	per:title	stackingms	NIL
 SF14_ENG_077	org:members	stackingms	NIL
 SF14_ENG_011	per:other_family	stackingms	NIL
 SF14_ENG_082	org:founded_by	stackingms	NIL
+SF14_ENG_010	per:age	stackingms	NIL
 SF14_ENG_032	per:countries_of_residence	stackingms	NIL
 SF14_ENG_044	per:alternate_names	stackingms	NIL
 SF14_ENG_072	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_068	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_092	org:alternate_names	stackingms	NIL
 SF14_ENG_081	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_030	per:spouse	stackingms	NIL
 SF14_ENG_010	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_059	org:founded_by	stackingms	NIL
 SF14_ENG_095	org:member_of	stackingms	NIL
 SF14_ENG_020	per:statesorprovinces_of_residence	stackingms	NIL
+SF14_ENG_027	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_076	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_083	org:top_members_employees	stackingms	NIL
 SF14_ENG_015	per:city_of_birth	stackingms	NIL
+SF14_ENG_045	per:title	stackingms	NIL
 SF14_ENG_057	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_081	org:member_of	stackingms	NIL
 SF14_ENG_044	per:schools_attended	stackingms	NIL
 SF14_ENG_031	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_035	per:siblings	stackingms	NIL
 SF14_ENG_016	per:city_of_birth	stackingms	NIL
+SF14_ENG_060	org:alternate_names	stackingms	NIL
 SF14_ENG_066	org:subsidiaries	stackingms	NIL
 SF14_ENG_007	per:cause_of_death	stackingms	NIL
+SF14_ENG_096	org:date_founded	stackingms	NIL
 SF14_ENG_016	per:other_family	stackingms	NIL
 SF14_ENG_019	per:alternate_names	stackingms	NIL
 SF14_ENG_069	org:stateorprovince_of_headquarters	stackingms	NIL
@@ -1628,6 +1784,8 @@ SF14_ENG_059	org:parents	stackingms	NIL
 SF14_ENG_046	per:city_of_death	stackingms	NIL
 SF14_ENG_010	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_090	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_020	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_009	per:age	stackingms	NIL
 SF14_ENG_063	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_020	per:date_of_death	stackingms	NIL
 SF14_ENG_077	org:alternate_names	stackingms	NIL
@@ -1648,12 +1806,14 @@ SF14_ENG_034	per:alternate_names	stackingms	NIL
 SF14_ENG_045	per:date_of_death	stackingms	NIL
 SF14_ENG_017	per:date_of_birth	stackingms	NIL
 SF14_ENG_005	per:origin	stackingms	NIL
+SF14_ENG_044	per:origin	stackingms	NIL
 SF14_ENG_039	per:countries_of_residence	stackingms	NIL
 SF14_ENG_047	per:parents	stackingms	NIL
 SF14_ENG_091	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_042	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_009	per:city_of_birth	stackingms	NIL
 SF14_ENG_070	org:shareholders	stackingms	NIL
+SF14_ENG_047	per:cause_of_death	stackingms	NIL
 SF14_ENG_086	org:alternate_names	stackingms	NIL
 SF14_ENG_033	per:siblings	stackingms	NIL
 SF14_ENG_038	per:alternate_names	stackingms	NIL
@@ -1662,15 +1822,19 @@ SF14_ENG_099	org:member_of	stackingms	NIL
 SF14_ENG_095	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_094	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_045	per:children	stackingms	NIL
+SF14_ENG_050	per:parents	stackingms	NIL
 SF14_ENG_089	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_071	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_077	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_010	per:cause_of_death	stackingms	NIL
+SF14_ENG_034	per:age	stackingms	NIL
 SF14_ENG_080	org:date_founded	stackingms	NIL
 SF14_ENG_006	per:alternate_names	stackingms	NIL
 SF14_ENG_030	per:schools_attended	stackingms	NIL
 SF14_ENG_032	per:origin	stackingms	NIL
 SF14_ENG_002	per:schools_attended	stackingms	NIL
 SF14_ENG_023	per:date_of_birth	stackingms	NIL
+SF14_ENG_079	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_095	org:shareholders	stackingms	NIL
 SF14_ENG_040	per:alternate_names	stackingms	NIL
 SF14_ENG_015	per:statesorprovinces_of_residence	stackingms	NIL
@@ -1681,12 +1845,17 @@ SF14_ENG_023	per:schools_attended	stackingms	NIL
 SF14_ENG_035	per:countries_of_residence	stackingms	NIL
 SF14_ENG_005	per:city_of_death	stackingms	NIL
 SF14_ENG_041	per:country_of_birth	stackingms	NIL
+SF14_ENG_002	per:alternate_names	stackingms	NIL
+SF14_ENG_028	per:age	stackingms	NIL
 SF14_ENG_062	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_055	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_044	per:title	stackingms	NIL
 SF14_ENG_025	per:children	stackingms	NIL
+SF14_ENG_066	org:members	stackingms	NIL
+SF14_ENG_013	per:siblings	stackingms	NIL
 SF14_ENG_025	per:cause_of_death	stackingms	NIL
 SF14_ENG_076	org:shareholders	stackingms	NIL
+SF14_ENG_086	org:date_founded	stackingms	NIL
 SF14_ENG_037	per:countries_of_residence	stackingms	NIL
 SF14_ENG_051	org:date_founded	stackingms	NIL
 SF14_ENG_012	per:city_of_death	stackingms	NIL
@@ -1695,6 +1864,7 @@ SF14_ENG_016	per:date_of_birth	stackingms	NIL
 SF14_ENG_035	per:religion	stackingms	NIL
 SF14_ENG_001	per:country_of_death	stackingms	NIL
 SF14_ENG_044	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_054	org:alternate_names	stackingms	NIL
 SF14_ENG_024	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_022	per:city_of_birth	stackingms	NIL
 SF14_ENG_062	org:parents	stackingms	NIL
@@ -1719,6 +1889,7 @@ SF14_ENG_042	per:religion	stackingms	NIL
 SF14_ENG_027	per:origin	stackingms	NIL
 SF14_ENG_070	org:top_members_employees	stackingms	NIL
 SF14_ENG_031	per:city_of_birth	stackingms	NIL
+SF14_ENG_037	per:date_of_death	stackingms	NIL
 SF14_ENG_067	org:date_founded	stackingms	NIL
 SF14_ENG_033	per:alternate_names	stackingms	NIL
 SF14_ENG_022	per:countries_of_residence	stackingms	NIL
@@ -1728,20 +1899,25 @@ SF14_ENG_003	per:cause_of_death	stackingms	NIL
 SF14_ENG_024	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_079	org:founded_by	stackingms	NIL
 SF14_ENG_008	per:date_of_death	stackingms	NIL
+SF14_ENG_020	per:age	stackingms	NIL
 SF14_ENG_072	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_087	org:date_dissolved	stackingms	NIL
+SF14_ENG_055	org:top_members_employees	stackingms	NIL
 SF14_ENG_084	org:member_of	stackingms	NIL
 SF14_ENG_076	org:date_dissolved	stackingms	NIL
 SF14_ENG_068	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_070	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_091	org:subsidiaries	stackingms	NIL
 SF14_ENG_026	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_040	per:title	stackingms	NIL
 SF14_ENG_031	per:country_of_death	stackingms	NIL
 SF14_ENG_086	org:founded_by	stackingms	NIL
 SF14_ENG_020	per:schools_attended	stackingms	NIL
 SF14_ENG_033	per:date_of_death	stackingms	NIL
 SF14_ENG_033	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_022	per:title	stackingms	NIL
 SF14_ENG_097	org:parents	stackingms	NIL
+SF14_ENG_066	org:alternate_names	stackingms	NIL
 SF14_ENG_070	org:date_dissolved	stackingms	NIL
 SF14_ENG_020	per:religion	stackingms	NIL
 SF14_ENG_091	org:parents	stackingms	NIL
@@ -1749,6 +1925,7 @@ SF14_ENG_035	per:date_of_death	stackingms	NIL
 SF14_ENG_007	per:parents	stackingms	NIL
 SF14_ENG_008	per:parents	stackingms	NIL
 SF14_ENG_001	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_084	org:date_founded	stackingms	NIL
 SF14_ENG_094	org:parents	stackingms	NIL
 SF14_ENG_004	per:siblings	stackingms	NIL
 SF14_ENG_085	org:alternate_names	stackingms	NIL
@@ -1768,10 +1945,13 @@ SF14_ENG_090	org:parents	stackingms	NIL
 SF14_ENG_093	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_059	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_031	per:date_of_death	stackingms	NIL
+SF14_ENG_012	per:age	stackingms	NIL
 SF14_ENG_022	per:schools_attended	stackingms	NIL
 SF14_ENG_033	per:country_of_death	stackingms	NIL
+SF14_ENG_029	per:age	stackingms	NIL
 SF14_ENG_037	per:city_of_birth	stackingms	NIL
 SF14_ENG_071	org:subsidiaries	stackingms	NIL
+SF14_ENG_049	per:siblings	stackingms	NIL
 SF14_ENG_048	per:alternate_names	stackingms	NIL
 SF14_ENG_010	per:countries_of_residence	stackingms	NIL
 SF14_ENG_015	per:stateorprovince_of_death	stackingms	NIL
@@ -1783,11 +1963,16 @@ SF14_ENG_026	per:siblings	stackingms	NIL
 SF14_ENG_091	org:date_dissolved	stackingms	NIL
 SF14_ENG_044	per:city_of_death	stackingms	NIL
 SF14_ENG_065	org:alternate_names	stackingms	NIL
+SF14_ENG_013	per:title	stackingms	NIL
 SF14_ENG_064	org:member_of	stackingms	NIL
+SF14_ENG_026	per:title	stackingms	NIL
 SF14_ENG_099	org:date_founded	stackingms	NIL
+SF14_ENG_084	org:founded_by	stackingms	NIL
 SF14_ENG_013	per:city_of_death	stackingms	NIL
+SF14_ENG_050	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_081	org:date_dissolved	stackingms	NIL
 SF14_ENG_073	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_080	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_045	per:cities_of_residence	stackingms	NIL
 SF14_ENG_066	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_014	per:alternate_names	stackingms	NIL
@@ -1795,6 +1980,7 @@ SF14_ENG_080	org:date_dissolved	stackingms	NIL
 SF14_ENG_024	per:date_of_birth	stackingms	NIL
 SF14_ENG_040	per:origin	stackingms	NIL
 SF14_ENG_013	per:alternate_names	stackingms	NIL
+SF14_ENG_019	per:siblings	stackingms	NIL
 SF14_ENG_063	org:top_members_employees	stackingms	NIL
 SF14_ENG_015	per:siblings	stackingms	NIL
 SF14_ENG_021	per:date_of_death	stackingms	NIL
@@ -1806,7 +1992,10 @@ SF14_ENG_047	per:city_of_birth	stackingms	NIL
 SF14_ENG_041	per:countries_of_residence	stackingms	NIL
 SF14_ENG_030	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_035	per:country_of_death	stackingms	NIL
+SF14_ENG_045	per:age	stackingms	NIL
 SF14_ENG_008	per:countries_of_residence	stackingms	NIL
+SF14_ENG_019	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_038	per:schools_attended	stackingms	NIL
 SF14_ENG_097	org:date_dissolved	stackingms	NIL
 SF14_ENG_100	org:members	stackingms	NIL
 SF14_ENG_040	per:other_family	stackingms	NIL
@@ -1821,8 +2010,12 @@ SF14_ENG_040	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_019	per:parents	stackingms	NIL
 SF14_ENG_005	per:siblings	stackingms	NIL
 SF14_ENG_064	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_033	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_015	per:parents	stackingms	NIL
+SF14_ENG_047	per:title	stackingms	NIL
+SF14_ENG_001	per:siblings	stackingms	NIL
 SF14_ENG_017	per:city_of_death	stackingms	NIL
+SF14_ENG_091	org:founded_by	stackingms	NIL
 SF14_ENG_027	per:city_of_death	stackingms	NIL
 SF14_ENG_067	org:member_of	stackingms	NIL
 SF14_ENG_047	per:stateorprovince_of_death	stackingms	NIL
@@ -1841,15 +2034,19 @@ SF14_ENG_018	per:date_of_birth	stackingms	NIL
 SF14_ENG_046	per:schools_attended	stackingms	NIL
 SF14_ENG_031	per:parents	stackingms	NIL
 SF14_ENG_054	org:political_religious_affiliation	stackingms	NIL
+SF14_ENG_038	per:title	stackingms	NIL
 SF14_ENG_068	org:parents	stackingms	NIL
+SF14_ENG_023	per:date_of_death	stackingms	NIL
 SF14_ENG_057	org:top_members_employees	stackingms	NIL
 SF14_ENG_059	org:date_founded	stackingms	NIL
 SF14_ENG_067	org:parents	stackingms	NIL
 SF14_ENG_064	org:parents	stackingms	NIL
+SF14_ENG_008	per:siblings	stackingms	NIL
 SF14_ENG_050	per:date_of_death	stackingms	NIL
 SF14_ENG_034	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_037	per:cities_of_residence	stackingms	NIL
 SF14_ENG_043	per:cities_of_residence	stackingms	NIL
+SF14_ENG_061	org:top_members_employees	stackingms	NIL
 SF14_ENG_012	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_045	per:city_of_birth	stackingms	NIL
 SF14_ENG_012	per:religion	stackingms	NIL
@@ -1857,12 +2054,14 @@ SF14_ENG_023	per:city_of_death	stackingms	NIL
 SF14_ENG_026	per:spouse	stackingms	NIL
 SF14_ENG_086	org:date_dissolved	stackingms	NIL
 SF14_ENG_018	per:country_of_birth	stackingms	NIL
+SF14_ENG_068	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_086	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_041	per:parents	stackingms	NIL
 SF14_ENG_042	per:parents	stackingms	NIL
 SF14_ENG_099	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_020	per:parents	stackingms	NIL
 SF14_ENG_033	per:origin	stackingms	NIL
+SF14_ENG_086	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_098	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_003	per:origin	stackingms	NIL
 SF14_ENG_077	org:founded_by	stackingms	NIL
@@ -1872,6 +2071,7 @@ SF14_ENG_100	org:alternate_names	stackingms	NIL
 SF14_ENG_079	org:parents	stackingms	NIL
 SF14_ENG_003	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_009	per:other_family	stackingms	NIL
+SF14_ENG_078	org:parents	stackingms	NIL
 SF14_ENG_053	org:parents	stackingms	NIL
 SF14_ENG_054	org:parents	stackingms	NIL
 SF14_ENG_032	per:country_of_birth	stackingms	NIL
@@ -1896,6 +2096,7 @@ SF14_ENG_047	per:date_of_birth	stackingms	NIL
 SF14_ENG_048	per:religion	stackingms	NIL
 SF14_ENG_030	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_002	per:countries_of_residence	stackingms	NIL
+SF14_ENG_038	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_089	org:parents	stackingms	NIL
 SF14_ENG_042	per:city_of_death	stackingms	NIL
 SF14_ENG_016	per:date_of_death	stackingms	NIL
@@ -1916,6 +2117,7 @@ SF14_ENG_004	per:cause_of_death	stackingms	NIL
 SF14_ENG_093	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_098	org:top_members_employees	stackingms	NIL
 SF14_ENG_006	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_038	per:siblings	stackingms	NIL
 SF14_ENG_100	org:member_of	stackingms	NIL
 SF14_ENG_037	per:siblings	stackingms	NIL
 SF14_ENG_024	per:statesorprovinces_of_residence	stackingms	NIL
@@ -1923,12 +2125,16 @@ SF14_ENG_041	per:country_of_death	stackingms	NIL
 SF14_ENG_058	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_041	per:religion	stackingms	NIL
 SF14_ENG_022	per:country_of_birth	stackingms	NIL
+SF14_ENG_015	per:cause_of_death	stackingms	NIL
+SF14_ENG_048	per:siblings	stackingms	NIL
+SF14_ENG_012	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_084	org:shareholders	stackingms	NIL
 SF14_ENG_011	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_040	per:cause_of_death	stackingms	NIL
 SF14_ENG_027	per:siblings	stackingms	NIL
 SF14_ENG_009	per:cities_of_residence	stackingms	NIL
 SF14_ENG_018	per:parents	stackingms	NIL
+SF14_ENG_050	per:age	stackingms	NIL
 SF14_ENG_093	org:founded_by	stackingms	NIL
 SF14_ENG_026	per:date_of_birth	stackingms	NIL
 SF14_ENG_065	org:subsidiaries	stackingms	NIL
@@ -1936,14 +2142,18 @@ SF14_ENG_086	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_095	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_012	per:other_family	stackingms	NIL
 SF14_ENG_063	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_037	per:age	stackingms	NIL
 SF14_ENG_031	per:religion	stackingms	NIL
 SF14_ENG_039	per:city_of_birth	stackingms	NIL
 SF14_ENG_043	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_049	per:religion	stackingms	NIL
 SF14_ENG_043	per:spouse	stackingms	NIL
+SF14_ENG_081	org:top_members_employees	stackingms	NIL
 SF14_ENG_027	per:religion	stackingms	NIL
 SF14_ENG_013	per:spouse	stackingms	NIL
+SF14_ENG_061	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_026	per:cause_of_death	stackingms	NIL
+SF14_ENG_046	per:age	stackingms	NIL
 SF14_ENG_095	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_009	per:children	stackingms	NIL
 SF14_ENG_090	org:stateorprovince_of_headquarters	stackingms	NIL
@@ -1956,12 +2166,15 @@ SF14_ENG_028	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_007	per:title	stackingms	NIL
 SF14_ENG_034	per:city_of_death	stackingms	NIL
 SF14_ENG_020	per:cities_of_residence	stackingms	NIL
+SF14_ENG_032	per:title	stackingms	NIL
+SF14_ENG_034	per:other_family	stackingms	NIL
 SF14_ENG_089	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_033	per:date_of_birth	stackingms	NIL
 SF14_ENG_009	per:city_of_death	stackingms	NIL
 SF14_ENG_016	per:religion	stackingms	NIL
 SF14_ENG_070	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_027	per:country_of_death	stackingms	NIL
+SF14_ENG_036	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_088	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_034	per:date_of_birth	stackingms	NIL
 SF14_ENG_060	org:member_of	stackingms	NIL
@@ -1972,9 +2185,12 @@ SF14_ENG_065	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_097	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_026	per:country_of_death	stackingms	NIL
 SF14_ENG_033	per:city_of_death	stackingms	NIL
+SF14_ENG_016	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_009	per:country_of_birth	stackingms	NIL
 SF14_ENG_067	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_005	per:religion	stackingms	NIL
+SF14_ENG_016	per:origin	stackingms	NIL
+SF14_ENG_040	per:date_of_death	stackingms	NIL
 SF14_ENG_041	per:alternate_names	stackingms	NIL
 SF14_ENG_059	org:shareholders	stackingms	NIL
 SF14_ENG_014	per:other_family	stackingms	NIL
@@ -1987,12 +2203,16 @@ SF14_ENG_098	org:member_of	stackingms	NIL
 SF14_ENG_064	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_041	per:siblings	stackingms	NIL
 SF14_ENG_078	org:subsidiaries	stackingms	NIL
+SF14_ENG_005	per:title	stackingms	NIL
 SF14_ENG_078	org:city_of_headquarters	stackingms	NIL
+SF14_ENG_045	per:countries_of_residence	stackingms	NIL
 SF14_ENG_014	per:schools_attended	stackingms	NIL
 SF14_ENG_053	org:members	stackingms	NIL
 SF14_ENG_069	org:country_of_headquarters	stackingms	NIL
 SF14_ENG_087	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_037	per:date_of_birth	stackingms	NIL
+SF14_ENG_093	org:alternate_names	stackingms	NIL
+SF14_ENG_095	org:top_members_employees	stackingms	NIL
 SF14_ENG_021	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_088	org:subsidiaries	stackingms	NIL
 SF14_ENG_039	per:cities_of_residence	stackingms	NIL
@@ -2001,6 +2221,7 @@ SF14_ENG_082	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_099	org:founded_by	stackingms	NIL
 SF14_ENG_030	per:city_of_death	stackingms	NIL
 SF14_ENG_049	per:alternate_names	stackingms	NIL
+SF14_ENG_038	per:date_of_birth	stackingms	NIL
 SF14_ENG_078	org:member_of	stackingms	NIL
 SF14_ENG_056	org:members	stackingms	NIL
 SF14_ENG_100	org:date_dissolved	stackingms	NIL
@@ -2009,6 +2230,7 @@ SF14_ENG_019	per:other_family	stackingms	NIL
 SF14_ENG_012	per:schools_attended	stackingms	NIL
 SF14_ENG_030	per:country_of_birth	stackingms	NIL
 SF14_ENG_089	org:stateorprovince_of_headquarters	stackingms	NIL
+SF14_ENG_045	per:siblings	stackingms	NIL
 SF14_ENG_055	org:subsidiaries	stackingms	NIL
 SF14_ENG_069	org:shareholders	stackingms	NIL
 SF14_ENG_064	org:shareholders	stackingms	NIL
@@ -2018,37 +2240,48 @@ SF14_ENG_090	org:date_dissolved	stackingms	NIL
 SF14_ENG_018	per:date_of_death	stackingms	NIL
 SF14_ENG_003	per:age	stackingms	NIL
 SF14_ENG_022	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_025	per:spouse	stackingms	NIL
 SF14_ENG_017	per:date_of_death	stackingms	NIL
 SF14_ENG_038	per:age	stackingms	NIL
 SF14_ENG_100	org:top_members_employees	stackingms	NIL
 SF14_ENG_053	org:subsidiaries	stackingms	NIL
 SF14_ENG_050	per:city_of_birth	stackingms	NIL
 SF14_ENG_040	per:city_of_birth	stackingms	NIL
+SF14_ENG_012	per:cities_of_residence	stackingms	NIL
 SF14_ENG_029	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_074	org:shareholders	stackingms	NIL
+SF14_ENG_024	per:other_family	stackingms	NIL
 SF14_ENG_041	per:date_of_death	stackingms	NIL
 SF14_ENG_068	org:member_of	stackingms	NIL
 SF14_ENG_032	per:other_family	stackingms	NIL
 SF14_ENG_095	org:founded_by	stackingms	NIL
 SF14_ENG_002	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_042	per:employee_or_member_of	stackingms	NIL
+SF14_ENG_024	per:age	stackingms	NIL
 SF14_ENG_067	org:members	stackingms	NIL
 SF14_ENG_005	per:schools_attended	stackingms	NIL
 SF14_ENG_034	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_049	per:other_family	stackingms	NIL
 SF14_ENG_093	org:subsidiaries	stackingms	NIL
 SF14_ENG_027	per:city_of_birth	stackingms	NIL
 SF14_ENG_099	org:date_dissolved	stackingms	NIL
 SF14_ENG_079	org:political_religious_affiliation	stackingms	NIL
 SF14_ENG_080	org:member_of	stackingms	NIL
 SF14_ENG_098	org:founded_by	stackingms	NIL
+SF14_ENG_075	org:top_members_employees	stackingms	NIL
 SF14_ENG_074	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_008	per:cities_of_residence	stackingms	NIL
 SF14_ENG_099	org:shareholders	stackingms	NIL
+SF14_ENG_072	org:top_members_employees	stackingms	NIL
 SF14_ENG_100	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_048	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_050	per:children	stackingms	NIL
+SF14_ENG_061	org:parents	stackingms	NIL
+SF14_ENG_034	per:title	stackingms	NIL
 SF14_ENG_009	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_017	per:children	stackingms	NIL
 SF14_ENG_034	per:parents	stackingms	NIL
+SF14_ENG_066	org:top_members_employees	stackingms	NIL
 SF14_ENG_044	per:charges	stackingms	NIL
 SF14_ENG_056	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_012	per:siblings	stackingms	NIL
@@ -2061,8 +2294,11 @@ SF14_ENG_054	org:date_dissolved	stackingms	NIL
 SF14_ENG_016	per:country_of_birth	stackingms	NIL
 SF14_ENG_016	per:cause_of_death	stackingms	NIL
 SF14_ENG_038	per:stateorprovince_of_death	stackingms	NIL
+SF14_ENG_001	per:title	stackingms	NIL
 SF14_ENG_023	per:religion	stackingms	NIL
+SF14_ENG_045	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_016	per:stateorprovince_of_birth	stackingms	NIL
+SF14_ENG_020	per:spouse	stackingms	NIL
 SF14_ENG_023	per:siblings	stackingms	NIL
 SF14_ENG_047	per:schools_attended	stackingms	NIL
 SF14_ENG_024	per:city_of_death	stackingms	NIL
@@ -2077,6 +2313,7 @@ SF14_ENG_044	per:date_of_birth	stackingms	NIL
 SF14_ENG_059	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_041	per:city_of_birth	stackingms	NIL
 SF14_ENG_055	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_079	org:date_founded	stackingms	NIL
 SF14_ENG_018	per:city_of_death	stackingms	NIL
 SF14_ENG_040	per:country_of_death	stackingms	NIL
 SF14_ENG_072	org:city_of_headquarters	stackingms	NIL
@@ -2087,6 +2324,8 @@ SF14_ENG_027	per:date_of_death	stackingms	NIL
 SF14_ENG_006	per:children	stackingms	NIL
 SF14_ENG_072	org:stateorprovince_of_headquarters	stackingms	NIL
 SF14_ENG_051	org:website	stackingms	NIL
+SF14_ENG_094	org:alternate_names	stackingms	NIL
+SF14_ENG_018	per:charges	stackingms	NIL
 SF14_ENG_048	per:schools_attended	stackingms	NIL
 SF14_ENG_031	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_018	per:country_of_death	stackingms	NIL
@@ -2097,6 +2336,7 @@ SF14_ENG_065	org:date_dissolved	stackingms	NIL
 SF14_ENG_017	per:country_of_birth	stackingms	NIL
 SF14_ENG_030	per:charges	stackingms	NIL
 SF14_ENG_088	org:founded_by	stackingms	NIL
+SF14_ENG_045	per:origin	stackingms	NIL
 SF14_ENG_034	per:religion	stackingms	NIL
 SF14_ENG_072	org:parents	stackingms	NIL
 SF14_ENG_031	per:country_of_birth	stackingms	NIL
@@ -2104,9 +2344,11 @@ SF14_ENG_092	org:date_founded	stackingms	NIL
 SF14_ENG_026	per:city_of_death	stackingms	NIL
 SF14_ENG_048	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_060	org:number_of_employees_members	stackingms	NIL
+SF14_ENG_012	per:countries_of_residence	stackingms	NIL
 SF14_ENG_026	per:parents	stackingms	NIL
 SF14_ENG_023	per:parents	stackingms	NIL
 SF14_ENG_048	per:parents	stackingms	NIL
+SF14_ENG_084	org:alternate_names	stackingms	NIL
 SF14_ENG_083	org:number_of_employees_members	stackingms	NIL
 SF14_ENG_093	org:members	stackingms	NIL
 SF14_ENG_070	org:country_of_headquarters	stackingms	NIL
@@ -2117,6 +2359,7 @@ SF14_ENG_043	per:city_of_birth	stackingms	NIL
 SF14_ENG_083	org:subsidiaries	stackingms	NIL
 SF14_ENG_059	org:members	stackingms	NIL
 SF14_ENG_079	org:shareholders	stackingms	NIL
+SF14_ENG_075	org:alternate_names	stackingms	NIL
 SF14_ENG_013	per:schools_attended	stackingms	NIL
 SF14_ENG_002	per:employee_or_member_of	stackingms	NIL
 SF14_ENG_089	org:shareholders	stackingms	NIL
@@ -2124,8 +2367,11 @@ SF14_ENG_062	org:website	stackingms	NIL
 SF14_ENG_004	per:alternate_names	stackingms	NIL
 SF14_ENG_007	per:charges	stackingms	NIL
 SF14_ENG_054	org:shareholders	stackingms	NIL
+SF14_ENG_089	org:top_members_employees	stackingms	NIL
 SF14_ENG_064	org:date_founded	stackingms	NIL
+SF14_ENG_083	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_098	org:subsidiaries	stackingms	NIL
+SF14_ENG_091	org:city_of_headquarters	stackingms	NIL
 SF14_ENG_035	per:city_of_birth	stackingms	NIL
 SF14_ENG_032	per:date_of_death	stackingms	NIL
 SF14_ENG_039	per:other_family	stackingms	NIL
@@ -2140,6 +2386,7 @@ SF14_ENG_050	per:cities_of_residence	stackingms	NIL
 SF14_ENG_029	per:other_family	stackingms	NIL
 SF14_ENG_025	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_036	per:city_of_birth	stackingms	NIL
+SF14_ENG_041	per:age	stackingms	NIL
 SF14_ENG_019	per:date_of_death	stackingms	NIL
 SF14_ENG_045	per:religion	stackingms	NIL
 SF14_ENG_092	org:shareholders	stackingms	NIL
@@ -2151,11 +2398,14 @@ SF14_ENG_004	per:statesorprovinces_of_residence	stackingms	NIL
 SF14_ENG_054	org:date_founded	stackingms	NIL
 SF14_ENG_043	per:date_of_birth	stackingms	NIL
 SF14_ENG_037	per:spouse	stackingms	NIL
+SF14_ENG_038	per:cities_of_residence	stackingms	NIL
 SF14_ENG_089	org:date_founded	stackingms	NIL
 SF14_ENG_026	per:date_of_death	stackingms	NIL
+SF14_ENG_003	per:title	stackingms	NIL
 SF14_ENG_032	per:city_of_death	stackingms	NIL
 SF14_ENG_025	per:city_of_death	stackingms	NIL
 SF14_ENG_046	per:children	stackingms	NIL
+SF14_ENG_089	org:founded_by	stackingms	NIL
 SF14_ENG_087	org:website	stackingms	NIL
 SF14_ENG_006	per:stateorprovince_of_death	stackingms	NIL
 SF14_ENG_036	per:date_of_birth	stackingms	NIL
@@ -2163,10 +2413,14 @@ SF14_ENG_041	per:charges	stackingms	NIL
 SF14_ENG_042	per:city_of_birth	stackingms	NIL
 SF14_ENG_073	org:subsidiaries	stackingms	NIL
 SF14_ENG_004	per:other_family	stackingms	NIL
+SF14_ENG_038	per:cause_of_death	stackingms	NIL
 SF14_ENG_013	per:cities_of_residence	stackingms	NIL
+SF14_ENG_019	per:spouse	stackingms	NIL
+SF14_ENG_016	per:age	stackingms	NIL
 SF14_ENG_030	per:stateorprovince_of_birth	stackingms	NIL
 SF14_ENG_083	org:parents	stackingms	NIL
 SF14_ENG_030	per:cause_of_death	stackingms	NIL
+SF14_ENG_037	per:parents	stackingms	NIL
 SF14_ENG_012	per:parents	stackingms	NIL
 SF14_ENG_044	per:cities_of_residence	stackingms	NIL
 SF14_ENG_088	org:member_of	stackingms	NIL

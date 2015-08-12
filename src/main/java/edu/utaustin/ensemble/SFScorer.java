@@ -515,13 +515,13 @@ public class SFScorer {
 	    String jment = fields[5]; // overall judgment for the response
 	    String relationProvjment = fields[6];
 	    int eclass = 0;
-	    try {
-		eclass = Integer.parseInt(fields[7]);
-	    } catch (NumberFormatException e) {
-		System.out.println ("Warning: Invalid line in judgement file -- invalid equivalence class:");
-		System.out.println (line);
-		continue;
-	    }
+//	    try {
+//		eclass = Integer.parseInt(fields[7]);
+//	    } catch (NumberFormatException e) {
+//		System.out.println ("Warning: Invalid line in judgement file -- invalid equivalence class:");
+//		System.out.println (line);
+//		continue;
+//	    }
 	    if (eclass == 0)
 		eclass = eclass_generator++;
 
@@ -911,7 +911,36 @@ public class SFScorer {
 	"gpe:pos-from",
 	"gpe:neg-from",
 	"gpe:pos-towards",
-	"gpe:neg-towards");
+	"gpe:neg-towards",
+	
+	"org:employees_or_members",
+	"gpe:employees_or_members",
+	
+	"org:students",
+	"gpe:births_in_city",
+	"gpe:births_in_stateorprovince",
+	"gpe:births_in_country",
+	"gpe:residents_of_city",
+	"gpe:residents_of_stateorprovince",
+	"gpe:residents_of_country",
+	"gpe:deaths_in_city",
+	"gpe:deaths_in_stateorprovince",
+	"gpe:deaths_in_country",
+	
+	"per:holds_shares_in",
+	"org:holds_shares_in",
+	"gpe:holds_shares_in",
+	
+	"per:organizations_founded",
+	"org:organizations_founded",
+	"gpe:organizations_founded",
+	
+	"gpe:member_of",
+	
+	"per:top_member_employee_of",
+	"gpe:headquarters_in_city",
+	"gpe:headquarters_in_stateorprovince",
+	"gpe:headquarters_in_country");
     /*
      * given entityId:slot, classify slot as "single" or "list" valued
      */
