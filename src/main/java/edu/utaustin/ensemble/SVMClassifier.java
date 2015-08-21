@@ -33,5 +33,7 @@ public class SVMClassifier {
 			System.out.println(", predicted: " + data_test.classAttribute().value((int) pred));
 			prediction[i] = data_test.classAttribute().value((int) pred);
 		}
+//		System.out.println(prediction[0]);
+//		System.exit(1);
 	}
 }
