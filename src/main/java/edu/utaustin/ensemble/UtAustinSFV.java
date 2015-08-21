@@ -3,7 +3,7 @@ package edu.utaustin.ensemble;
 public class UtAustinSFV {
 
 	public static void main(String[] args) throws Exception {
-		Integer hop_num = 2;
+		Integer hop_num = 1;
 //		String inputDir1 = "src/main/resources/2013";
 		String inputDir1 = "src/main/resources/2014_CS/";
 //		String inputDir1 = "C:\\Users\\Alex\\eclipse_workspace\\ESFE_Alex\\src\\main\\resources\\2014_CS";
@@ -29,10 +29,11 @@ public class UtAustinSFV {
 //		String key2 = "C:\\Users\\Alex\\eclipse_workspace\\ESFE_Alex\\src\\main\\resources\\keys\\cskey_2014";
 		
 //		String query1="src/main/resources/q_2013";
-		String query1="src/main/resources/query.xml";
+		String query1="src/main/resources/query_fixed.xml";
 //		String query1="C:\\Users\\Alex\\eclipse_workspace\\ESFE_Alex\\src\\main\\resources\\query.xml";
 		
-		String query2="src/main/resources/q_2014";
+//		String query2="src/main/resources/q_2014";
+		String query2="src/main/resources/query_fixed.xml";
 		
 //		String out_file1 = "src/main/resources/2013_out";
 		String out_file1 = "src/main/resources/2014_CS_out";
@@ -82,7 +83,8 @@ public class UtAustinSFV {
 			outFile=new String("src/main/resources/2015_final_hop2");
 //			outFile=new String("C:\\Users\\Alex\\eclipse_workspace\\ESFE_Alex\\src\\main\\resources\\2015_final_hop2");
 			aliasFlag = "false";
-			
+			query1="src/main/resources/query_2_fixed.xml";
+			query2="src/main/resources/query_2_fixed.xml";
 		}
 		
 		FeatureExtractor fe1 = new FeatureExtractor(nsys);

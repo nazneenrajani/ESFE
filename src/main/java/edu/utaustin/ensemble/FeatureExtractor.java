@@ -13,6 +13,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+import org.w3c.dom.*;
+import org.xml.sax.SAXException;
+
+import javax.xml.parsers.*;
 
 /**
  * This class has implementation of feature extraction for Ensembling ESF systems. 
@@ -30,7 +36,8 @@ public class FeatureExtractor {
 	static Map<String,Map<String,Double>> prov_count;
 	static Map<String,Map<String,List<Integer>>> off_count;
 	static Map<String,Double> sys_count;
-	static Map<String,Integer> query_lines;
+//	static Map<String,Integer> query_lines;
+	static Map<String,String> query_lines;
 	static Map<String,String> fextractions_output;
 	Scorer2013[] scorers_2013;
 	Scorer2014[] scorers_2014;
@@ -53,7 +60,8 @@ public class FeatureExtractor {
 		fextractions_target = new HashMap<String,Integer>();
 		sys_count = new HashMap<String,Double>();
 		fextractions_output = new HashMap<String,String>();
-		query_lines = new HashMap<String,Integer>();
+//		query_lines = new HashMap<String,Integer>();
+		query_lines = new HashMap<String,String>();
 
 		singleValuedSlots = Arrays.asList(
 				"per:date_of_birth",
@@ -166,7 +174,180 @@ public class FeatureExtractor {
 			}
 		}
 	}
+	
+	public Integer getNumAliasesUW(String key){
+		String name = key.split("~")[2];
+//		String ent_type = key.split("~")[1].split(":")[0];
+//		Integer num_aliases = 0;
+//		if(ent_type != "per"){
+//			return 1;
+//		}
+		String fmls = "^([A-Za-z.-]+) ([A-Za-z.-]+) ([A-Za-z-]+) ([jJSs][Rr].{0,1})$";
+		Pattern fmlsr = Pattern.compile(fmls);
+		Matcher fmlsm = fmlsr.matcher(name);
+		if (fmlsm.find( )) {
+			return 3;
+	    }
+		String fml = "^([A-Za-z.-]+) ([A-Za-z.-]+) ([A-Za-z-]+)$";
+		Pattern fmlr = Pattern.compile(fml);
+		Matcher fmlm = fmlr.matcher(name);
+		if (fmlm.find( )) {
+			return 2;
+	    }
+		String fls = "^([A-Za-z.-]+) ([A-Za-z-]+) ([jJSs][Rr].{0,1})$";
+		Pattern flsr = Pattern.compile(fls);
+		Matcher flsm = flsr.matcher(name);
+		if (flsm.find( )) {
+			return 2;
+	    }
+		String fl = "^([A-Za-z.-]+) ([A-Za-z-]+)$";
+		Pattern flr = Pattern.compile(fl);
+		Matcher flm = flr.matcher(name);
+		if (flm.find( )) {
+			return 1;
+	    }
+		return 1;
+	}
 
+//	public Integer getQueryAnswerDocOverlap(String key, String prov){
+//		String name = key.split("~")[2];
+//		return 1;
+//	}
+	
+	public void buildQueryLines(String file_name){
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+		DocumentBuilder builder = null;
+		try {
+			builder = factory.newDocumentBuilder();
+		} catch (ParserConfigurationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			System.exit(1);
+		}
+		Document document = null;
+		try {
+			document = builder.parse(new File(file_name));
+		} catch (SAXException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			System.exit(1);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			System.exit(1);
+		}
+		Element root = document.getDocumentElement();
+		NodeList nList = document.getElementsByTagName("query");
+		for (int temp = 0; temp < nList.getLength(); temp++)
+		{
+		 Node node = nList.item(temp);
+		 System.out.println("");    //Just a separator
+		 if (node.getNodeType() == Node.ELEMENT_NODE)
+		 {
+		    //Print each employee's detail
+		    Element eElement = (Element) node;
+//		    System.out.println("Employee id : "    + eElement.getAttribute("id"));
+//		    System.out.println("First Name : "  + eElement.getElementsByTagName("firstName").item(0).getTextContent());
+//		    System.out.println("Last Name : "   + eElement.getElementsByTagName("lastName").item(0).getTextContent());
+//		    System.out.println("Location : "    + eElement.getElementsByTagName("location").item(0).getTextContent());
+//		    System.out.println("Employee id : "    + eElement.getAttribute("id"));
+//		    System.out.println("First Name : "  + eElement.getElementsByTagName("docid").item(0).getTextContent());
+		    query_lines.put(eElement.getAttribute("id"), eElement.getElementsByTagName("docid").item(0).getTextContent());
+		 }
+		}
+//		System.exit(1);
+	}
+	
+	public boolean findInDoc(String doc_id, Integer start, Integer end, String value){
+		String base_name = "D:\\ProjectData\\data\\";
+		String file_name;
+		String doc_style;
+		if(doc_id.startsWith("AFP") || doc_id.startsWith("APW") || doc_id.startsWith("CNA") || doc_id.startsWith("LTW") || doc_id.startsWith("NYT") || doc_id.startsWith("WPB") || doc_id.startsWith("XIN")){
+			file_name = base_name + "newswire\\" + doc_id.substring(0,14);
+			doc_style = "newswire";
+		}
+		else if(doc_id.startsWith("eng")){
+			file_name = base_name + "web\\" + doc_id.substring(0,14);
+			doc_style = "web";
+//			System.out.println(doc_id);
+//			System.exit(1);
+		}
+		else if(doc_id.startsWith("bolt")){
+			file_name = base_name + "discussion_forums\\" + doc_id.substring(0,15);
+			doc_style = "discussion_forums";
+//			System.out.println(file_name);
+//			System.out.println(doc_id);
+//			System.exit(1);
+		}
+		else{
+			file_name = null;
+			doc_style = null;
+			System.out.println("bad id");
+			System.out.println(doc_id);
+			System.exit(1);
+		}
+		
+		BufferedReader featureReader = null;
+		try {
+			featureReader = new BufferedReader (new FileReader(file_name));
+		} catch (FileNotFoundException e) {
+			System.exit(1);
+		}
+		String line;
+		String data = "";
+		boolean found_flag = false;
+		try {
+			while ((line = featureReader.readLine()) != null) {
+				if(line.startsWith("</DOC>") || line.startsWith("</doc>")){
+					found_flag = false;
+				}
+				if(found_flag){
+//					if(line.equals("")){
+//						System.out.println("yay");
+//						System.exit(1);
+//					}
+					data += line + " ";
+				}
+				if(doc_style == "newswire" && line.startsWith("<DOC id=\"" + doc_id)){
+					found_flag = true;
+					data += line + " ";
+				}
+				if(doc_style == "web" && line.startsWith("<DOCID> " + doc_id)){
+					found_flag = true;
+//					System.out.println(line);
+//					System.exit(1);
+					data += "<DOC> " + line + " ";
+//					data += "<DOC> <DOCID> ";
+				}
+				if(doc_style == "discussion_forums" && line.startsWith("<doc id=\"" + doc_id)){
+					found_flag = true;
+//					System.out.println(line);
+//					System.exit(1);
+					data += line + " ";
+//					data += "<DOC> <DOCID> ";
+				}
+			}
+//			data = data.replaceAll("\n", " ");
+//			data = data.replaceAll("<[^>]*>", "");
+//			data = data.replacePattern("<P>", "");
+//			if(doc_style.equals("discussion_forums")){
+//				System.out.println(value);
+//				System.out.println(data.substring(start,end+1));
+//				System.exit(1);
+//			}
+			if(data.substring(start,end+1).contains(value)){
+				return true;
+			}
+			return false;
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			System.exit(1);
+		}
+		
+		return true;
+	}
+	
 	public void getSlotsAndConfidences(String year){
 		Map<String,Double> mp1=null,mp2=null;
 		Map<String,Integer> t1=null,t2=null;
@@ -186,6 +367,8 @@ public class FeatureExtractor {
 				mpOut1=scorers_2014[i].mpOutput;
 				provenance = scorers_2014[i].offset_rel;
 				prov = scorers_2014[i].rel_prov;
+//				System.out.println(provenance);
+//				System.exit(1);
 			}
 			for(String mp1key : mp1.keySet()){
 				if(fextractions_confs.containsKey(mp1key)){
@@ -193,11 +376,16 @@ public class FeatureExtractor {
 				}
 				else{
 					ArrayList<Double> confs = new ArrayList<Double>();
+					System.out.println(mp1key);
+					System.out.println(getNumAliasesUW(mp1key));
+//					System.exit(1);
 					confs.add(mp1.get(mp1key));
 					int start_main = 0,end_main=0;
 					double jaccard = 0.0;
 					int ans_length=mp1key.split("~")[2].split(" ").length;
-					System.out.println(mp1key.split("~")[0]);
+//					System.out.println(mp1key);
+//					System.out.println(mp1key.split("~")[2]);
+//					System.exit(1);
 //					int query_docs = query_lines.get(mp1key.split("~")[0]);
 					if(provenance.containsKey(mp1key)&&prov_count.containsKey(mp1key)){
 						String offset_main = provenance.get(mp1key);
@@ -309,7 +497,49 @@ public class FeatureExtractor {
 						confs.add(0.0);
 					else
 						confs.add(jaccard/overlap_count);
-					//confs.add((double)ans_length);
+					
+					//feature:UWaliases
+					confs.add((double)getNumAliasesUW(mp1key));
+					
+					//feature:ans_length
+					confs.add((double)ans_length);
+					
+					//feature:num_letters
+					confs.add((double)mp1key.split("~")[2].length());
+					
+//					System.out.println(mp1key);
+//					System.out.println(query_lines.get(mp1key.split("~")[0]));
+//					System.out.println(provenance.get(mp1key));
+//					System.out.println(prov.get(mp1key));
+//					System.exit(1);
+					
+					//feature:query_doc_overlap
+					if(query_lines.get(mp1key.split("~")[0]).equals(prov.get(mp1key))){
+						confs.add(1.0);
+//						System.out.println("yay");
+//						System.exit(1);
+					}
+					else{
+						confs.add(0.0);
+					}
+//					Integer.parseInt("1234");
+					Integer start = Integer.parseInt(provenance.get(mp1key).split("-")[0]);
+					Integer end = Integer.parseInt(provenance.get(mp1key).split("-")[1]);
+//					System.out.println(provenance.get(mp1key));
+//					System.out.println(start);
+//					System.out.println(end);
+//					System.exit(1);
+//					String end = provenance.get(mp1key).split("-")[1];
+//					System.out.println(findInDoc(prov.get(mp1key), start, end, mp1key.split("~")[2]));
+					
+					//feature:value_in_provenance
+					if(findInDoc(prov.get(mp1key), start, end, mp1key.split("~")[2])){
+						confs.add(1.0);
+					}
+					else {
+						confs.add(0.0);
+					}
+					
 					//confs.add((double)query_docs);
 					fextractions_confs.put(mp1key, confs);
 				}
@@ -333,6 +563,22 @@ public class FeatureExtractor {
 		bfeatures.write("@attribute prov numeric\n");
 		bfeatures.write("@attribute num_prov numeric\n");
 		bfeatures.write("@attribute jaccard numeric\n");
+		
+		//feature:UWaliases
+		bfeatures.write("@attribute UWaliases numeric\n");
+		
+		//feature:ans_length
+		bfeatures.write("@attribute answer_length numeric\n");
+		
+		//feature:num_letters
+		bfeatures.write("@attribute num_letters numeric\n");
+		
+		//feature:query_doc_overlap
+		bfeatures.write("@attribute query_doc_overlap numeric\n");
+		
+		//feature:value_in_provenance
+		bfeatures.write("@attribute value_in_provenance numeric\n");
+		
 		bfeatures.write("@attribute num_offset numeric\n");
 //		bfeatures.write("@attribute rel {per:cities_of_residence,per:employee_or_member_of,per:age,org:date_founded,per:schools_attended,org:alternate_names,org:top_members_employees,org:member_of,org:shareholders,org:parents,org:subsidiaries,per:siblings,per:spouse,per:title,per:countries_of_residence,per:country_of_birth,per:alternate_names,per:parents,org:founded_by,org:country_of_headquarters,org:city_of_headquarters,org:date_dissolved,per:statesorprovinces_of_residence,per:stateorprovince_of_death,per:city_of_death,per:city_of_birth,per:stateorprovince_of_birth,org:members,per:children,per:cause_of_death,org:stateorprovince_of_headquarters,per:charges,org:website,per:religion,per:country_of_death,per:other_family,per:date_of_death,org:number_of_employees_members,per:date_of_birth,per:origin,org:political_religious_affiliation}\n");
 		bfeatures.write("@attribute rel {per:cities_of_residence,per:employee_or_member_of,per:age,org:date_founded,per:schools_attended,org:alternate_names,org:top_members_employees,org:member_of,org:shareholders,org:parents,org:subsidiaries,per:siblings,per:spouse,per:title,per:countries_of_residence,per:country_of_birth,per:alternate_names,per:parents,org:founded_by,org:country_of_headquarters,org:city_of_headquarters,org:date_dissolved,per:statesorprovinces_of_residence,per:stateorprovince_of_death,per:city_of_death,per:city_of_birth,per:stateorprovince_of_birth,org:members,per:children,per:cause_of_death,org:stateorprovince_of_headquarters,per:charges,org:website,per:religion,per:country_of_death,per:other_family,per:date_of_death,org:number_of_employees_members,per:date_of_birth,per:origin,org:political_religious_affiliation,org:employees_or_members,gpe:employees_or_members,org:students,gpe:births_in_city,gpe:births_in_stateorprovince,gpe:births_in_country,gpe:residents_of_city,gpe:residents_of_stateorprovince,gpe:residents_of_country,gpe:deaths_in_city,gpe:deaths_in_stateorprovince,gpe:deaths_in_country,per:holds_shares_in,org:holds_shares_in,gpe:holds_shares_in,per:organizations_founded,org:organizations_founded,gpe:organizations_founded,gpe:member_of,per:top_member_employee_of,gpe:headquarters_in_city,gpe:headquarters_in_stateorprovince,gpe:headquarters_in_country}\n");
@@ -340,6 +586,8 @@ public class FeatureExtractor {
 		bfeatures.write("\n");
 		bfeatures.write("@data\n");
 		for(String key : fextractions_confs.keySet()){
+//			System.out.println(key);
+//			System.exit(1);
 			ArrayList<Double> confs = (ArrayList<Double>) fextractions_confs.get(key);
 			//if(confs.get(confs.size()-1)<1)
 				//continue;
@@ -347,6 +595,7 @@ public class FeatureExtractor {
 			for(int i =0;i<confs.size();i++){
 				conf_str += confs.get(i)+",";
 			}
+//			System.out.println(conf_str);
 			//conf_str += confs.get(confs.size()-2);
 			conf_str = conf_str.trim();
 
@@ -505,6 +754,7 @@ public class FeatureExtractor {
 			prov_count.put(key_name, temp);
 			sys_count.put(key_name, (double)total_doc/10.0);
 		}
+		buildQueryLines(query);
 //		featureReader = new BufferedReader(new FileReader(query));
 //		String q="";
 //		if(year.equals("2013"))
